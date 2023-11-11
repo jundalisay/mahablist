@@ -4,6 +4,7 @@ description: "نشأت السوبرفيزياء من البحث الشخصي ل�
 image: /covers/2023.png
 toc: false
 weight: 100
+draft: true
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
 image: /covers/spblack.jpg
+draft: true
 ---
 
 ## Basics 

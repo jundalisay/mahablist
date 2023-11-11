@@ -83,7 +83,6 @@ paginate = 12
       banner = "/photos/flag.jpg"
       youtube = "PjQjps9DTXw"
 
-
     [languages.en.params.cards.a]
       icon = "/icons/sun.png"
       title = "Constitutional Virtues"
@@ -100,16 +99,9 @@ paginate = 12
       sub = "Economic Growth without Crisis"
       url = "/economics/barter"
 
-    # - title: "What are Constitutional Virtues?"
-    #   url: "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
-    #   img: "/photos/psych/heart.jpg"
-    #   sub: "The foundations of civilization"
-    # - img : "/photos/objects/galleon.jpg"
-    #   title : "Pigafetta"
-    #   sub : "What did the Spanish say about Maharlika?"
-    #   url: "/history/pigafetta/simplified-pigafetta"
 
 
+      ## SP = Advocacy
     [languages.en.params.tricon1]
       # heading = "The Nature of the Soul"
       title = "Advocacy and History"
@@ -128,54 +120,69 @@ paginate = 12
       title = "What is Maharlikanism?"
       sub = "A plan bring back the Philippines to its true state"
     [languages.en.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
-      img = "/graphics/physics/math.jpg"
-      title = "A New Math for a New Science"
-      sub = "Has relativity baked in"
+      url = "/history/pigafetta/simplified-pigafetta"
+      img = "/photos/objects/galleon.jpg"
+      title = "Pigafetta's Accounts"
+      sub = "What did the Spanish say about Maharlika?"
     [languages.en.params.tricon1.items.d]
-      url = "/superphysics/principles/chapter-11"
-      img = "/avatars/socrates.jpg"
-      title = "Socratic Dialectics for Solving Problems"
-      sub = "Do you have a problem? The solution already exists!"
+      url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
+      img = "/photos/psych/heart.jpg"
+      title = "What are Constitutional Virtues?"
+      sub = "The foundations of civilization"
+
+
+## mat law
     [languages.en.params.tricon2]
-      heading = "The Soul of the Physical Universe"
-      title = "Economics"
-      sub = "Fellow-Feeling Instead of Selfish-Interest"
-      youtube = "3l9J6tH4iD0"
-      icon = "/icons/spmat.png"
-      link= "/material/principles"
+      # heading = "The Soul of the Physical Universe"
+      title = "Politics and Law"
+      sub = "Philippines versus Maharlika"
+      # youtube = "3l9J6tH4iD0"
+      # icon = "/icons/spmat.png"
+      # link= "/material/principles"
     [languages.en.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
-      img= "/graphics/physics/aetherdrag.jpg"
-      title = "The Five Layers of Superphysics"
-      sub = "The Material, Radioactive, Radiant, Spatial, and Aethereal"
+      url = "/governance/federalism"
+      img= "/photos/medieval/maharlika.jpg"
+      title = "Why Federalism?"
+      sub = "Maharlika was a confederation of semi-independent states"
     [languages.en.params.tricon2.items.b]
-      url = "/material/fallacies/general-relativity/"
-      img= "/graphics/physics/general.jpg"
-      title = "The Alternative to General Relativity"
-      sub = "The Metaphysics of Spacetime"
+      url = "/history/colonialism/"
+      img= "/photos/medieval/magellan.jpg"
+      title = "How Did Colonizers Get a Foothold?"
+      sub = "How Divide and Conquer Works"
     [languages.en.params.tricon2.items.c]
-      url= "material/principles/part-2/chapter-04b/"
-      img = "/photos/physics/quasar.jpg"
-      title = "The Elastic Theory of Gravity"
-      sub = "We bring back the theory of gravity from Kepler and Descartes"
+      url= "/metaphysics/democracy-is-bad"
+      img = "/photos/psych/freedom.jpg"
+      title = "Why is Democracy Bad?"
+      sub = "Maharlika was already Democratic"
     [languages.en.params.tricon2.items.d]
-      url = "/material/solutions/fusion/"
-      img= "/photos/physics/elec.jpg"
-      title = "The Fusion Solution"
-      sub= "We propose anti-gravity from Cartesian spacetime vortices"
+      url = "/metaphysics/marcos-aquino-rivalry"
+      img = "/photos/coryv.jpg"
+      title = "The Marcos-Aquino Rivalry"
+      sub = "Conservative vs Liberal"
+
+
+    # [languages.en.params.tricon2.items.d]
+    #   url = "/material/solutions/fusion/"
+    #   img= "/photos/physics/elec.jpg"
+    #   title = "The Fusion Solution"
+    #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
+
+
+# The Fourth Year of Westernized Maharlika
+
+      ## bio econ
     [languages.en.params.tricon3]
-      heading = "The Soul of Living Entities"
-      title = "Bio Superphysics"
-      sub = "Based on the dynamics of the sentient energy"
-      youtube= "Y6YKmtqJak4"
-      icon = "/icons/spmed.png"
-      link= "/bio/principles"
-    [languages.en.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
-      img= "/photos/med/cancer2.jpg"
-      title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
-      sub = "See the wave-based alternatives to particle-based Western Medicine"
+      # heading = "The Soul of Living Entities"
+      title = "Economics"
+      sub = "Bayanihan as an Economic System"
+      # youtube= "Y6YKmtqJak4"
+      # icon = "/icons/spmed.png"
+      # link= "/bio/principles"
+    # [languages.en.params.tricon3.items.a]
+    #   url = "/bio/principles/part-04/chapter-03/"
+    #   img= "/photos/med/cancer2.jpg"
+    #   title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
+    #   sub = "See the wave-based alternatives to particle-based Western Medicine"
     [languages.en.params.tricon3.items.b]
       url = "/economics/maharlika-2050/"
       img= "/graphics/econ/eq.jpg"
@@ -193,55 +200,28 @@ paginate = 12
       sub = "How Low Morals Causes Chronic Poverty"
 
 
-
     [languages.en.params.tricon4]
-      heading = "The Soul of Society"
-      title = "Social Superphysics"
-      sub = "Fellow-Feeling Instead of Selfish-Interest"
-      youtube = "AfByl9Mywi4"
+      # heading = "The Soul of Society"
+      title = "Culture and the Arts"
+      sub = "Maharlikan Puso or Heart"
+      # youtube = "AfByl9Mywi4"
       icon = "/icons/spsoc.png"
     [languages.en.params.tricon4.items.a]
-      url = "/metaphysics/maharlika-social-cycles"
-      img = "/graphics/social/cycles.png"
-      title = "The Social Cycles of Maharlika"
-      sub = "The Fourth Year of Westernized Maharlika"
-    [languages.en.params.tricon4.items.b]
       url = "/infrastructure/climate-change"
       img = "/photos/flood.jpg"
       title = "How Maharlika Dealt with Climate Change"
       sub = "By Prediction and Mitigation"
-    [languages.en.params.tricon4.items.c]
+    [languages.en.params.tricon4.items.b]
       url = "/culture/war-adobo"
       img = "/photos/food/adobopork.jpg"
       title = "War on Adobo"
       sub = "Maharlikan Food versus Philippine Food"
-    [languages.en.params.tricon4.items.d]
+    [languages.en.params.tricon4.items.c]
       url = "/culture/war-adobo/"
       img= "/photos/basket.jpg"
       title = "Bayong Ball"
       sub = "Basketball for short people"
 
-
-
-  # title : "Politics and Law"
-  # sub : "Philippines versus Maharlika"
-  # items:
-  #   - title: "The Marcos-Aquino Rivalry"
-  #     url: "/metaphysics/marcos-aquino-rivalry"
-  #     img: "/photos/coryv.jpg"
-  #     sub : "Conservative vs Liberal"
-  #   - title : "Why Federalism?"
-  #     url: "/governance/federalism" 
-  #     img: "/photos/medieval/maharlika.jpg"
-  #     sub : "Maharlika was a confederation of semi-independent states"  
-  #   - title: "How Did Colonizers Get a Foothold?"
-  #     url: "/maharlika/history/colonialism"
-  #     img: "/photos/medieval/magellan.jpg"
-  #     sub: "How Divide and Conquer Works"
-  #   - title: "Why is Democracy Bad?"
-  #     url: "/maharlika/metaphysics/democracy-is-bad"
-  #     img: "/photos/psych/freedom.jpg"      
-  #     sub: "Maharlika was already Democratic"
 
 
   [languages.tl]
@@ -260,131 +240,136 @@ paginate = 12
         name = "/icons/heart.png"
         url = "help"
         weight = 10
+
     [languages.tl.params]
-      intro= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
-      heading = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
-      sub = "يمكن تجميع كل المعرفة في ثلاثة فئات"
-      youtube= "P4BSS1GeJwA"
-      banner = "/photos/physics/galaxy.jpg"
-    [languages.tl.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "الميتافيزيقا"
-      sub = "0-50% قابل للتكرار= متضاد"
-    [languages.tl.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "الفيزياء الفائقة"
-      sub = "51-99% قابل للتكرار= ذاتي"
-    [languages.tl.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "الفيزياء"
-      sub = "100% قابل للتكرار= موضوعي"
+      heading = "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
+      intro = "Maharlika and Maharlikanism"
+      sub = "Our main adocacies"
+      banner = "/photos/flag.jpg"
+      youtube = "PjQjps9DTXw"
+
+      ## SP = Advocacy
     [languages.tl.params.tricon1]
-      heading = "طبيعة الروح"
-      title = "كل شيء هو موجة تتجلى على شكل جسيم"
-      sub = "تتدفق الكون التناظري في تعريف حقيقي لإنشاء الواقع"
-      youtube = "dc4VNkfqs1s"
-      icon = "/icons/sp.png"
-      link= "/superphysics/principles"
+      # heading = "The Nature of the Soul"
+      title = "Advocacy and History"
+      # sub = "The analog universe streams in real-definition to create reality"
+      #youtube = "dc4VNkfqs1s"
+      #icon = "/icons/sp.png"
+      #link= "/superphysics/principles"
     [languages.tl.params.tricon1.items.a]
-      url = "/superphysics/principles/chapter-01/"
-      img= "/photos/physics/ai.jpg"
-      title = "نحن في مصفوفة!"
-      sub = "انظر كيف يمكننا أن نعيش بشكل جيد فيها"
+      url = "/history/meanings-maharlika"
+      img= "/photos/medieval/lapu.jpg"
+      title = "What is Maharlika?"
+      sub = "A small country where great things come from"
     [languages.tl.params.tricon1.items.b]
-      url = "/superphysics/principles/chapter-02"
+      url = "/advocacy/maharlikanism"
       img = "/photos/idea.jpg"
-      title = "كل شيء هو فكرة"
-      sub = "داخل العقل أو المصفوفة"
+      title = "What is Maharlikanism?"
+      sub = "A plan bring back the Philippines to its true state"
     [languages.tl.params.tricon1.items.c]
-      url = "/superphysics/principles/chapter-04b"
-      img = "/graphics/physics/math.jpg"
-      title = "رياضيات جديدة لعلم جديد"
-      sub = "ذلك الذي يحتوي على النسبية المدمجة فيه"
+      url = "/history/pigafetta/simplified-pigafetta"
+      img = "/photos/objects/galleon.jpg"
+      title = "Pigafetta's Accounts"
+      sub = "What did the Spanish say about Maharlika?"
     [languages.tl.params.tricon1.items.d]
-      url = "/superphysics/principles/chapter-11"
-      img = "/avatars/socrates.jpg"
-      title = "ما هي الجدل السقراطي؟"
-      sub = "نموذج تفكير يسمح بكلا الفيزياء والميتافيزيقا"
+      url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
+      img = "/photos/psych/heart.jpg"
+      title = "What are Constitutional Virtues?"
+      sub = "The foundations of civilization"
+
+
+## mat law
     [languages.tl.params.tricon2]
-      heading = "روح الكون المادي"
-      title = "الفيزياء الفائقة المادية"
-      sub = "مبني على أفكار ديكارت والطبقات الخمس القديمة للإغريق القدماء والهندوس والصينيين"
-      youtube = "3l9J6tH4iD0"
-      icon = "/icons/spmat.png"
-      link= "/material/principles"
+      # heading = "The Soul of the Physical Universe"
+      title = "Politics and Law"
+      sub = "Philippines versus Maharlika"
+      # youtube = "3l9J6tH4iD0"
+      # icon = "/icons/spmat.png"
+      # link= "/material/principles"
     [languages.tl.params.tricon2.items.a]
-      url = "/material/principles/intro/chapter-01"
-      img= "/graphics/physics/aetherdrag.jpg"
-      title = "الطبقات الخمس للفيزياء الفائقة"
-      sub = "المادة، الإشعاعي، المشع، الفضائي، والأثيري"
+      url = "/governance/federalism"
+      img= "/photos/medieval/maharlika.jpg"
+      title = "Why Federalism?"
+      sub = "Maharlika was a confederation of semi-independent states"
     [languages.tl.params.tricon2.items.b]
-      url = "/material/fallacies/general-relativity/"
-      img= "/graphics/physics/general.jpg"
-      title = "البديل للنظرية النسبية العامة"
-      sub = "الميتافيزيقا للفضاء الزمني"
+      url = "/history/colonialism/"
+      img= "/photos/medieval/magellan.jpg"
+      title = "How Did Colonizers Get a Foothold?"
+      sub = "How Divide and Conquer Works"
     [languages.tl.params.tricon2.items.c]
-      url= "material/principles/part-2/chapter-04b/"
-      img = "/photos/physics/quasar.jpg"
-      title = "نظرية الجاذبية المرنة"
-      sub = "نستعيد نظرية الجاذبية من كيبلر وديكارت"
+      url= "/metaphysics/democracy-is-bad"
+      img = "/photos/psych/freedom.jpg"
+      title = "Why is Democracy Bad?"
+      sub = "Maharlika was already Democratic"
     [languages.tl.params.tricon2.items.d]
-      url = "/material/solutions/fusion"
-      img= "/photos/physics/elec.jpg"
-      title = " كيفية جعل الاندماج النووي يعمل. "
-      sub = "نقترح استخدام مضاد الجاذبية لجعل الاندماج النووي يعمل."
+      url = "/metaphysics/marcos-aquino-rivalry"
+      img = "/photos/coryv.jpg"
+      title = "The Marcos-Aquino Rivalry"
+      sub = "Conservative vs Liberal"
+
+
+    # [languages.tl.params.tricon2.items.d]
+    #   url = "/material/solutions/fusion/"
+    #   img= "/photos/physics/elec.jpg"
+    #   title = "The Fusion Solution"
+    #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
+
+
+# The Fourth Year of Westernized Maharlika
+
+      ## bio econ
     [languages.tl.params.tricon3]
-      heading = "روح الكائنات الحية"
-      title = "الفيزياء الفائقة البيولوجية"
-      sub = "مبني على ديناميكية الطاقة الحسية"
-      youtube= "Y6YKmtqJak4"
-      icon = "/icons/spmed.png"
-      link= "/bio/principles"
-    [languages.tl.params.tricon3.items.a]
-      url = "/bio/principles/part-04/chapter-03/"
-      img= "/photos/med/cancer2.jpg"
-      title = "تم علاج السرطان والأمراض بواسطة الطب غير الغربي"
-      sub = "انظر إلى البدائل القائمة على الموجات للطب الغربي القائم على الجسيمات"
+      # heading = "The Soul of Living Entities"
+      title = "Economics"
+      sub = "Bayanihan as an Economic System"
+      # youtube= "Y6YKmtqJak4"
+      # icon = "/icons/spmed.png"
+      # link= "/bio/principles"
+    # [languages.tl.params.tricon3.items.a]
+    #   url = "/bio/principles/part-04/chapter-03/"
+    #   img= "/photos/med/cancer2.jpg"
+    #   title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
+    #   sub = "See the wave-based alternatives to particle-based Western Medicine"
     [languages.tl.params.tricon3.items.b]
-      url = "/bio/principles/intro/chapter-01/"
-      img= "/photos/psych/schizo.jpg"
-      title = "لديك 3 مليارات من الذوات"
-      sub = "أنت تتكون من موجة متغيرة من الذوات"
+      url = "/economics/maharlika-2050/"
+      img= "/graphics/econ/eq.jpg"
+      title = "Maharlika 2050"
+      sub = "Transition to an Advanced Country"
     [languages.tl.params.tricon3.items.c]
-      url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
-      title = "آدم سميث النباتي"
-      sub = "مؤسس دراسة الاقتصاد يفضل الخضروات، وخاصة البطاطا، على اللحوم."
+      url = "/governance/fourth-branch-government/"
+      img= "/photos/balancerock.jpg"
+      title = "The Fourth Branch of Government"
+      sub = "The Resources Department"
     [languages.tl.params.tricon3.items.d]
-      url = "/bio/solutions/covid/"
-      img= "/photos/med/covid.jpg"
-      title = "كيفية وقف الكوفيد"
-      sub = "لا يزال موجودًا! العلم محصور في صندوق وغير قادر على حله"
+      url = "/metaphysics/poor-philippines/"
+      img= "/photos/social/poverty.jpg"
+      title = "Why the Philippines is Poor"
+      sub = "How Low Morals Causes Chronic Poverty"
+
+
     [languages.tl.params.tricon4]
-      heading = "روح المجتمع"
-      title = "الفيزياء الفائقة الاجتماعية"
-      sub = "التعاطف بدلاً من النزعة الانانية"
-      youtube = "TvrMdB0Ceno"
+      # heading = "The Soul of Society"
+      title = "Culture and the Arts"
+      sub = "Maharlikan Puso or Heart"
+      # youtube = "AfByl9Mywi4"
       icon = "/icons/spsoc.png"
-    [languages.tl.params.tricon4.items.a]
-      url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/vanity.jpg"
-      title = "الأنا هي سبب المشاكل في المجتمع"
-      sub = "انظر كيف تهدف السوبرسوسيولوجيا لإصلاحها"
     [languages.tl.params.tricon4.items.b]
-      url = "/social/economics/principles/intro/chapter-03"
-      img = "/photos/grains.jpg"
-      title = "التغيرات الاقتصادية تنبع من التغيرات في موجة الرغبة الجماعية"
-      sub = "انظر كيف يمكن تصحيح عقلية القطيع"
+      url = "/infrastructure/climate-change"
+      img = "/photos/flood.jpg"
+      title = "How Maharlika Dealt with Climate Change"
+      sub = "By Prediction and Mitigation"
     [languages.tl.params.tricon4.items.c]
-      url = "/social/supersociology/principles/part-1/chapter-05"
-      img = "/photos/medieval/hitler.jpg"
-      title = "التاريخ يتكرر كموجة"
-      sub = "انظر كيف نستخدمه للتنبؤ بالأحداث مثل الانتخابات الرئاسية والانكماش الاقتصادي"
+      url = "/culture/war-adobo"
+      img = "/photos/food/adobopork.jpg"
+      title = "War on Adobo"
+      sub = "Maharlikan Food versus Philippine Food"
     [languages.tl.params.tricon4.items.d]
-      url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
-      title = "السياسة والقانون والعدالة من أجل عالم أفضل"
-      sub = "السوبراجتماعية تتعامل مع السياسة والقانون والحكم والقضايا الاجتماعية والسياسية الأخرى"
+      url = "/culture/war-adobo/"
+      img= "/photos/basket.jpg"
+      title = "Bayong Ball"
+      sub = "Basketball for short people"
+
+
 
 [params]
   logo = "/icons/sun.png"

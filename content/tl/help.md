@@ -2,6 +2,7 @@
 title: "يمكنك المساعدة عن طريق"
 description: "يمكنك المساعدة عن طريق Superphysics"
 image: /covers/solutions.png
+draft: true
 ---
 
 
