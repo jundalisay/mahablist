@@ -61,27 +61,28 @@ paginate = 12
         url = "writers"
         weight = 9
 
-    [[languages.en.menu.main]]
-        name = "/icons/question.png"
-        url = "faq"
-        weight = 10
+    # [[languages.en.menu.main]]
+    #     name = "/icons/question.png"
+    #     url = "faq"
+    #     weight = 10
 
-    [[languages.en.menu.main]]
-        name = "/icons/about.png"
-        url = "about"
-        weight = 11
+    # [[languages.en.menu.main]]
+    #     name = "/icons/about.png"
+    #     url = "about"
+    #     weight = 11
 
-    [[languages.en.menu.main]]
-        name = "/icons/heart.png"
-        url = "help"
-        weight = 12
+    # [[languages.en.menu.main]]
+    #     name = "/icons/heart.png"
+    #     url = "help"
+    #     weight = 12
 
     [languages.en.params]
       heading = "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
       intro = "Maharlika and Maharlikanism"
       sub = "Our main adocacies"
       banner = "/photos/flag.jpg"
-      youtube = "PjQjps9DTXw"
+      youtube = "DUQVO9ZCCg8"
+      # youtube = "PjQjps9DTXw"
 
     [languages.en.params.cards.a]
       icon = "/icons/sun.png"
@@ -107,7 +108,7 @@ paginate = 12
       title = "Advocacy and History"
       # sub = "The analog universe streams in real-definition to create reality"
       #youtube = "dc4VNkfqs1s"
-      #icon = "/icons/sp.png"
+      icon = "/icons/shield.png"
       #link= "/superphysics/principles"
     [languages.en.params.tricon1.items.a]
       url = "/history/meanings-maharlika"
@@ -137,7 +138,7 @@ paginate = 12
       title = "Politics and Law"
       sub = "Philippines versus Maharlika"
       # youtube = "3l9J6tH4iD0"
-      # icon = "/icons/spmat.png"
+      icon = "/icons/quill.png"
       # link= "/material/principles"
     [languages.en.params.tricon2.items.a]
       url = "/governance/federalism"
@@ -176,7 +177,7 @@ paginate = 12
       title = "Economics"
       sub = "Bayanihan as an Economic System"
       # youtube= "Y6YKmtqJak4"
-      # icon = "/icons/spmed.png"
+      icon = "/icons/help.png"
       # link= "/bio/principles"
     # [languages.en.params.tricon3.items.a]
     #   url = "/bio/principles/part-04/chapter-03/"
@@ -205,7 +206,7 @@ paginate = 12
       title = "Culture and the Arts"
       sub = "Maharlikan Puso or Heart"
       # youtube = "AfByl9Mywi4"
-      icon = "/icons/spsoc.png"
+      icon = "/icons/pen.png"
     [languages.en.params.tricon4.items.a]
       url = "/infrastructure/climate-change"
       img = "/photos/flood.jpg"
@@ -242,71 +243,66 @@ paginate = 12
         weight = 10
 
     [languages.tl.params]
-      heading = "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
-      intro = "Maharlika and Maharlikanism"
-      sub = "Our main adocacies"
+      heading = "Isang adbokasiya upang baguhin ang pangalan, kultura, at sosyo-ekonomiya ng Pilipinas tungo sa Maharlika"
+      intro = "Maharlika at Maharlikanism"
+      sub = "Ang aming adbokasya"
       banner = "/photos/flag.jpg"
       youtube = "PjQjps9DTXw"
 
-      ## SP = Advocacy
     [languages.tl.params.tricon1]
       # heading = "The Nature of the Soul"
-      title = "Advocacy and History"
-      # sub = "The analog universe streams in real-definition to create reality"
-      #youtube = "dc4VNkfqs1s"
-      #icon = "/icons/sp.png"
-      #link= "/superphysics/principles"
+      title = "Adbokasiya at Kasaysayan"
+      sub = "Mga pangunahing adbokasiya namin"
+      
     [languages.tl.params.tricon1.items.a]
       url = "/history/meanings-maharlika"
       img= "/photos/medieval/lapu.jpg"
-      title = "What is Maharlika?"
-      sub = "A small country where great things come from"
+      title = "Ano ang Maharlika?"
+      sub = "Isang maliit na bansa kung saan nagmumula ang mga dakilang bagay."
     [languages.tl.params.tricon1.items.b]
       url = "/advocacy/maharlikanism"
       img = "/photos/idea.jpg"
-      title = "What is Maharlikanism?"
-      sub = "A plan bring back the Philippines to its true state"
+      title = "Ano ang Maharlikanism?"
+      sub = "Isang plano upang ibalik ang Pilipinas sa kanyang tunay na kalagayan."
     [languages.tl.params.tricon1.items.c]
       url = "/history/pigafetta/simplified-pigafetta"
       img = "/photos/objects/galleon.jpg"
-      title = "Pigafetta's Accounts"
-      sub = "What did the Spanish say about Maharlika?"
+      title = "Ang mga Kuwento ni Pigafetta"
+      sub = "Ano ang sinabi ng mga Kastila tungkol sa Maharlika?"
     [languages.tl.params.tricon1.items.d]
       url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
       img = "/photos/psych/heart.jpg"
-      title = "What are Constitutional Virtues?"
-      sub = "The foundations of civilization"
+      title = "Konstitusyonal na Birtud"
+      sub = "Isang Bagong, Sistemikong Moral na Batayan"
 
 
-## mat law
     [languages.tl.params.tricon2]
       # heading = "The Soul of the Physical Universe"
-      title = "Politics and Law"
-      sub = "Philippines versus Maharlika"
+      title = "Politika at Batas"
+      sub = "Pilipinas kontra Maharlika"
       # youtube = "3l9J6tH4iD0"
       # icon = "/icons/spmat.png"
       # link= "/material/principles"
     [languages.tl.params.tricon2.items.a]
       url = "/governance/federalism"
       img= "/photos/medieval/maharlika.jpg"
-      title = "Why Federalism?"
-      sub = "Maharlika was a confederation of semi-independent states"
+      title = "Bakit Pederalismo?"
+      sub = "Ang Maharlika ay isang konfederasyon ng mga semi-independiyenteng estado" 
     [languages.tl.params.tricon2.items.b]
       url = "/history/colonialism/"
       img= "/photos/medieval/magellan.jpg"
-      title = "How Did Colonizers Get a Foothold?"
-      sub = "How Divide and Conquer Works"
+      title = "Paano Nakakuha ng Tunguhing Pook ang mga Kolonisador?"
+      sub = "Paano Gumagana ang Paghihiwa-hiwalay at Pananakop"
     [languages.tl.params.tricon2.items.c]
       url= "/metaphysics/democracy-is-bad"
       img = "/photos/psych/freedom.jpg"
-      title = "Why is Democracy Bad?"
-      sub = "Maharlika was already Democratic"
+      title = "Bakit Masama ang Demokrasya?"
+      sub = "Ang Maharlika ay mayroon nang Demokrasya"
     [languages.tl.params.tricon2.items.d]
       url = "/metaphysics/marcos-aquino-rivalry"
       img = "/photos/coryv.jpg"
-      title = "The Marcos-Aquino Rivalry"
-      sub = "Conservative vs Liberal"
-
+      title = "Ang Rivalidad ni Marcos at Aquino"
+      sub = "Konserbatibo vs Liberal"
 
     # [languages.tl.params.tricon2.items.d]
     #   url = "/material/solutions/fusion/"
@@ -314,60 +310,52 @@ paginate = 12
     #   title = "The Fusion Solution"
     #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
 
-
-# The Fourth Year of Westernized Maharlika
-
-      ## bio econ
     [languages.tl.params.tricon3]
       # heading = "The Soul of Living Entities"
-      title = "Economics"
-      sub = "Bayanihan as an Economic System"
-      # youtube= "Y6YKmtqJak4"
-      # icon = "/icons/spmed.png"
-      # link= "/bio/principles"
-    # [languages.tl.params.tricon3.items.a]
-    #   url = "/bio/principles/part-04/chapter-03/"
-    #   img= "/photos/med/cancer2.jpg"
-    #   title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
-    #   sub = "See the wave-based alternatives to particle-based Western Medicine"
+      title = "Ekonomiyang Maharlikano"
+      sub = "Bayanihan bilang isang Sistemang Pang-ekonomiya"
+
+# Ano ang Konstitusyonal na mga Birtud? Ang mga pundasyon ng sibilisasyon.
+# Pederalismo na may Bicameral Parliament. Demokrasya na may Pokus.
+# Bayanihan Economy. Ekonomikong Pag-unlad nang walang Krisis.
+
     [languages.tl.params.tricon3.items.b]
       url = "/economics/maharlika-2050/"
       img= "/graphics/econ/eq.jpg"
       title = "Maharlika 2050"
-      sub = "Transition to an Advanced Country"
+      sub = "Transisyon patungo sa isang Maunlad na Bansa"
     [languages.tl.params.tricon3.items.c]
       url = "/governance/fourth-branch-government/"
       img= "/photos/balancerock.jpg"
-      title = "The Fourth Branch of Government"
-      sub = "The Resources Department"
+      title = "Ang Ika-apat na Sangay ng Pamahalaan"
+      sub = "Ang Kagawaran ng mga Yaman"
     [languages.tl.params.tricon3.items.d]
       url = "/metaphysics/poor-philippines/"
       img= "/photos/social/poverty.jpg"
-      title = "Why the Philippines is Poor"
-      sub = "How Low Morals Causes Chronic Poverty"
-
+      title = "Bakit Mahirap ang Pilipinas"
+      sub = "Paano ang Mababang Moral ay Sanhi ng Kronicong Kahirapan"
 
     [languages.tl.params.tricon4]
       # heading = "The Soul of Society"
-      title = "Culture and the Arts"
-      sub = "Maharlikan Puso or Heart"
+      title = "Kultura at Sining"
+      sub = "Maharlikang Puso o Puso"
       # youtube = "AfByl9Mywi4"
       icon = "/icons/spsoc.png"
     [languages.tl.params.tricon4.items.b]
       url = "/infrastructure/climate-change"
       img = "/photos/flood.jpg"
-      title = "How Maharlika Dealt with Climate Change"
-      sub = "By Prediction and Mitigation"
+      title = "Paano Nakipaglaban ang Maharlika sa Pagbabago ng Klima"
+      sub = "Sa pamamagitan ng Pagsusuri at Pag-aantabay"
     [languages.tl.params.tricon4.items.c]
       url = "/culture/war-adobo"
       img = "/photos/food/adobopork.jpg"
-      title = "War on Adobo"
-      sub = "Maharlikan Food versus Philippine Food"
+      title = "Laban Kontra Adobo"
+      sub = "Maharlikang Pagkain kontra Pagkain ng Pilipinas"
     [languages.tl.params.tricon4.items.d]
       url = "/culture/war-adobo/"
       img= "/photos/basket.jpg"
       title = "Bayong Ball"
-      sub = "Basketball for short people"
+      sub = "Basketball para sa mga taong maikli"
 
 
 
@@ -451,17 +439,14 @@ paginate = 12
   description = "We're building a new science and new systems for a better reality"
 
   [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/superphysicsorg"
-  [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://www.youtube.com/@superphysicsorg"
+    url = "https://www.youtube.com/@maharlikanism"
   # [[params.homepage.social.icons]]
   #   website = "instagram"
   #   url = "https://instagram.com"
   [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://www.facebook.com/superphysicsorg"
+    url = "https://www.facebook.com/maharlikanism"
   # [[params.homepage.social.icons]]
   #   website = "behance"
   #   url = "https://behance.net"

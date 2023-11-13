@@ -1,16 +1,18 @@
 ---
-title: "The 3 Meanings of Maharlika"
-heading: "A small country where great things come from"
-date: 2021-07-07
+title: "Ano ang Ibig Sabihin ng Maharlika?"
+heading: ""
+date: 2023-11-10
 image: /photos/idea.jpg
-description: "Maharlika was the name of the pre-colonial confederation based in the city of Manila in the Philippines"
+description: "Ang Maharlika ay isang pre-colonial na confederation na naka base sa Maynila"
 author: Juan
 icon: /icons/sun.png
 ---
 
 
-Maharlika was the name of the pre-colonial confederation based in the city of **Manila**. 
-- *Maha* means great, such as *Maha*rashtra and *Maha*bharata. It adds r when it is conjugated
+Ang Maharlika ang pangalan ng pre-colonial na confederation na nakabase sa **Maynila**. 
+- Ang ibig sabihin ng *maha* ay malaki kagaya ng *Maha*rashtra at *Maha*bharata.
+  - May dagdag ito na `r` kapag kinakabit sa ibang salita.
+
 - *Lika* either means:
   - creation from Tagalog "likha" which in Sanskrit means to draw or paint
   - cup in Sanskrit, made up of la (cup) ika (small, feminine)*
