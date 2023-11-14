@@ -1,3 +1,37 @@
+Translate to Bisaya:
+Ang Maharlika ang pangalan ng pre-colonial na confederation na nakabase sa Maynila. Ang ibig sabihin ng "maha" ay malaki kagaya ng *Maha*rashtra at *Maha*bharata. May dagdag ito na `r` kapag kinakabit sa ibang salita.
+Ang ibig sabihin ng *lika* ay "paglikha". Ito ay mula sa Tagalog na saliting "likha". Sa Sanskrit, ang "likha" ay ang pagpinta
+Sa Sanskirt, ang lika ay "maliit na tasa". Ito ay binubuo ng "la" (tasa) at "ika" (maliit, pambabae)
+
+Translate to Tagalog:
+One creation myth in the Philippines is of the supreme god Bathala creating Maharlikans from heated clay. This human clay ended up "just right", not being too dark like the Negritos nor too light as the East Asians.
+Therefore, Maharlika means "a country where great things come from, or are created from." 
+This is very different from the meaning of the "Philippines" which means the owned property of King Philip II of Spain. 
+The attributes of King Philip II were neither creative nor noble.
+In order to upgrade the qualities and attributes of the Philippines, we must to abandon the name "Philippines". This leads us to ask: Why did the original Maharlika name have different meanings? 
+Meaning 1: Maharlika as Nobility.
+The Heart of Maharlika was Manila which was then known by the Song dynasty as "Ma-yi", from their pronunciation of "May-nila".
+"Nila" means blue in Sanskrit which was used by the nobility to distinguish themselves from the rest of society. It follows that Manila meant "place of the nobility". This led to Maharlika being understood nowadays as noble or blue-blooded.
+Meaning 2: Maharlika as Freedom.
+The nobility was protected and served by free men known as "timawas", leading to a class system. This class system then led to another interpretation of Maharlika to mean freedom. This confuses it with the Indonesian word *merdeka*.
+A Confederation Based on Trade.
+Based on the definition of Chinese historian Chau-ju-kua, the immediate territory of Maharlika included:
+However, there was no single constitution as all the cities were independent:
+This is common in archipelagos. For example, the Greeks were divided into city-states -- The Spartans fought the Athenians and the Athenians fought the Thebans. Yet, we call them all as 'the Greeks'. We never take Sparta nor Athens by themselves in isolation, just as we never regard Mindanao in isolation from Luzon, though both can be isolated from Thailand or Papua New Guinea. 
+The nobilities were then unified by confederation which allowed each area to have freedom in politics, economics, and culture. Maharlika was part of a regional trade network that included:
+The "Filipinas" was the resource-rich region that the Spanish wanted, of which Maharlika was a part. Therefore, Filipinas, Philippines, or Pilipinas are all abstract ideas of the Spanish which really expressed their ambition and greed** instead of anything about the nations in Southeast Asia. 
+In other words, "The Philippines" has nothing to do with Filipinos, but everything to do with the Spanish desire for precious stones, gold, silver, minerals, fruit, grain, animals, and spices. So being "proud to be Pinoy" means being proud for your **land** having precious metals, bananas, coconuts, tuna, etc. and not really for you having skills, morals, or intellect.  
+Meaning 3: Maharlika as Warrior Class
+Some natives also had greed and ambition for those resources and consequently resorted to piracy. For protection, Maharlika relied on a military force from Luzon (the island where Manila is). 
+In contrast to the militaries of China, Japan, Thailand, and Malaysia which were used for conquest, the military of Maharlika (and Indonesia) was for defense, until Manila was conquered by Brunei. This military force was sourced from the free men or timawas, just like in any civilization*. 
+This then led to the word Maharlika being associated with the warrior class. It's similar to the word "Spartan" being associated with tough soldiers, meagre lifestyle, simplicity, low-maintenance, etc. 
+These gave us 3 different meanings of Maharlika 
+The Real Historical Meaning of Maharlika.
+From the original Sanskrit, we can fix those confused meanings and settle on our earlier definition as a small country where great things come from. 
+Among those great things are nobility, freedom, and martial skill that is not forced, but naturally developed. In this way, our definition fairly absorbs those 3 definitions.
+
+
+
 Transalte to Nihongo:
 Superphysics: Wave-based Scientific Paradigm. A New Science Based on Metaphysics and Socratic Dialectics
 All Knowledge Can Be Grouped Into Three: 

@@ -43,10 +43,14 @@ The Heart of Maharlika was Manila which was then known by the Song dynasty as Ma
 
 The nobility was then protected and served by free men known as timawas, leading to a class system:
 
-1. Nobility (Maginoo meaning "having dignity", led by a datu who wore blue and gold)
-2. Free men (Timawa meaning "in peace or freedom" who wore blue )
-3. Indentured servants (Namamahay or "within the house")
-4. Slaves (Sagigilid or "on the sides" who were naked "bahag")
+Maharlikan | Notes | Indian
+--- | --- | ---
+Nobility or Maginoo | Means "having dignity", led by a datu who wore blue and gold | Vaeshya 
+Free men or Maharlika or Timawa | Means "in peace or freedom", wore blue | Ksattriya
+Babaylan | Priest caste | Brahmin
+Indentured servants or Aliping Namamahay | Means slaves within the house | Shudras
+Slaves or Aliping Sagigilid | Means slaves "on the sides" who were naked with only "bahag" | Shudras
+
 
 **This class system then led to another interpretation of Maharlika to mean freedom**, which confuses it with the Indonesian word *merdeka*.
 

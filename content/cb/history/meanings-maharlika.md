@@ -6,22 +6,33 @@ image: /photos/idea.jpg
 description: "Ang Maharlika ay isang pre-colonial na confederation na naka base sa Maynila"
 author: Juan
 icon: /icons/sun.png
+draft: true
 ---
 
 
-Ang Maharlika ang pangalan ng pre-colonial na confederation na nakabase sa **Maynila**. 
-- Ang ibig sabihin ng *maha* ay malaki kagaya ng *Maha*rashtra at *Maha*bharata.
-  - May dagdag ito na `r` kapag kinakabit sa ibang salita.
+Usa ka mito sa Pilipinas mao ang labing taas nga dios nga si Bathala nga nagbuhat sa mga Maharlikan gikan sa mainit nga lutuon. Kini nga lutuon nga tawo mipasiugda nga "maayo lang," dili kaayo itom pareho sa mga Negrito ug dili usab kaayo kahayag ingon sa mga Silangang Asyano.
 
-- Ang ibig sabihin ng *lika* ay:
-  - paglikha mula sa Tagalog na saliting "likha"
-    - Sa Sanskrit, ang "likha" ay ang pagpinta
-  - "maliit na tasa" sa Sanskrit. Ito ay binubuo ng:
-    - "la" (tasa)
-    - "ika" (maliit, pambabae)*
+Tungod niini, ang Maharlika nagpasabot og "usa ka nasud diin nagagikan, o gibuhat gikan ang mga dakilang butang." Kini kaayo ka lainon gikan sa kahulugan sa "Pilipinas" nga nagpasabot sa nasud nga giangkon sa Hari Philip II sa Espanya. Ang mga kinaiyahan ni Haring Philip II wala nahimong likas o labaw.
+
+Aron mapalambo ang mga kinaiyahan ug kinaiya sa Pilipinas, kinahanglan nga tangtangon nato ang ngalan nga "Pilipinas." Kini nagtuyok kanato og pangutana: Ngano aduna'y lainlaing kahulugan ang orihinal nga ngalan sa Maharlika?
+
+Kahulugan 1: Maharlika isip Kagikanan sa Kahitas-an.
+Ang Kasingkasing sa Maharlika mao ang Manila nga sa una nailhan sa Dinastiyang Song isip "Ma-yi," gikan sa ilang pagsulti sa "May-nila." "Nila" nagpasabot og asul sa Sanskrit nga gigamit sa mga kanasodnon aron mahimong paagi sa kaugalingon gikan sa uban sa katilingban. Sumala niini, ang Manila nagpasabot og "lugar sa kahitasan." Mao nga naukaban sa karon ang Maharlika isip dungog o ubang mata sa dugo nga asul.
+
+Kahulugan 2: Maharlika isip Kalayaan.
+Ang mga dungog giprotektahan ug gisilbihan sa mga malaya nga tinawo nga nailhan nga "timawas," nga miresulta sa usa ka sistema sa mga igsuon. Kini nga sistema sa igsuon mihatag og lainlaing interpretasyon sa Maharlika nga nagpasabot og kalayaan. Kini nagkuyanap sa pulos sa pulong nga Indonesian nga merdeka.
+
+Confederation Batok sa Kalakal.
+Sumala sa kahulugan sa Tsino nga istoryador nga si Chau-ju-kua, ang bisan unsang lugara nga gilangkuban sa Maharlika naglakip sa:
+Apan, wala'y usa ka balaud nga nagsugod sa tanang siyudad kay sila tanan independiyente:
+
+Kini kanunay sa mga arkipelago. Pananglit, gipartihan ang mga Griyego sa lungsod-estado - Ang mga Spartans nagdumog sa mga Atenian ug ang mga Atenian nagdumog sa mga Thebans. Apan tawgon nila silang tanan nga 'mga Griyego'. Wala nato gikuha ang Sparta o Athens sa ilang kaugalingon, pareho nga way kita sa Mindanao gikan sa Luzon, bisan pa nga sila duha mahimong ilisolado gikan sa Thailand o Papua New Guinea.
+
+Ang mga dungog gilain pinaagi sa konpederasyon nga nagtugot sa matag lugar nga naay kalayaan sa pulitika, ekonomiya, ug kultura. Ang Maharlika usa ka bahin sa usa ka rehiyonal nga network sa kalakal nga gilangkuban sa:
+Ang "Filipinas" mao ang rehiyong may daghang yaman nga gikinahanglan sa mga Kastila, diin ang Maharlika usa ka bahin. Busa, ang Filipinas, Philippines, o Pilipinas tanan mga sayop nga mga ideya sa mga Kastila nga matuod nga nagpahayag sa ilang ambisyon ug kasakiman** gikan sa bisan unsa mahitungod sa mga nasud
 
 
-> *Ang pottery ay isa sa sinaunang industriya ng tao. Among the creation myths of the country is the supreme god Bathala creating Maharlikans from heated clay which ended up "just right", not being too dark like the Negritos nor too light as the East Asians.
+Among the creation myths of the country is the supreme god Bathala creating Maharlikans from heated clay which ended up "just right", not being too dark like the Negritos nor too light as the East Asians.
 
 
 Therefore, Maharlika means "a country where great things come from or are created." 
