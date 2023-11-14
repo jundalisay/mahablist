@@ -13,12 +13,15 @@ Ang Maharlika ang pangalan ng pre-colonial na confederation na nakabase sa **May
 - Ang ibig sabihin ng *maha* ay malaki kagaya ng *Maha*rashtra at *Maha*bharata.
   - May dagdag ito na `r` kapag kinakabit sa ibang salita.
 
-- *Lika* either means:
-  - creation from Tagalog "likha" which in Sanskrit means to draw or paint
-  - cup in Sanskrit, made up of la (cup) ika (small, feminine)*
+- Ang ibig sabihin ng *lika* ay:
+  - paglikha mula sa Tagalog na saliting "likha"
+    - Sa Sanskrit, ang "likha" ay ang pagpinta
+  - "maliit na tasa" sa Sanskrit. Ito ay binubuo ng:
+    - "la" (tasa)
+    - "ika" (maliit, pambabae)*
 
 
-> *Pottery was among the first industries of mankind. Among the creation myths of the country is the supreme god Bathala creating Maharlikans from heated clay which ended up "just right", not being too dark like the Negritos nor too light as the East Asians.
+> *Ang pottery ay isa sa sinaunang industriya ng tao. Among the creation myths of the country is the supreme god Bathala creating Maharlikans from heated clay which ended up "just right", not being too dark like the Negritos nor too light as the East Asians.
 
 
 Therefore, Maharlika means "a country where great things come from or are created." 
