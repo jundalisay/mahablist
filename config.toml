@@ -161,29 +161,12 @@ paginate = 12
       title = "The Marcos-Aquino Rivalry"
       sub = "Conservative vs Liberal"
 
-
-    # [languages.en.params.tricon2.items.d]
-    #   url = "/material/solutions/fusion/"
-    #   img= "/photos/physics/elec.jpg"
-    #   title = "The Fusion Solution"
-    #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
-
-
-# The Fourth Year of Westernized Maharlika
-
       ## bio econ
     [languages.en.params.tricon3]
-      # heading = "The Soul of Living Entities"
       title = "Economics"
       sub = "Bayanihan as an Economic System"
       # youtube= "Y6YKmtqJak4"
       icon = "/icons/help.png"
-      # link= "/bio/principles"
-    # [languages.en.params.tricon3.items.a]
-    #   url = "/bio/principles/part-04/chapter-03/"
-    #   img= "/photos/med/cancer2.jpg"
-    #   title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
-    #   sub = "See the wave-based alternatives to particle-based Western Medicine"
     [languages.en.params.tricon3.items.b]
       url = "/economics/maharlika-2050/"
       img= "/graphics/econ/eq.jpg"
@@ -229,14 +212,14 @@ paginate = 12
     contentDir = "content/tl"
     weight = 2
     languageName = "Tagalog"
-    [[languages.tl.menu.main]]
-        name = "/icons/question.png"
-        url = "faq"
-        weight = 8
-    [[languages.tl.menu.main]]
-        name = "/icons/about.png"
-        url = "about"
-        weight = 9
+    # [[languages.tl.menu.main]]
+    #     name = "/icons/question.png"
+    #     url = "faq"
+    #     weight = 8
+    # [[languages.tl.menu.main]]
+    #     name = "/icons/about.png"
+    #     url = "about"
+    #     weight = 9
     [[languages.tl.menu.main]]
         name = "/icons/heart.png"
         url = "help"
@@ -247,15 +230,14 @@ paginate = 12
       intro = "Maharlika at Maharlikanism"
       sub = "Ang aming adbokasya"
       banner = "/photos/flag.jpg"
-      youtube = "PjQjps9DTXw"
+      youtube = "9a99XWmTG0k"
 
     [languages.tl.params.tricon1]
-      # heading = "The Nature of the Soul"
       title = "Adbokasiya at Kasaysayan"
       sub = "Mga pangunahing adbokasiya namin"
-      
+      icon = "/icons/shield.png"
     [languages.tl.params.tricon1.items.a]
-      url = "/history/meanings-maharlika"
+      url = "/tl/history/meanings-maharlika"
       img= "/photos/medieval/lapu.jpg"
       title = "Ano ang Maharlika?"
       sub = "Isang maliit na bansa kung saan nagmumula ang mga dakilang bagay."
@@ -275,13 +257,12 @@ paginate = 12
       title = "Konstitusyonal na Birtud"
       sub = "Isang Bagong, Sistemikong Moral na Batayan"
 
-
     [languages.tl.params.tricon2]
       # heading = "The Soul of the Physical Universe"
       title = "Politika at Batas"
       sub = "Pilipinas kontra Maharlika"
       # youtube = "3l9J6tH4iD0"
-      # icon = "/icons/spmat.png"
+      icon = "/icons/quill.png"
       # link= "/material/principles"
     [languages.tl.params.tricon2.items.a]
       url = "/governance/federalism"
@@ -304,17 +285,11 @@ paginate = 12
       title = "Ang Rivalidad ni Marcos at Aquino"
       sub = "Konserbatibo vs Liberal"
 
-    # [languages.tl.params.tricon2.items.d]
-    #   url = "/material/solutions/fusion/"
-    #   img= "/photos/physics/elec.jpg"
-    #   title = "The Fusion Solution"
-    #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
-
     [languages.tl.params.tricon3]
       # heading = "The Soul of Living Entities"
       title = "Ekonomiyang Maharlikano"
       sub = "Bayanihan bilang isang Sistemang Pang-ekonomiya"
-
+      icon = "/icons/economic.png"
 # Ano ang Konstitusyonal na mga Birtud? Ang mga pundasyon ng sibilisasyon.
 # Pederalismo na may Bicameral Parliament. Demokrasya na may Pokus.
 # Bayanihan Economy. Ekonomikong Pag-unlad nang walang Krisis.
@@ -340,7 +315,7 @@ paginate = 12
       title = "Kultura at Sining"
       sub = "Maharlikang Puso o Puso"
       # youtube = "AfByl9Mywi4"
-      icon = "/icons/spsoc.png"
+      icon = "/icons/pen.png"
     [languages.tl.params.tricon4.items.b]
       url = "/infrastructure/climate-change"
       img = "/photos/flood.jpg"
@@ -356,8 +331,6 @@ paginate = 12
       img= "/photos/basket.jpg"
       title = "Bayong Ball"
       sub = "Basketball para sa mga taong maikli"
-
-
 
 [params]
   logo = "/icons/sun.png"

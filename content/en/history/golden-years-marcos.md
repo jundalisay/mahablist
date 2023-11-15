@@ -5,17 +5,8 @@ description: "Were there really golden years during the Marcos Era? Could it hav
 image: "/photos/marcos2.jpg"
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /maharlika/articles/golden-age-marcos/
-  /articles/golden-age-marcos/
-  /articles/history/golden-years-marcos/
-
 ---
 
-<!-- linkb: "articles/metaphysics/democracy-is-bad"
-linkbtext: "Democracy-is-bad"
-linkf: "articles/politicians/gloria-arroyo"
-linkftext: "Gloria Arroyo: Evil Genius" -->
 
 A major topic of political debate in the Philippines that often crops up every election period is whether there were Golden Years during the Marcos era. 
 - Liberals, left-wingers, and members of the mainstream religion say that there were no Golden Years because Marcos was a corrupt tyrant who impoverished the nation
@@ -288,5 +279,5 @@ Both the Marcos and Aquino regimes did nothing or very little towards a solid in
 
 
 {{< me d="May 2022" >}}
-The long term measures are in [Maharlika 2050](/maharlika/economics/maharlika-2050) 
+The long term measures are in [Maharlika 2050](/economics/maharlika-2050) 
 {{< /me >}}

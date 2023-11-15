@@ -63,7 +63,7 @@ This classification is more systematic than the left, far-left, centrist, right,
 
 The leaders should match the cycle that their society is in, so that their policies would match and create happiness. Civil war and recessions occur when the leaders are out of sync with their society. 
 
-According to [our social cycles model](https://superphysics.org/social/supersociology/principles/law-social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. 
+According to [our social cycles model](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader.
 
 
 > *The rough equivalent of Cambridge Analytica to this is its psychographics and OCEAN model, just as Myers-Briggs has its E N T J classification. Our Bio Superphysics uses a 10-aspect model which we still have to name
@@ -93,6 +93,6 @@ Unlike the other dictator called Marcos, Duterte did not impose martial law arbi
 
 While his political policies are dharmic, his economic policies are quite adharmic <!--  and are somewhat troubling -->.
 
-In another post, we will explain [Dutertenomics](/maharlika/economics/dutertenomics)
+In another post, we will explain [Dutertenomics](/economics/dutertenomics)
 <!-- The True Nature  of everyone and everything is different.  -->
 

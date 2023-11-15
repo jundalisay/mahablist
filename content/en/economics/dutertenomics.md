@@ -13,7 +13,7 @@ icon: /icons/sun.png
 
 During his presidential campaign Duterte promised to give a comfortable life to the poor. However, the unstoppable rising prices* from 2020 directly contradict this promise since it makes life less comfortable.
 
-> *This inflation can be most easily reduced by a global ban on cryptocurreny mining and NFTs as explained [here](/social/economics/solutions/2020-inflation) 
+> *This inflation can be most easily reduced by a global ban on cryptocurreny mining and NFTs as explained [here](https://www.superphysics.org/social/economics/solutions/2020-inflation) 
 
 
 
@@ -27,7 +27,7 @@ To see where the contradiction occurs, let's dissect Dutertenomics. Its most pro
 
 These policies are consistent with the Keynesian doctrine, except for "Pantawid Pamilya" which is Conditional Cash Transfer (CCT), a modified version of Universal Basic Income (UBI) implemented by former President Noynoy Aquino.
 
-CCT is a neoliberal policy* that [helps development banks](/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. 
+CCT is a neoliberal policy* that [helps development banks](https://www.superphysics.org/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. 
 
 > *The non-neoliberal, non-liberal financial way of poverty alleviation is called microfinance. The conservative way is welfare either by the state via social security or by religion via thites or forced donations.
 
@@ -244,8 +244,8 @@ In fact, the pandemic has proven that nationalized basics* via semi-state-owned 
 Only the close coordination of various essential services can create a society strong enough to weather the shocks from global warming caused by the selfish <!-- winner-take-all --> behavior of market forces. This close coordination can only be done by the government which is supposed to have the public interest. 
 
 
-{{< q a="smith" >}}
-<p>Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam..The post office is properly a mercantile project. Its capital is not very big. There is no mystery in the business. The returns are certain and immediate.</p>
+{{< q a="Adam-Smith" >}}
+Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam..The post office is properly a mercantile project. Its capital is not very big. There is no mystery in the business. The returns are certain and immediate.
 <cite>The Wealth of Nations, Book 5</cite>
 {{< /q >}}
 

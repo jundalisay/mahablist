@@ -55,14 +55,14 @@ Neo-liberal or Merchant | Vaesya caste | Socratic oligarchs | Third Estate | Sha
 The leadership of society shifts from one class into another, creating a known pattern or cycle*, similar to the seasons of spring, summer, fall, and winter. Spring always changes into summer and never goes back into winter. 
 
 
-> *Our [Four Laws of Value](https://superphysics.org/social/economics/principles/four-laws-of-value) then explain that these classes and cycles are based on the four laws of thermodynamics where desire is the 'energy' of society. Both physical heat and emotional heat come from the aethereal layer. These ideas then form our proposed paradigm called Supersociology
+> *Our [Four Laws of Value](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/) then explain that these classes and cycles are based on the four laws of thermodynamics where desire is the 'energy' of society. Both physical heat and emotional heat come from the aethereal layer. These ideas then form our proposed paradigm called Supersociology
 
 
 ### Conservative vs Liberal
 
 These four natural classes can be reduced to two as Conservative vs Liberal, as explained by moral philosopher Adam Smith:
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by the rich. 
 <cite>The Simple Wealth of Nations, Book 5</cite>
 {{< /q >}}

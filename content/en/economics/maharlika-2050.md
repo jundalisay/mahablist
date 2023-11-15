@@ -4,7 +4,7 @@ heading: "Maharlikanism's Alternative to Ambisyon 2040"
 date: 2021-07-27
 weight: 6
 image: "/graphics/bayanihan.jpg"
-description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050 to industrialize the Philippines into Maharlika"
+description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050"
 author: Juan
 icon: "/flags/ph.png"
 aliases:
@@ -18,12 +18,12 @@ Current Cycle | Years per Cycle | Social Age
 Positive Warrior  | 12 | 5.5
 
 
-The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
+The [previous post](/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
 
 
 ## Society Subsidizing the Rich
 
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
 
 
 Class | Socratic Name | Hindu Name | Example
@@ -114,9 +114,9 @@ The populations whom the Spaniards have conyerted to Catholicism have lost all o
 
 <!--  and Maharlikan Constitutional Virtues -->
 
-To convert a nation of slaves and employees into a respectable one of productive pioneers and innovators (and [be relevant on the world stage](https://www.youtube.com/watch?v=589s6x9pjhU), we change the identity of the Philippines into [Maharlika](/maharlikanism). 
+To convert a nation of slaves and employees into a respectable one of productive pioneers and innovators (and [be relevant on the world stage](https://www.youtube.com/watch?v=589s6x9pjhU), we change the identity of the Philippines into [Maharlika](/advocacy/maharlikanism). 
 
-The very first step is to establish a moral system based on [constitutional virtues](/social/supersociology/solutions/constitutional-virtues) chosen by the people. We suggest 8 virtues:
+The very first step is to establish a moral system based on [constitutional virtues](https://www.superphysics.org/social/supersociology/solutions/constitutional-virtues) chosen by the people. We suggest 8 virtues:
 
 1. Katotohanan (Truth)
 2. Puso (Heart)
@@ -213,7 +213,7 @@ In 2006, Mrs Arroyo issued an executive order legalising the informal private "a
 
 This contributes to rent-seeking and low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
 
-Maharlikanism suggests a [federation of 27 states](/maharlika/governance/federalism) that will spur and maximize the productivity of the people. 
+Maharlikanism suggests a [federation of 27 states](/governance/federalism) that will spur and maximize the productivity of the people. 
 
 The federal government will then be in charge of semi-state owned corporations that will build dams, power generation, and transportation infrastructure for the states. This is because large inftrastructure often crosses state lines.  
 - For example, each province should have its own powerplant run by the federal government with 10-90 to 30-70 equity split, with the larger belonging to investors who will provide the equipment and expertise. This will replace the centralized baseload configuration of the energy sector into a more diversified and independent one that can use solar, wind, geothermal, or hydro.   
@@ -225,7 +225,7 @@ The federal government will then be in charge of semi-state owned corporations t
 
 The current political system has the president and vice president elected by popular vote. Such a system favors popular people instead of skilled ones.
 
-To solve this, we propose a [modified parliamentary system](/research/hume/essays/part-2/16) where:
+To solve this, we propose a [modified parliamentary system](https://www.superphysics.org/research/hume/essays/part-2/16) where:
 - the people elect local representatives
 - those representatives elect 27 senators, as well as parliamentarians for the National Assembly
 - those senators choose a president and a vice president from among themselves
@@ -245,7 +245,7 @@ The  representatives will have all the legislative power. The votes on legislati
 
 The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
 
-A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
+A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](https://www.superphysics.org/social/economics/principles/part-2/chapter-01b/). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
 
 > *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
@@ -256,11 +256,10 @@ A grain-based system will make the economy secure from inflation and financial c
 
 <!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
 
-According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
+According to [historian Chau Ju Kua](https://www.superphysics.org/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
 
-{{< q >}}
+{{< q a="Chau Ju Kua" c="12th century Pre-colonial Philippines" >}}
 The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return. They then repay the foreign merchants with what they had obtained for the goods.
-<cite>Chau Ju Kua [12th century Pre-colonial Philippines]</cite>
 {{< /q >}}
 
 
@@ -274,7 +273,6 @@ In Schumacher's system, the exports of Country A to Country B is paid for by the
 
 {{< q a="EF-Schumacher" >}}
 Compared to free international convertibility of currencies, Pool Clearing offers one outstanding advantage: its inner mechanism overcomes temporary disequilibrium situations in international exchange by expansion instead of restriction.
-<cite>EF Schumacher</cite>
 {{< /q >}}
 
 <!-- in the pool act as one country   A competing with Country B, the foreign trade of both countries are unified as to act like local trade. In this way, a country can   -->
@@ -340,7 +338,7 @@ At the moment, the Philippines only has Western ideas and systems as a consequen
 
 <!-- This goes hand in hand with the open religious policy.  -->
 
-{{< q a="smith">}}
+{{< q a="Adam-Smith" >}}
 The state should make the study of science and philosophy universal
 <cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
@@ -359,7 +357,7 @@ This low productivity is in turn is caused by overpopulation:
 This overpopulation is caused by the Roman Catholic system*. The Philippine ban on population control leads to an oversupply of Filipinos which lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
 
 
-{{< q a="mont" >}}
+{{< q a="Montesquieu" >}}
 The Romans therefore had laws against abortion but did not follow them.
 <cite>The Spirit of the Laws, Book 23, Chapter 22</cite>
 {{< /q >}}
@@ -369,7 +367,7 @@ The Romans therefore had laws against abortion but did not follow them.
 
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" >}}
 Laws can never regulate wages properly, though it has often pretended to do so.
 <cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
 {{< /q >}}
@@ -390,9 +388,9 @@ The government can barter food and other non-monetary items in exchange for the 
 - raise land values
 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
-<cite>David Hume, Essay 11: The Populousness Of Ancient Nations</cite>
+<cite>Essay 11: The Populousness Of Ancient Nations</cite>
 {{< /q >}}
 
 <!--  General Goal: Sustainable Industrialization -->

@@ -7,17 +7,7 @@ description: "The Philippines fell from its Industrialization Path because of Di
 image: "/photos/objects/regicide.jpg"
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /articles/economics/how-philippine-industry-failed/
-  /articles/how-philippine-industry-failed/
-  /articles/economics/how-industry-failed/
 ---
-
-<!-- linkb: "articles/politicians/gloria-arroyo"
-linkbtext: "Gloria Arroyo: Evil Genius"
-linkf: "articles/economics/natural-industries"
-linkftext: "Natural Industries"
--->
 
 
 Like most countries, the Philippines was hard hit by Covid-19 both in 2020 and 2021. However, unlike wealthier countries, it had a severe lack of vaccines, medicines, and personal protective equipment (PPEs) needed to fight the pandemic.
@@ -25,7 +15,7 @@ Like most countries, the Philippines was hard hit by Covid-19 both in 2020 and 2
 - The production of vaccines is the domain of biotech which India, South Korea, and Singapore are good at. 
 - The production of PPEs, on the other hand, are done by manufacturing, which China, Taiwan, and even Vietnam excel in.
 
-The Philippines has no strength in either and so its Covid response was deficient. This was made worse by [the overpopulation problem caused by the Church](/maharlika/history/problems-philippines).       
+The Philippines has no strength in either and so its Covid response was deficient. This was made worse by [the overpopulation problem caused by the Church](/history/problems-philippines).       
 
 Because of the lack of local biotech and manufacturing, the country had to literally beg for supplies from China and the US. When begging got nowhere, the government turned to bashing rich countries, even if it was really the fault of Philippine policy in the first place. 
 
@@ -68,9 +58,8 @@ Like Cuba, the Philippines did fight back, but through legal means instead of th
 However, this was reversed by Diosdado Macapagal from Pampanga which is an agricultural province. He [removed the controls on the Peso and some imports](https://www.officialgazette.gov.ph/1962/01/22/diosdado-macapagal-first-state-of-the-nation-address-january-22-1962/) which killed off the industrialization drive. Instead of exporting manufactured goods and electronics, the country exported cash crops first, as sugar and tobacco, and then the people themselves as Overseas Filipino Workers (OFWs). 
 
 
-{{< q a="/avatars/macapagal.jpg" alt="Diosdado Macapagal" >}}
-<p>Yesterday, January 21, 1962 I approved a unanimous decision by the Monetary Board of the Central Bank, embodied in its Circular No. 133, to institute the first large measure of genuine decontrol in our foreign exchange transactions<!--  since the establishment of exchange controls over a dozen years ago -->. This is both in fulfillment of our electoral pledge to the Filipino people and in compliance with the provision of the law requiring decontrol by 1963. In an atmosphere of freedom, our entrepreneurs and citizens may now achieve prosperity for themselves</p> <!--  and the country not through artificial advantage but through their talent, integrity and industry. -->
-<cite>Diosdado Macapagal</cite>
+{{< q a="Diosdado-Macapagal" >}}
+Yesterday, January 21, 1962 I approved a unanimous decision by the Monetary Board of the Central Bank, embodied in its Circular No. 133, to institute the first large measure of genuine decontrol in our foreign exchange transactions<!--  since the establishment of exchange controls over a dozen years ago -->. This is both in fulfillment of our electoral pledge to the Filipino people and in compliance with the provision of the law requiring decontrol by 1963. In an atmosphere of freedom, our entrepreneurs and citizens may now achieve prosperity for themselves
 {{< /q >}}
 
 
@@ -163,7 +152,7 @@ Mahalikanism is anti-imperial and pro-self-reliance. We suggest the following po
 
 ### Tweak the Foreign Investment Act
 
-A glaring flaw in the [FSA Amendment](/maharlika/laws/foreign-investment-act/section-1) is the lack of environmental representation. The DENR is not part of the regulatory body (IIPC). Only DTI, NEDA, and business chambers are the significant regulators. The DENR should be added and have the same powers as NEDA. 
+A glaring flaw in the [FSA Amendment](/laws/foreign-investment-act/section-1) is the lack of environmental representation. The DENR is not part of the regulatory body (IIPC). Only DTI, NEDA, and business chambers are the significant regulators. The DENR should be added and have the same powers as NEDA. 
 
 The FSA should be used to create semi-state owned corporations that will build dams, power generation, and transportation infrastructure. 
 
@@ -182,9 +171,8 @@ The Europeans achieved technological and economic advancement after their Protes
 
 Japan and China were keen to see the weakeness subtly imposed by Catholicism and took steps to ban it from their lands. Japan was successful in this, allowing it to keep its high intellecual levels, leading to its industrialization during the Meiji restoration. 
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 The Roman Catholic religion is more expensive than ours, with their train of priests and friars and is less tolerating than ours, even without its natural attendants of inquisitors, stakes, and gibbets.
-<cite>David Hume</cite>
 {{< /q >}}
 
 

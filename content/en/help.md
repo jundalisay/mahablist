@@ -1,27 +1,22 @@
 ---
-title: "How to Help"
-description: "How to Help Superphysics"
+title: "How to Help Realize Maharlika"
+description: "How to Help Realize Maharlika"
 image: /covers/solutions.png
-draft: true
 ---
 
-We're building a new science and new systems for a better reality.
+
+We're pushing for a better Philippines!
 
 You can help by:
 - sharing our posts
+- liking our [facebook page](https://www.facebook.com/maharlikanism) 
 - adding links to our posts or books on your website
-  - [https://pantrypoints.com](https://pantrypoints.com). This is the practical aspect
-  - [https://superphysics.org](https://superphysics.org). This is the theoretical aspect
-- going to [pantrypoints.com](https://pantrypoints.com) and submitting a contact form under 'Join the Change'
-- cliching the ads on this website, to give us a tiny ad revenue
-- referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
-  - Hanoi
-  - Ho Chi Minh City
-  - Metro Manila
-  - Kuala Lumpur
-- joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
+  - [https://www.facebook.com/maharlikanism](https://www.facebook.com/maharlikanism)
+  - [https://maharlika.superphysics.org](https://maharlika.superphysics.org)
+- clicking the ads on this website, to give us a tiny ad revenue
+- referring organizations, universities, or volunteers who might be interested. 
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
-- submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
+- submitting articles related to Maharlika
 - donating cash or in kind
 
 {{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
