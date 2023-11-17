@@ -362,7 +362,7 @@ paginate = 12
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 | Pantrypoints Technologies"
-  favicon = "/icons/sp30.png"
+  favicon = "/icons/sun.png"
 
   ascentColor = "bg-blue-100"
 
@@ -387,11 +387,10 @@ paginate = 12
 # Comments system
 [params.comments]
   system = "giscus"
-
-  repo="jundalisay/superblist"
-  repo-id="R_kgDOKk--Tw"
+  repo="jundalisay/mahablist"
+  repo-id="R_kgDOKr7Ahw"
   category="General"
-  category-id="DIC_kwDOKk--T84CacDf"
+  category-id="DIC_kwDOKr7Ah84CbBaG"
   mapping="pathname"
   strict="0"
   reactions-enabled="1"
@@ -400,6 +399,7 @@ paginate = 12
   theme="preferred_color_scheme"
   lang="en"
   crossorigin="anonymous"
+
 
   # Options for utterances, exclude hyphens
   # repo = ""
