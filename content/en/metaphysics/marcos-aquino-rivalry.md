@@ -287,14 +287,14 @@ Nature, as global warming, then brought back conservatist Duterte in 2016 by a l
 With these, we can now classify Philippine politics accordingly:
 
 
-_ | Conservative faction | Liberal faction | Representative</th>
---- | --- | ---
+_ | Conservative faction | Liberal faction 
+--- | --- | --- 
 Party Classification according to Supersociology | PDP-Laban, Nacionalista, NPC, KBL, Aksyon Demokratiko, People's Reform Party, LDP, MNLF | Liberal Party, Lakas-CMD, Lakas-NUCD, MILF
 Party Classification according to Left-Right wing | Nacionalista, NPC, KBL, People's Reform Party, LDP, MILF, MNLF | PDP-Laban, Liberal Party, Lakas-CMD, Lakas-NUCD, Aksyon Demokratiko
 Political Names according to Supersociology | Ferdinand Marcos, Rodrigo Duterte, Manny Pacquiao, Cynthia Villar, Gibo Teodoro | Diosdado Macapagal, Gloria-Arroyo, FPJ, Grace Poe, Erap, Joma Sison
 
 
-## Families Follow the Three Generation Rule
+## Families Follow the Three (or Four) Generation Rule
 
 The decline of the Lopezes proves a metaphysical maxim that [power and wealth do not last beyond three generations](https://jakartaglobe.id/business/family-businesses-the-curse-of-the-third-generation). The Marcos-Lopez Rivalry was replaced by Marcos-Aquino which itself will likely be replaced by Duterte-someliberal. A Marcos-Duterte tandem will help transfer the baton from the Marcos family to the Duterte family to keep conservatism alive beyond three generations. 
 

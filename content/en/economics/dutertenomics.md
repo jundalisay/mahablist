@@ -244,9 +244,8 @@ In fact, the pandemic has proven that nationalized basics* via semi-state-owned 
 Only the close coordination of various essential services can create a society strong enough to weather the shocks from global warming caused by the selfish <!-- winner-take-all --> behavior of market forces. This close coordination can only be done by the government which is supposed to have the public interest. 
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations, Book 5" >}}
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam..The post office is properly a mercantile project. Its capital is not very big. There is no mystery in the business. The returns are certain and immediate.
-<cite>The Wealth of Nations, Book 5</cite>
 {{< /q >}}
 
 

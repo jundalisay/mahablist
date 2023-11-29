@@ -56,7 +56,10 @@ If the Philippines is to stay under Spain, its politics must change as demanded 
 {{< /q >}}
 
 
-Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs (Overseas Felipe-no Worker, where the 'King Felipes' are the wealthy foreigners)
+Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs* which are modern-day slaves or *aliping namamahay* such as lowly-paid maids who live in their foreign master's condo. 
+
+> *Overseas Felipe-no Worker, where the 'King Felipes' are the wealthy foreigners
+
 
 On the other hand, Katagalugans (River People) or Maharlikans (free people) have Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
 
@@ -68,4 +71,15 @@ Tagalogs or Maharlikans make their own policies for the benefit of its own peopl
 - Incompetent government officials
 - Abuses of authority
 
-The above were among the list of complaints of Katagalugans against the Spanish, as written in 'Mga daklang cautosan' of January 1892.
+
+The above were among the list of complaints of Katagalugans against the Spanish, as written in 'Mga daklang cautosan' of January 1892. Our proposed solutions are:
+
+Problem | Solution
+--- | ---
+High taxes | [Barter Trade Taxation](https://pantrypoints/services/tax)
+Trade monopolies | Adam Smith's Free Trade via [Multilateral Clearing](https://www.superphysics.org/research/schumacher/pool-clearing/part-1)
+Profiteering | A [government-run Lazada or Shopee](https://pantrypoints/trisactions/city) that allows direct taxation 
+Lack of representation | [Federal system](/governance/federalism)
+Incompetent government officials | [Maharlikan Academy](/governance/maharlikan-academy)
+Abuses of authority | [Maharlikan Academy](/governance/maharlikan-academy)
+

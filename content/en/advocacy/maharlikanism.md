@@ -19,8 +19,7 @@ This is very different from the rigid, dogmatic, monopolistic, nondemocratic, an
 
 The solutions are derived from two groups:
 - Socrates, David Hume, Buddhism, Taoism: These handle the metaphysical aspects of society, such as mentality and morals, religion, tradition, and *soft power*
-- Adam Smith, Montesquieu: These handle the physical aspects  of society, such as law, government, economics and *hard power*
-
+- Adam Smith, Ibn-Khaldun, Montesquieu: These handle the physical aspects  of society, such as law, government, economics and *hard power*
 
 
 According to Socrates, the problems in societies are largely due to humans going beyond the natural balance of things. For example, extreme wealth and poverty can lead to a society's ruin:

@@ -14,7 +14,7 @@ On August 11, 2021, the Philippine Commission on Audit (COA) revealed that ₱67
 
 In the end, the Senate found a small company which used its connections to close a deal worth billions of pesos. This is what agents and brokers do anyway*. The best thing that the Sentate can do is to chase for tax payments. 
 
-> *Our proposed [Pool Clearing system](/research/schumacher/pool-clearing) aims to make middle men and brokers obsolete by connecting the buyer and seller directly. 
+> *Our proposed [Pool Clearing system](https://www.superphysics.org/research/schumacher/pool-clearing/part-1/) aims to make middle men and brokers obsolete by connecting the buyer and seller directly. 
 
 
 
@@ -123,7 +123,7 @@ This will ensure that every budget is realistic and every project or service can
 
 The 18th century British Exchequer is similar to the Resources branch: 
 
-{{< q a="smith" >}}
-<p>The present revenues consist chiefly of.. the funds mortgaged for paying off the public debts. Examples are taxes on salt, beer, malt, etc., levied by the officers of custom and excise. These cannot be touched by the king as they are paid to the court of exchequer. The exchequer is generally managed by people of interest and integrity. They have their offices for life and are quite independent of the king. They can pay only to those appointed by parliament.</p>
-<cite>The Simple lectures on jurisprudence</cite>
+{{< q a="Adam-Smith" c="The Lectures on Jurisprudence Simplified" >}}
+The present revenues consist chiefly of.. the funds mortgaged for paying off the public debts. Examples are taxes on salt, beer, malt, etc., levied by the officers of custom and excise. These cannot be touched by the king as they are paid to the court of exchequer. The exchequer is generally managed by people of interest and integrity. They have their offices for life and are quite independent of the king. They can pay only to those appointed by parliament.
 {{< /q >}}
+

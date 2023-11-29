@@ -52,15 +52,14 @@ The profit maximization doctrine of the merchant class stops growth. And so the 
 
 Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
 
-{{< q a="smith" >}}
+
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
 
 
-{{< q a="smith" >}}
+{{< q a="Adan-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
-<cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
 {{< /q >}}
 
 
@@ -68,15 +67,14 @@ In her present condition, Great Britain resembles an unwholesome body with some 
 Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
 
 
-{{< q a="smith" >}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
 This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
 
 However, it raises more money than the old practice of anticipation.
-<br><br>
+
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /q >}}
 
 
@@ -104,10 +102,10 @@ These 2 phenomena stifle the natives (populist class) who end up as:
 This is very different from advanced countries which are the employers of those OFWs and call center agents. 
 
 
-{{< q >}}
+{{< q a="Jagor" c="Travels in the Philippines Simplified 1869" >}}
 The populations whom the Spaniards have conyerted to Catholicism have lost all originality, all sense of nationality.
-<cite>Jagor, Travels in the Philippines Simplified 1869</cite>
 {{< /q >}}
+
 
 
 ## The Maharlikan Plan 
@@ -160,9 +158,8 @@ An open religious policy can:
 - increase productivity by replacing formal prayer (with its overhead) with informal ideation 
 
 
-{{< q a="smith">}}
+{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
 The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
-<cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
 
 
@@ -195,9 +192,9 @@ No Filipino shall establish laws on primogeniture, nor institutions restrictive 
 
 The Philippines currently has a unitary form of government because it followed administrative system established by the Spanish. The problem is that Maharlika was originally a confederation and without a single ruler. This is because **it is made up of many small islands and not a single land mass**.  
 
-{{< q >}}
+{{< q a="Chau Ju Kua" >}}
 The Visayan settlements are along the coast are not connected by common jurisdiction. They are all independent.
-<cite>Chau Ju Kua, Chun Fan Chi Simplified</cite>
+<cite>Chun Fan Chi Simplified</cite>
 {{< /q >}}
 
 <!--  [12th century Pre-colonial Philippines] -->
@@ -232,9 +229,9 @@ To solve this, we propose a [modified parliamentary system](https://www.superphy
 
 In this way, the representatives and senators can choose from themselves who would have the actual skills to lead the country.
 
-{{< q a="hume" >}}
+{{< q a="David-Hume" >}}
 The  representatives will have all the legislative power. The votes on legislation will be decided by the majority. If these are equal, the senate will vote on it.
-<cite>David Hume, Idea of a Perfect Commonwealth</cite>
+<cite>Idea of a Perfect Commonwealth</cite>
 {{< /q >}}
 
 
@@ -243,7 +240,7 @@ The  representatives will have all the legislative power. The votes on legislati
 
 <!-- The Chinese traders respected the barter economy of Maharlika for its fidelity.    -->
 
-The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
+The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](https://www.superphysics.org/social/economics/principles/part-1/chapter-03b/).
 
 A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](https://www.superphysics.org/social/economics/principles/part-2/chapter-01b/). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
@@ -411,7 +408,7 @@ According to Adam Smith, public utilities should be state owned because these se
 
 ## How It Can Be Implemeted in 5 Phases
 
-The plan can be implemented in phases, just like what we suggested for [Afghanistan](/social/cycles/afghanistan) 
+The plan can be implemented in phases, just like what we suggested for [Afghanistan](https://www.superphysics.org/social/cycles/afghanistan) 
 
 
 Phase: Year | Policy 
