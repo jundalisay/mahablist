@@ -6,11 +6,16 @@ description: "Of all her foreign possessions, the Philippines has cost Spain the
 author: Commander Charles Wilkes
 ---
 
+
 ## Magellan
 
 Of all her foreign possessions, the Philippines has cost Spain the least blood and labor. 
 
-The honor of their discovery belongs to Magellan whose name is associated with the straits at the southern extremity of the American continent, but which has no memorial in these islands. Now that the glory which he gained by being the first to penetrate from the Atlantic to the Pacific, has been in some measure obliterated by the disuse of those straits by navigators, it would seem due to his memory that some spot among these islands should be set apart to commemorate the name of, him who made them known to Europe. This would be but common justice to the discoverer of a region which has been a source of so much honor and profit to the Spanish nation, who opened the vast expanse of the Pacific to the fleets of Europe, and who died fighting to secure the benefits of his enterprise to his king and country.
+The honor of their discovery belongs to Magellan whose name is associated with the straits at the southern extremity of the American continent, but which has no memorial in these islands. 
+
+Now that the glory which he gained by being the first to penetrate from the Atlantic to the Pacific, has been in some measure obliterated by the disuse of those straits by navigators, it would seem due to his memory that some spot among these islands should be set apart to commemorate the name of, him who made them known to Europe. 
+
+This would be but common justice to the discoverer of a region which has been a source of so much honor and profit to the Spanish nation, who opened the vast expanse of the Pacific to the fleets of Europe, and who died fighting to secure the benefits of his enterprise to his king and country.
 
 Magellan was killed at the island of Mactan, on April 26, 1521. Duarte, the second in command, succeeded him. He imprudently accepted an invitation from the chief of Cebu to a feast, was, with twenty companions, massacred. 
 

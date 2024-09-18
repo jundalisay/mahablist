@@ -11,37 +11,80 @@ author: Commander Charles Wilkes
 
 ## Port rules
 
-At daylight, on January 13, we were again under way, with a light air, and at nine o’clock reached the roadstead, where we anchored in six fathoms water, with good holding-ground. Being anxious to obtain our letters, which, we were informed at Oahu, had been sent to Manila, I immediately dispatched two boats to procure them. On their way to the mole, they were stopped by the captain of the port, Don Juan Salomon, who requested them, in a polite manner, to return, and informed the officers that, agreeably to the rules of the port, no boat was permitted to land until the visit of the health-officer had been made, etc.
+At daylight, on January 13, we were again under way, with a light air, and at nine o’clock reached the roadstead, where we anchored in six fathoms water, with good holding-ground. 
+
+Being anxious to obtain our letters, which, we were informed at Oahu, had been sent to Manila, I immediately dispatched two boats to procure them. On their way to the mole, they were stopped by the captain of the port, Don Juan Salomon, who requested them, in a polite manner, to return, and informed the officers that, agreeably to the rules of the port, no boat was permitted to land until the visit of the health-officer had been made, etc.
+
 
 ## Official courtesies
 
-The captain of the port, in a large barge, was soon seen pulling off in company with the boats. He boarded us with much ceremony, and a few moments sufficed to satisfy him of the good health of the crew, when he readily gave his assent to our visiting the shore. Every kind of assistance was offered me, on the part of the government, and he, in the most obliging manner, gave us permission to go and come when we pleased, with the simple request that the boats should wear our national flag, that they might at all times be known, and thus be free from any interruption by the guards. The boats were again dispatched for the consul and letters, and after being anxiously watched for, returned; every one on board ship expecting his wishes to be gratified with news from home; but, as is usual on such occasions, the number of the happy few bore no comparison to that of the many who were disappointed.
+The captain of the port, in a large barge, was soon seen pulling off in company with the boats.
 
-Our vice-consul, Josiah Moore, Esq., soon paid us a visit, and gave us a pressing invitation to take up our quarters on shore while we remained. To this gentleman and Mr. Sturges I am greatly indebted for much of the information that will be detailed in the following chapter.
+He boarded us with much ceremony. A few moments sufficed to satisfy him of the good health of the crew, when he readily gave his assent to our visiting the shore.
 
-## American hemp ships.
+Every kind of assistance was offered me, on the part of the government. 
+
+He, in the most obliging manner, gave us permission to go and come when we pleased, with the simple request that the boats should wear our national flag. In this way, they might at all times be known, and thus be free from any interruption by the guards. 
+
+The boats were again dispatched for the consul and letters, and after being anxiously watched for, returned; every one on board ship expecting his wishes to be gratified with news from home; but, as is usual on such occasions, the number of the happy few bore no comparison to that of the many who were disappointed.
+
+Our vice-consul, Josiah Moore, Esq., soon visited us and gave us a pressing invitation to take up our quarters on shore while we remained. 
+
+To him and Mr. Sturges I am greatly indebted for much of the information in the following chapter.
+
+
+
+## American hemp ships
 
 A number of vessels were lying in the roads, among which were several Americans loading with hemp. There was also a large English East Indiaman, manned by Lascars, whose noise rendered her more like a floating Bedlam than any thing else to which I can liken it.
 
 
 ## A Spanish oriental city.
 
-The view of the city and country around Manila partakes both of a Spanish and an Oriental character. The sombre and heavy-looking churches, with their awkward towers; the long lines of batteries mounted with heavy cannon; the massive houses, with ranges of balconies; and the light and airy cottage, elevated on posts, situated in the luxuriant groves of tropical trees—all excite a desire to become better acquainted with the country.
+The view of the city and country around Manila partakes both of a Spanish and an Oriental character. 
 
-Surroundings.Manila is situated on an extensive plain, gradually swelling into distant hills, beyond which, again, mountains rise in the back ground to the height of several thousand feet. The latter are apparently [460]clothed with vegetation to their summits. The city is in strong contrast to this luxuriant scenery, bearing evident marks of decay, particularly in the churches, whose steeples and tile roofs have a dilapidated look. The site of the city does not appear to have been well chosen, it having apparently been selected entirely for the convenience of commerce, and the communication that the outlet of the lake affords for the batteaux that transport the produce from the shores of the Laguna de Bay to the city.
+The sombre and heavy-looking churches, with their awkward towers; the long lines of batteries mounted with heavy cannon; the massive houses, with ranges of balconies; and the light and airy cottage, elevated on posts, situated in the luxuriant groves of tropical trees—all excite a desire to become better acquainted with the country.
 
-Canals.There are many arms or branches to this stream, which have been converted into canals; and almost any part of Manila may now be reached in a banca.
+Manila is situated on an extensive plain, gradually swelling into distant hills, beyond which, again, mountains rise in the back ground to the height of several thousand feet.
 
-In the afternoon, in company with Captain Hudson, I paid my first visit to Manila. The anchorage considered safest for large ships is nearly three miles from the shore, but smaller vessels may lie much nearer, and even enter the canal; a facility of which a number of these take advantage, to accomplish any repairs they may have occasion to make.
+The latter are apparently [460] clothed with vegetation to their summits. 
+
+The city is in strong contrast to this luxuriant scenery, bearing evident marks of decay, particularly in the churches, whose steeples and tile roofs have a dilapidated look.
+
+The site of the city was not well chosen. It seemed to have been chosen entirely for:
+- the convenience of commerce
+- the communication that the outlet of the lake affords for the batteaux that transport the produce from the shores of the Laguna de Bay to the city.
+
+There are many arms or branches to this stream, which have been converted into canals. Almost any part of Manila may now be reached in a banca.
+
+In the afternoon, in company with Captain Hudson, I paid my first visit to Manila.
+
+The anchorage considered safest for large ships is nearly three miles from the shore, but smaller vessels may lie much nearer, and even enter the canal; a facility of which a number of these take advantage, to accomplish any repairs they may have occasion to make.
 
 
 ## Typhoons
 
-The canal, however, is generally filled with coasting vessels, batteaux from the lake, and lighters for the discharge of the vessels lying in the roads. The bay of Manila is safe, excepting during the change of the monsoons, when it is subject to the typhoons of the China Seas, within whose range it lies. These blow at times with much force, and cause great damage. Foreign vessels have, however, kept this anchorage, and rode out these storms in safety; but native as well as Spanish vessels, seek at these times the port of Cavite, about three leagues to the southwest, at the entrance of the bay, which is perfectly secure. Here the government dockyard is situated, and this harbor is consequently the resort of the few gunboats and galleys that are stationed here.
+The canal, however, is generally filled with coasting vessels, batteaux from the lake, and lighters for the discharge of the vessels lying in the roads.
 
-Twin piers.The entrance to the canal or river Pasig is three hundred feet wide, and is enclosed between two well-constructed piers, which extend for some distance into the bay. On the end of one of these is the light-house, and on the other a guard-house. The walls of these piers are about four feet above ordinary high water, and include the natural channel of the river, whose current sets out with some force, particularly when the ebb is making in the bay.
+The bay of Manila is safe, excepting during the change of the monsoons, when it is subject to the typhoons of the China Seas, within whose range it lies. 
 
-Suburbs.The suburbs, or Binondo quarter, contain more inhabitants than the city itself, and is the commercial town. They have all the stir and life incident to a large population actively engaged in trade, and in this respect the contrast with the city proper is great.
+These blow at times with much force, and cause great damage. Foreign vessels have, however, kept this anchorage, and rode out these storms in safety; but native as well as Spanish vessels, seek at these times the port of Cavite, about three leagues to the southwest, at the entrance of the bay, which is perfectly secure. Here the government dockyard is situated, and this harbor is consequently the resort of the few gunboats and galleys that are stationed here.
+
+
+### Twin piers
+
+The entrance to the Pasig river is 300 feet wide. It is enclosed between 2 well-constructed piers, which extend for some distance into the bay. 
+
+On the end of one of these is the light-house, and on the other a guard-house. 
+
+The walls of these piers are about 4 feet above ordinary high water, and include the natural channel of the river, whose current sets out with some force, particularly when the ebb is making in the bay.
+
+
+### Binondo
+
+The suburbs, or Binondo quarter, contain more inhabitants than the city itself, and is the commercial town. 
+
+They have all the stir and life incident to a large population actively engaged in trade, and in this respect the contrast with the city proper is great.
 
 The city of Manila is built in the form of a large segment of a circle, having the chord of the segment on the river. The whole is strongly fortified, with walls and ditches. 
 
