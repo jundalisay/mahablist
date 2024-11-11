@@ -73,7 +73,11 @@ In places where rice is scarce the lower class of people catch fish, salt and dr
 
 But, in the interior, where there is hardly any money, fabrics and dried fish are the most usual means of exchange. Salt is obtained by evaporating the sea-water in small iron hand-pans (carahais), without previous evaporation in the sun. 
 
-The navigation between Catbalogan and Manila continues from December to July, and in the interval between those months the ships lie dismantled under sheds. There also is communication by the coast eastwards to Guíuan, northwards to Catárman, and sometimes to Láuang. The crews consist partly of natives, and partly of foreigners, as the natives take to the sea with great reluctance; indeed, almost only when compelled to leave their villages. 
+The navigation between Catbalogan and Manila continues from December to July, and in the interval between those months the ships lie dismantled under sheds. 
+
+There also is communication by the coast eastwards to Guíuan, northwards to Catárman, and sometimes to Láuang.
+
+ The crews consist partly of natives, and partly of foreigners, as the natives take to the sea with great reluctance; indeed, almost only when compelled to leave their villages. 
 
 Sámar has scarcely any other means of communication besides the navigation of the coast and rivers, the interior being roadless. 
 
@@ -91,11 +95,17 @@ There, current money is rarely lent, but only its value in goods is advanced at 
 
 If the debtor fails to pay within the time appointed, he frequently has to part with one of his children, who is obliged to serve the lender for his bare food, without wages, until the debt has been extinguished. 
 
-I saw a young man who had so served for the term of five years, in liquidation of a debt of five dollars which his father, who had formerly been a gobernadorcillo in Paranas, owed to a mestize in Catbalogan. On the east coast a pretty young girl, who, for a debt of 3 dollars due by her father, had then, for two years, served a native, who had the reputation of being a spendthrift. 
+I saw a young man who had so served for the term of 5 years, in liquidation of a debt of five dollars which his father, who had formerly been a gobernadorcillo in Paranas, owed to a mestize in Catbalogan. 
 
-I was shown in Borongan a coconut plantation of 300 trees, which was pledged for a debt of 10 dollars about 20 years ago, since which period it had been used by the creditor as his own property. It was only a few years since that, upon the death of the debtor, his children succeeded, with great difficulty, in paying the original debt and redeeming the property. 
+On the east coast a pretty young girl, who, for a debt of 3 dollars due by her father, had then, for two years, served a native, who had the reputation of being a spendthrift. 
 
-It is common for a native to borrow 2.5 dollars <!-- and a half from another --> in order to purchase his exemption from the 40 days of annual service. He then fails to repay the loan punctually and is obliged to serve his creditor for a whole year.
+I was shown in Borongan a coconut plantation of 300 trees, which was pledged for a debt of 10 dollars about 20 years ago, since which period it had been used by the creditor as his own property. 
+
+It was only a few years since that, upon the death of the debtor, his children succeeded, with great difficulty, in paying the original debt and redeeming the property. 
+
+It is common for a native to borrow 2.5 dollars <!-- and a half from another --> in order to purchase his exemption from the 40 days of annual service. 
+
+He then fails to repay the loan punctually and is obliged to serve his creditor for a whole year.
 
 A statute passed in 1848 (Leg. ult, i. 144):
 - prohibits usurious contracts with servants or assistants
@@ -125,13 +135,21 @@ The natives of Leyté cling as strongly to their native soil as those of Sámar,
 
 There are no benevolent institutions in either of the two islands. 
 
-Each family maintains its own poor and crippled, and treats them tenderly. In Catbalogan, the chief town of the island, with five to six thousand inhabitants, there were only eight recipients of charity; but in Albáy mendicants are not wanting. In Láuang, when a Spaniard, on a solemn festival, had caused it to be proclaimed that he would distribute rice to the poor, not a single applicant came forward. 
+Each family maintains its own poor and crippled, and treats them tenderly. 
 
-The honesty of the inhabitants of Sámar is much commended. 
+In Catbalogan, the chief town of the island, with 5-6,000 inhabitants, there were only 8 recipients of charity.
 
-Obligations are said to be contracted almost always without written documents, and never forsworn, even when they make default in payment. Robberies are of rare occurrence in Sámar, and thefts almost unknown. There are schools also here in the pueblos, which accomplish quite as much as they do in Camarines.
+But in Albáy, mendicants are not wanting.
 
-• Formerly it appears to have been different with them. “ These Bisayans are a people little disposed to agriculture, but practised in navigation, and eager for war and expeditions by sea, on account of the pillage and prizes, which they call inangubas,' which is the same as taking to the field in order to steal.”—Morga, f. 138.
+In Láuang, when a Spaniard, on a solemn festival, had caused it to be proclaimed that he would distribute rice to the poor, not a single applicant came forward. 
+
+**The honesty of the inhabitants of Sámar is much commended.** 
+
+Obligations are said to be contracted almost always without written documents, and never forsworn, even when they make default in payment. 
+
+Robberies are of rare occurrence in Sámar. Thefts almost unknown. There are schools also here in the pueblos, which accomplish quite as much as they do in Camarines.
+
+• Formerly it appears to have been different with them. “ These Bisayans are little disposed to agriculture, but practised in navigation. They are eager for war and expeditions by sea for the pillage and prizes, which they call inangubas,' which is the same as taking to the field in order to steal.”—Morga, f. 138.
 
 Of the public amusements cock-fighting is the chief, but it is not so eagerly pursued as in Luzon. At the church festivals they perform a drama translated from the Spanish, generally of a religious character; and the expense of the entertainment is defrayed by voluntary contributions of the wealthy. 
 

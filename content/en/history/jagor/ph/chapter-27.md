@@ -83,7 +83,9 @@ Of these Saguiguilires and Namamahayes a few are full slaves, some half slaves, 
 
 If one parent was free and one was a slave, then the only son would be half free, half slave. 
 
-If there were several sons, the first one inherits the father's position. The second that of the mother. When the number is unequal the last one is half free and half slave. The descendants born of such half slaves and those who are free are quarter slaves. The half slaves, whether baguiguilires or namamahayes, serve their lords equally every month in turns. 
+If there were several sons, the first one inherits the father's position. The second that of the mother. 
+
+When the number is unequal the last one is half free and half slave. The descendants born of such half slaves and those who are free are quarter slaves. The half slaves, whether baguiguilires or namamahayes, serve their lords equally every month in turns. 
 
 Half and quarter slaves are partially free. They can compel their lord to give them their freedom at a previously determined and unfluctuating price. But full slaves do not possess this right. 
 
@@ -121,16 +123,25 @@ After the death of the feoffee:
 
 The whole country at the outset was completely divided into these livings, the defraying of which formed by far the largest portion of the expenses of the kingdom. 
 
-Investitures of a similar nature existed, more or less, in a territory of considerable extent, the inhabitants of which had to pay tribute to the feoffee; and this tribute had to be raised out of agricultural produce, the value of which was fixed by the feudal lord at a very low rate, but sold by him to the Chinese at a considerable profit. 
+Investitures of a similar nature existed, more or less, in a territory of considerable extent, the inhabitants of which had to pay tribute to the feoffee. 
+
+This tribute had to be raised out of agricultural produce, the value of which was fixed by the feudal lord at a very low rate, but sold by him to the Chinese at a considerable profit. 
 
 The feudal lords were not satisfied with these receipts. They held the natives in slavery until forbidden by a Bull of Pope Gregory 14th on  April 18, 1591. 
 
 However, caffre and negro slaves imported by the Portuguese via India, were still permitted.
 
-The original holders of feudal tenures amassed considerable booty. Zuñiga relates that as early as the time of Labezares, who was provisional governor between 1572 and 1575, he visited the Bisayas and checked the covetousness of the encomenderos, so that at least during his rule they relaxed their system of extortion. 
+The original holders of feudal tenures amassed considerable booty. 
 
-Towards the end of Lasande's government (1575-80) a furious quarrel broke out between the priests and the encomendéros. The priests preached against the oppression of the encomendéros and memorialised Philip 2nd.
 
-The king commanded that the natives should be protected, as the extortionate greed of the feudal chiefs had exceeded all bounds; and the natives were then at liberty to pay their tribute either in money or in kind.
 
-The result of this well-intentioned regulation appears to have produced a greater assiduity both in agriculture and trade, “ as the natives preferred to work without coercion, not on account of extreme want.” 
+Labezares was provisional governor between 1572 and 1575.
+
+Zuñiga relates that as early as that time, he visited the Bisayas and checked the covetousness of the encomenderos, so that at least during his rule they relaxed their system of extortion. 
+
+Towards the end of Lasande's government (1575-80) a furious quarrel broke out between the priests and the encomendéros.
+- The priests preached against the oppression of the encomendéros and memorialised Philip 2nd.
+
+The king commanded that the natives should be protected, as the extortionate greed of the feudal chiefs had exceeded all bounds. The natives were then at liberty to pay their tribute either in money or in kind.
+
+The result of this well-intentioned regulation appears to have produced a greater assiduity both in agriculture and trade, “as the natives preferred to work without coercion, not on account of extreme want.” 

@@ -8,13 +8,16 @@ author: Jagor
 icon: /graphics/flag.png
 ---
 
+
 ## Letter Of The Commissary-general Of China To Don Pedro De Acuña
 
 To the powerful Captain-General of Luson. 
 
 The Chinese who moved to the kingdom of Luzon to trade were murdered by the Spaniards. I have investigated the motives for these massacres and begged the King to exercise justice on the murderers with a view to security in the future.
 
-In former years, before my arrival here as royal commissioner, a Chinese merchant named Tioneg, together with 3 mandarins, went with the permission of the King of China from Luzon to Cavite, to prospect for gold and silver. It appears to have been an excuse, for he found neither gold nor silver. I thereupon prayed the King to punish this impostor Tioneg, thereby making patent the strict justice which is exercised in China.
+In former years, before my arrival here as royal commissioner, a Chinese merchant named Tioneg, together with 3 mandarins, went with the permission of the King of China from Luzon to Cavite, to prospect for gold and silver. 
+
+It appears to have been an excuse, for he found neither gold nor silver. I thereupon prayed the King to punish this impostor Tioneg, thereby making patent the strict justice which is exercised in China.
 
 It was during the administration of the ex-Viceroy and Eunuchs that Tioneg and his companion, named Yanglion, uttered the untruth already stated. Subsequently I begged the King to transmit all the papers bearing upon the matter, together with the minutes of Tioneg's accusation<!--  when I myself examined the before-mentioned papers, and knew that everything that the accused Tioneg had said was utterly untrue -->.
 
@@ -30,7 +33,7 @@ I and others discussed this with the King in order to ascertain what his pleasur
 
 ## CHINESE ROYAL COMMISSIONER'S LETTER
 
-“ We also wrote to the King that he should direct the punishment of both these Chinese ; and, in acknowledging our communication, he replied to us, in respect of the English ships which had arrived in China, that in case they had come for the purpose of plundering, they should be immediately commanded to depart thence for Luzon; and, with regard to the Luzon difficulty, that the Castilians should be advised to give no credence to rogues and liars from China ; and both the Chinese who had discovered the harbour to the English should be executed forthwith ; and that in all other matters upon which we had written to him, our will should be his. Upon receipt of this message by us— the Viceroy, the Eunuch, and myself—we hereby send this our message to the Governor of Luzon, that his Excellency may know the greatness of the King of China and of his Kingdom, for he is so powerful that he commands all upon which the sun and moon shine, and also that the Governor of Luzon may learn with what great wisdom this mighty kingdom is governed, and which power no one for many years has attempted to insult, although the Japanese have sought to disturb the tranquillity of Coria, which belongs to the Government of China. They did not succeed, but on the contrary were driven out, and Coria has remained in perfect security and peace, which those in Luzon well know by report.
+“We also wrote to the King that he should direct the punishment of both these Chinese ; and, in acknowledging our communication, he replied to us, in respect of the English ships which had arrived in China, that in case they had come for the purpose of plundering, they should be immediately commanded to depart thence for Luzon; and, with regard to the Luzon difficulty, that the Castilians should be advised to give no credence to rogues and liars from China ; and both the Chinese who had discovered the harbour to the English should be executed forthwith ; and that in all other matters upon which we had written to him, our will should be his. Upon receipt of this message by us— the Viceroy, the Eunuch, and myself—we hereby send this our message to the Governor of Luzon, that his Excellency may know the greatness of the King of China and of his Kingdom, for he is so powerful that he commands all upon which the sun and moon shine, and also that the Governor of Luzon may learn with what great wisdom this mighty kingdom is governed, and which power no one for many years has attempted to insult, although the Japanese have sought to disturb the tranquillity of Coria, which belongs to the Government of China. They did not succeed, but on the contrary were driven out, and Coria has remained in perfect security and peace, which those in Luzon well know by report.
 
 “ Years ago, after we learnt that so many Chinese perished in Luzon on account of Tioneg's lies, many of us mandarins met together, and resolved to leave it to the consideration of the King to take vengeance for so great a massacre ; and we said as follows:- 
 

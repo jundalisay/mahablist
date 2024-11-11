@@ -45,15 +45,23 @@ The western division of the Pacific Railway has been chiefly built by the Chines
 
 What they lack in physical power they make up for in perseverance and working intelligently together. 
 
-On April 28, 1869, 10 miles of railway track were laid in 11 working hours. <!-- along a division of --> <!-- The unique and nearly incredible performance. --> The rails, if laid in one continuous line, would measure about 103,000 feet, weighing 20,000 cwt. Eighteen Chinamen were engaged in the work, relieving one another by fours. These men were chosen to perform this feat on account of their particular activity, out of 10,000. Ordinarily, 8 Europeans were engaged in this extraordinary piece of work.
+On April 28, 1869, 10 miles of railway track were laid in 11 working hours. <!-- along a division of --> <!-- The unique and nearly incredible performance. --> The rails, if laid in one continuous line, would measure about 103,000 feet, weighing 20,000 cwt.
+
+18 Chinamen were engaged in the work, relieving one another by fours.
+
+These men were chosen to perform this feat on account of their particular activity, out of 10,000. Ordinarily, 8 Europeans were engaged in this extraordinary piece of work.
 
 <!-- (This statement is incorrect, so far as the fact of the feat being accomplished by the Chinese 18 concerned. -->
 
-During the rejoicings which took place in Sacramento upon the opening of the line, these 8 European men were paraded in a van, with the account of their splendid achievement painted in large letters on the outside. Certainly not one of them was a Chinaman.
+During the rejoicings which took place in Sacramento upon the opening of the line, these 8 European men were paraded in a van, with the account of their splendid achievement painted in large letters on the outside. 
 
+Certainly not one of them was a Chinaman.
 
+* No single people in Europe can in any way compare with the inhabitants of California, which, in the early years of its existence, was composed only of men in the prime of their strength and activity, without aged people, without women, and without children. 
 
-* No single people in Europe can in any way compare with the inhabitants of California, which, in the early years of its existence, was composed only of men in the prime of their strength and activity, without aged people, without women, and without children. Their activity, in a country where everything had to be provided (no civilised neighbours living within some hundred miles or so), and where all provisions were to be obtained only at a fabulous cost, was stimulated to the highest pitch. Without here going into the particulars of their history, it need only be remembered that they founded, in 25 years, a powerful State, the fame of which has spread all over the world, and around whose borders young territories have sprung into existence and flourished vigorously; two of them indeed having attained to the condition of independent States. After the Californian gold-diggers had changed the configuration of the ground of entire provinces by having, with Titanic might, deposited masses of earth into the sea until they expanded into hilly districts, so as to obtain therefrom, with the aid of ingenious machinery, the smallest particle of gold which was contained therein, they have astonished the world in their capacity of agriculturalists, whose produce is sent even to the most distant markets, and everywhere takes the first rank without dispute. a Such mighty results have been achieved by a people whose total number scarcely, indeed, exceeds 500,000; and therefore, perhaps, they may not find it an easy matter to withstand the competition of the Chinese.
+Their activity, in a country where everything had to be provided (no civilised neighbours living within some hundred miles or so), and where all provisions were to be obtained only at a fabulous cost, was stimulated to the highest pitch. Without here going into the particulars of their history, it need only be remembered that they founded, in 25 years, a powerful State, the fame of which has spread all over the world, and around whose borders young territories have sprung into existence and flourished vigorously; two of them indeed having attained to the condition of independent States.
+
+After the Californian gold-diggers had changed the configuration of the ground of entire provinces by having, with Titanic might, deposited masses of earth into the sea until they expanded into hilly districts, so as to obtain therefrom, with the aid of ingenious machinery, the smallest particle of gold which was contained therein, they have astonished the world in their capacity of agriculturalists, whose produce is sent even to the most distant markets, and everywhere takes the first rank without dispute. a Such mighty results have been achieved by a people whose total number scarcely, indeed, exceeds 500,000; and therefore, perhaps, they may not find it an easy matter to withstand the competition of the Chinese.
 
 [a Many portions of the City of San Francisco were extended into the bay in this manner.-TRANSLATOR's note.]
 
@@ -61,9 +69,13 @@ During the rejoicings which took place in Sacramento upon the opening of the lin
 
 <!-- plished by Chinese workers. Only by them could it have been practicable.* -->
 
-The Europeans are still superior in terms of the highest intellectual faculties. But, in all branches of commercial life in which cleverness and persevering industry are necessary, the Chinese are superior. To us, it seems that the influx of Chinese will kindle a struggle between capital and labour, in order to set a limit upon demands perceptibly growing beyond moderation.
+The Europeans are still superior in terms of the highest intellectual faculties.
 
-The increasing Chinese immigration already raises questions of the utmost social and political importance in the minds of American statesmen. 
+But, in all branches of commercial life in which cleverness and persevering industry are necessary, the Chinese are superior. 
+
+To us, it seems that the influx of Chinese will kindle a struggle between capital and labour, in order to set a limit upon demands perceptibly growing beyond moderation.
+
+The increasing Chinese immigration already raises questions of the utmost social and political importance in the minds of American statesmen.
 
 What influence will this entirely new and strange element exercise over the conformation of American relations? 
 

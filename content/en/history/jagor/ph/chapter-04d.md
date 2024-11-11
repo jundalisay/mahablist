@@ -18,10 +18,7 @@ Bamboos with luxuriant leafy tops grow plentifully by the huts in the rice-field
 
 The bamboo possesses, in proportion to its lightness, an extraordinary strength ;
 
-* Boyle, in his “ Adventures among the Dyaks,” mentions that he actually found pneumatic tinder-boxes, made of bamboo, in use among the Dyaks; Bastian met with them in Burma. Boyle saw a Dyak place some tinder on a broken piece of earthenware, holding it steady with his thumb while he struck it a sharp blow with a piece of bamboo. The tinder took fire. Wallace observed the same method of striking a light in Ternate,
-
-
-the result of its round shape, and the regularity of the joints in its stem. The parallel position and toughness of its fibres render it easy to split, and when split its pieces are of extraordinary pliability and elasticity. 
+* Boyle, in his “ Adventures among the Dyaks” actually found pneumatic tinder-boxes, made of bamboo, in use among the Dyaks; Bastian met with them in Burma. Boyle saw a Dyak place some tinder on a broken piece of earthenware, holding it steady with his thumb while he struck it a sharp blow with a piece of bamboo. The tinder took fire. Wallace observed the same method of striking a light in Ternate, the result of its round shape, and the regularity of the joints in its stem. The parallel position and toughness of its fibres render it easy to split, and when split its pieces are of extraordinary pliability and elasticity. 
 
 It gets its durability from the gravelly soil on which it grows. Its firm, even, and always clean surface, the brilliancy and colour of which improve by use. 
 

@@ -77,7 +77,7 @@ We started about 6am the next day and climbed to the Manacágan, which consists 
 
 From the ridge we caught sight, towards the south, of the great white heaps of débris of the mountain Danan glimmering through the trees. 
 
-About nine o'clock we came through the thickly-wooded crater of the Kasiboi, and, further south, to some sheds in which the sulphur is smelted.
+About 9am we came through the thickly-wooded crater of the Kasiboi, and, further south, to some sheds in which the sulphur is smelted.
 
 The raw material obtained from the solfatara is paid for in three kinds
 
@@ -89,7 +89,9 @@ Coconut oil, which is thrown into flat iron pans holding six arrobas, and is add
 
 In two or three hours six arrobas of sulphur, on an average, may be obtained in this manner from 24 arrobas of sulphurous clay, and poured into wooden chests it is moulded into blocks of about four arrobas. Half the oil employed is recovered by throwing the clay which has been saturated with it into a frame formed by two narrow bamboo hurdles, placed at a sharp angle. 
 
-The oil drops into a sloping gutter of bamboo which is placed underneath, and from that flows into a pot. The price of the sulphur at Manila varies between 13 and 45 dollars per pico. I 8.jw the frames, full of clay, from which the oil exuded ; but the operation itself I did not, unfortunately, then witness, and I cannot explain in what manner the oil is added. From some experiments made on a small scale, therefore under essentially different conditions, and never with the same material, it appeared that the oil accelerates the separation of the sulphur, and retards the access of the air to the sulphur. 
+The oil drops into a sloping gutter of bamboo which is placed underneath, and from that flows into a pot. The price of the sulphur at Manila varies between 13 and 45 dollars per pico. I 8.jw the frames, full of clay, from which the oil exuded ; but the operation itself I did not, unfortunately, then witness, and I cannot explain in what manner the oil is added.
+
+From some experiments made on a small scale, therefore under essentially different conditions, and never with the same material, it appeared that the oil accelerates the separation of the sulphur, and retards the access of the air to the sulphur. 
 
 In these experiments, the sulphur contained in the bottom of the crucible was always coloured black by the separation of charcoal from the oil, and it was necessary to purify it by distillation beforehand. Of this, however, the smelters at Leyté made no mention, and they even had no apparatus for the purpose, while their sulphur was of a pure yellow colour.
 
@@ -116,7 +118,11 @@ From the elevation of the solfatara, a rather large fresh-water lake, surrounded
 
 This lake, as well as the Malaksan, inspires the natives with superstitious fear on account of the suspicious neighbourhood of the solfatara, and therefore has not been profaned by either mariner, fisher, or swimmer, and was very full of fish. For the purpose of measuring its depth, I had a raft of bamboos constructed. 
 
-When my companions saw me floating safely on the lake, they all, without exception, sprang into it, and tumbled about in the water with infinite delight and loud outcries, as if they wished to indemnify themselves for their long abstinence; so that the raft was not ready before three o'clock. The soundings at the centre of the basin, which was, at the southern edge, steeper than on the north, gave 13 brazas = 21.7 of depth; the greatest length of the lake amounted to nearly 800 varas (668 metres), and the breadth to about half as much. As we returned in the evening, by torchlight, over the crest of the mountain to our night-quarters at the sour lake, we passed by the very modest dwelling-place of a married pair. Three branches, projecting outwards from the principal trunk of a tree, and lopped at equal points, sustained a hut of bamboos and palm-leaves of eight feet square. 
+When my companions saw me floating safely on the lake, they all, without exception, sprang into it, and tumbled about in the water with infinite delight and loud outcries, as if they wished to indemnify themselves for their long abstinence; so that the raft was not ready before three o'clock.
+
+The soundings at the centre of the basin, which was, at the southern edge, steeper than on the north, gave 13 brazas = 21.7 of depth; the greatest length of the lake amounted to nearly 800 varas (668 metres), and the breadth to about half as much. 
+
+As we returned in the evening, by torchlight, over the crest of the mountain to our night-quarters at the sour lake, we passed by the very modest dwelling-place of a married pair. Three branches, projecting outwards from the principal trunk of a tree, and lopped at equal points, sustained a hut of bamboos and palm-leaves of eight feet square. 
 
 A hole in the floor formed the entrance, and it was divided into a chamber and ante-chamber, and four bamboo poles supported, above and below, two layers of bamboos, one of which furnished a balcony, and the other a shop on which betel was sold.
 
@@ -126,7 +132,11 @@ From this place, Point Guíuan, the south point of Sámar, appears like an islan
 
 At Dulag, my former companion joined us in order to accompany us on the journey to the Bito Lake. The arrangement of the means of advance and of provisions, and, still more, the due consideration of all the propositions of three individuals, each of whose claims were entitled to equal respect, occupied much time and required some address. 
 
-We at length sailed in a large casco (barge) southwards along the coast to the mouth of the river Mayo, which, according to the map and the information there given, is said to come from the Bito Lake. We proceeded upwards in a boat, but were informed at the first hut that the lake could be reached only by making a long circuit through swampy forest; when most of our party proposed to return. Various reasons besides the want of unanimity in the conduct of our adventure, which had proceeded thus far, delayed our arrival at Abúyog until eleven o'clock at night. In the first place, on our way, we had to cross a small branch of the Mayo, and after that the Bito River. The distance of the latter from Abúyog (extravagantly set down on Coello's map) amounts to fourteen hundred brazas, according to a measurement of the gobernadorcillo, which is probably correct. *
+We at length sailed in a large casco (barge) southwards along the coast to the mouth of the river Mayo, which, according to the map and the information there given, is said to come from the Bito Lake.
+
+We proceeded upwards in a boat, but were informed at the first hut that the lake could be reached only by making a long circuit through swampy forest; when most of our party proposed to return. 
+
+Various reasons besides the want of unanimity in the conduct of our adventure, which had proceeded thus far, delayed our arrival at Abúyog until eleven o'clock at night. In the first place, on our way, we had to cross a small branch of the Mayo, and after that the Bito River. The distance of the latter from Abúyog (extravagantly set down on Coello's map) amounts to fourteen hundred brazas, according to a measurement of the gobernadorcillo, which is probably correct. *
 
 The following day, as it rained heavily, was employed in making inquiries respecting the road to the Bito Lake. We received very varied statements as to the distance, but all agreed in painting the road thither in a discouraging light. A troublesome journey of at least ten hours appeared to us to be what most probably awaited us.
 
@@ -138,9 +148,17 @@ Coello makes the lake much too large (4 instead of 1 square mile). Its distance 
 
 With the assistance of a cord of lianas tied together, and rods placed in a line, we found its breadth 585 brazas = 977 metres (in the broadest part it might be a little over 1,000 metres). 
 
-The length, as computed from some imperfect observations, 1,007 brazas (1,680 metres), consequently less than one square mile. Soundings showed a gently inclined basin, 8 brazas (13.3) deep in the middle. I would gladly have determined the proportions with more accuracy; but want of time, the inaccessibility of the edge of the bank, and the miserable condition of our raft, allowed of only a few rough measurements. • Not a trace of human habitations was observable on the shore; but at a quarter of an hour's distance from the northern edge we found a comfortable hut, surrounded by deep mud and prickly calamus, the tenants of which, however, were living in plenty, and with greater conveniences than many dwellers in the villages. We were very well received and had fish in abundance, as well as tomatoes, and capsicum to season them with, and dishes of English earthenware out of which to eat them.
+The length, as computed from some imperfect observations, 1,007 brazas (1,680 metres), consequently less than one square mile. Soundings showed a gently inclined basin, 8 brazas (13.3) deep in the middle. 
 
-The abundance of wild swine had led the settlers to invent a way to warn of their approach even when asleep, and guided to their trail in the darkness. A rope made of strips of banana tied together, and upwards of a thousand feet in length, is extended along the ground, one end of which is attached to a cocoa-nut shell, full of water, which is suspended immediately over the sleeping-place of the hunter. When a pig comes in contact with the rope, the water is overturned by the jerk upon the sleeper, who, seizing the rope in his hand, is thereby conducted to his prey. The principal employment of our hosts appeared to be fishing, which is so productive that the roughest apparatus is sufficient. 
+I would gladly have determined the proportions with more accuracy; but want of time, the inaccessibility of the edge of the bank, and the miserable condition of our raft, allowed of only a few rough measurements. 
+
+• Not a trace of human habitations was observable on the shore; but at a quarter of an hour's distance from the northern edge we found a comfortable hut, surrounded by deep mud and prickly calamus, the tenants of which, however, were living in plenty, and with greater conveniences than many dwellers in the villages.
+
+We were very well received and had fish in abundance, as well as tomatoes, and capsicum to season them with, and dishes of English earthenware out of which to eat them.
+
+The abundance of wild swine had led the settlers to invent a way to warn of their approach even when asleep, and guided to their trail in the darkness. A rope made of strips of banana tied together, and upwards of a thousand feet in length, is extended along the ground, one end of which is attached to a cocoa-nut shell, full of water, which is suspended immediately over the sleeping-place of the hunter. 
+
+When a pig comes in contact with the rope, the water is overturned by the jerk upon the sleeper, who, seizing the rope in his hand, is thereby conducted to his prey. The principal employment of our hosts appeared to be fishing, which is so productive that the roughest apparatus is sufficient. 
 
 There was not a single boat, but only loosely-bound rafts of bamboo, on which the fishers, sinking, as we ourselves did on our raft, half a foot deep, moved about amongst the crocodiles, which I never beheld in such numbers and of so large a size as in this lake. 
 

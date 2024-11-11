@@ -65,7 +65,7 @@ From 1603 to 1769, scarcely a ship had ever visited California, that wonderful c
 
 Even at this early stage, California seems destined to be a central point of the world's commerce as the proposed junction of the great oceans<!-- , to play a most important part in the future -->. The<!--  navigation of the --> west coast of America extends American influence to the Pacific. This will inevitably be felt by the Spanish colonies*, including the <!-- make  of the American element over the South Sea, the captivating, magic power which the great republic exercises over the Spanish colonies* will not fail to make itself felt also in --> the Philippines. 
 
-> *In 1861, I was on the West Coast of Mexico where a dozen backwoods families were determined to settle in Sonora which is an oasis in the desert. It was a plan which was then frustrated by the invasion of the European powers. Many native farmers awaited these immigrants. The value of land in consequence of the announcement of the project rose very considerably.
+{{< f f="*In 1861, I was on the West Coast of Mexico where a dozen backwoods families were determined to settle in Sonora which is an oasis in the desert. It was a plan which was then frustrated by the invasion of the European powers. Many native farmers awaited these immigrants. The value of land in consequence of the announcement of the project rose very considerably." >}}
 
 
 The Americans:

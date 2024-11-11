@@ -103,9 +103,11 @@ The old race of sheep, imported by the Spaniards previous to this century, still
 † At the present time the Chinese horses are plump, large-headed, hairy, and with bushy tails and manes. The  Japanese horses were elegant and enduring, similar to the Arabian. Good Manila horses are of the latter type, and are much prized by the Europeans in Chinese sea-port towns.
 
 
+### Sheep 
+
 Mutton is procurable every day in Manila. 
 
-In the interior, however, at least in the eastern provinces, very rarely ; although the rearing of sheep might there be carried on without difficulty, and in many places most profitably. 
+In the interior, however, at least in the eastern provinces, very rarely. Although the rearing of sheep might there be carried on without difficulty, and in many places most profitably. 
 
 The people are too idle to take care of the young lambs, which they complain are torn to pieces by the dogs when they wander about free. 
 
@@ -113,7 +115,12 @@ The sheep appear to have been acclimatized with difficulty.
 
 Morga says that they were brought several times from New Spain, but did not multiply. So in his time, this kind of domestic animal did not exist. 
 
-Pork is eaten by wealthy Europeans only when the hog has been brought up from the litter at home. In order to prevent its wandering away, it is usually enclosed in a widemeshed, cylindrical hamper of bamboo, upon filling which it is slaughtered. 
+
+### Pigs
+
+Pork is eaten by wealthy Europeans only when the hog has been brought up from the litter at home.
+
+In order to prevent its wandering away, it is usually enclosed in a widemeshed, cylindrical hamper of bamboo, upon filling which it is slaughtered. 
 
 The native hogs are too nauseous for food, the animals maintaining themselves almost entirely on human excrement.
 
@@ -129,9 +136,9 @@ The names likewise of most of the cultivated plants, such as rice, yams, sugar-c
 
 Of the words relating to commerce, 1/3 is Malay to which belong most of the terms used in trades, as well as the denominations for weights and measures. 
 
-The calendarso far as it exists,—and for numbers, besides the words for writing, reading, speaking, and narrative. 
+The calendar so far as it exists,—and for numbers, besides the words for writing, reading, speaking, and narrative. 
 
-On the other hand, only a small number of terms which refer to war are borrowed from the Malay:
+On the other hand, only a small number of terms which refer to war are borrowed from the Malay.
 
 Referring to the degree of civilisation which the Philippines possessed previous to their intercourse with the Malays, Crawford concludes from the purely domestic words that they cultivated no corn, their vegetable food consisting of batata and banana. 
 
@@ -145,6 +152,7 @@ Their religion consisted in the belief in good and evil spirits and witches, in 
 
 **They therefore were superior to the inhabitants of the South Sea, inasmuch as they possessed gold, iron, and woven fabrics, and inferior to them in that they had neither dog, pig, nor fowl.**
 
+{{< n n="This is because Maharlika was abundant in fish" >}}
 
 
 The above sketch of pre-Christian culture has been put together only with the help of defective linguistic sources, comparing it with the present. 
@@ -155,11 +163,14 @@ Assuming it is true, then the Philippines is indebted to the Spaniards for their
 
 The Spaniards have imported the horse, the bullock, and the sheep, maize, coffee, sugar-cane, cacao, sesame, tobacco, indigo, many fruits, and probably the batata, which they met with in Mexico under the name of camotli.* 
 
+{{< n n="Chau Ju Kua writes that the native exports of Maharlika were: yellow wax, cotton, pearls, tortoise-shell, medicinal betel-nuts, yuta cloth" >}}
+
+
 From this circumstance the term camote, universal in the Philippines, appears to have had its origin. Crawford wrongly considers it a native term.
 
 According to Dr. Witmack, recent opinion is that the batata is indigenous both to America and India as it has 2 names in Sanskrit, sharkarakanda and ruktaloo.
 
-With the exception of embroidery, the natives have made but little progress in industries, in the weaving and the plaiting of mats; and the handicrafts are entirely carried on by the Chinese.
+With the exception of embroidery, the natives have made but little progress in industries, in the weaving and the plaiting of mats. The handicrafts are entirely carried on by the Chinese.
 
 * Compare Hernandez, “ Opera Omnia”; Torquemada, “ Monarchia Indica."
 
@@ -171,7 +182,9 @@ The province exports about twice as much rice as it consumes. A large quantity o
 
 A fair share goes to North Camarínes, wbich is very mountainous, and little fertile. 
 
-The rice can hardly be shipped to Manila, as there is no high road to the south side of the province, near to the principal town. The transport by water from the north side, and the eastern portion of Luzon would greatly increase its price. 
+The rice can hardly be shipped to Manila, as there is no high road to the south side of the province, near to the principal town. 
+
+The transport by water from the north side, and the eastern portion of Luzon would greatly increase its price. 
 
 The imports are confined to the little that is imported by Chinese traders.
 
@@ -181,9 +194,9 @@ The whole amount of capital invested in these shops certainly does not exceed 20
 
 In the remaining pueblos of Camarines, there are no Chinese merchants. Consequently, the inhabitants are obliged to get their supplies from Nága.
 
-The land belongs to the State, but is let to any one who will build upon it. 
+The land belongs to the State, but is let to any one who will build on it. 
 
-The usufruct passes to the children, and ceases only when the land remains unemployed for 2 whole years. Afterwards, it is competent for the Executive to dispose of it to another person.
+The usufruct passes to the children. It ceases only when the land remains unemployed for 2 whole years. Afterwards, it is competent for the Executive to dispose of it to another person.
 
 
 ## Philippine Houses
@@ -237,5 +250,3 @@ The young and pretty adorn themselves assiduously with veils made of the areca-n
 They bathe several times daily, and surpass the majority of Europeans in cleanliness. 
 
 Every native, above all things, keeps a fighting-cock. Eeven when he has nothing to eat, he finds money for cock-fighting.
-
-

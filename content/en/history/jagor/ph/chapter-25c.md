@@ -13,13 +13,19 @@ At the time of my visit, the royal factories could not turn out a supply of ciga
 
 This brought about a peculiar condition of things; the wholesale dealer, who purchased cigars in very considerable quantities at the Government auctions, paying higher than the retail rates at which he could buy them singly in the estancia. 
 
-In order, therefore, to prevent the merchants drawing their stocks from the estancias, it was determined that only a certain quantity should be purchased, which limit no merchant dared exceed. A very intricate system of control, assisted by espionage, had to be employed in seeing that no one, through different agents and different estancias, collected more than the authorised supply ; and violation of this rule, when discovered, was punished by confiscation of the offender's stock. 
+In order, therefore, to prevent the merchants drawing their stocks from the estancias, it was determined that only a certain quantity should be purchased, which limit no merchant dared exceed. 
+
+A very intricate system of control, assisted by espionage, had to be employed in seeing that no one, through different agents and different estancias, collected more than the authorised supply ; and violation of this rule, when discovered, was punished by confiscation of the offender's stock. 
 
 Everybody was free to purchase cigars in the estancia, but nobody was permitted to sell a chest of cigars to an acquaintance at cost price. Several Spaniards with whom I have spoken concerning these strange regulations maintained them to be perfectly just, as otherwise all the cigars would be carried off by foreigners, and they would not be able themselves in their own colony to smoke a decent cigar.
 
-* From December 1853 to November 1854 the colony possessed four captainsgeneral (two eff-ctive and two provisional). In 1850 a new nominee, Oidor (member of the Supreme Court of Judicature) who with his family voyaged to Manila by the Cape, found, upon his arrival, his successor already in office, the latter having travelled by way of Suez. Such circumstances need not occasion surprise when it is remembered how such operations are repeated in Spain itself.
+* From December 1853 to November 1854 the colony possessed four captainsgeneral (two eff-ctive and two provisional). 
 
-According to an essay in the Revue Nationale, April, 1867, Spain has had, from 1834 to 1862, i.e. since the accession of Isabella, 4 Constitutions, 28 Parliaments, 47 Chief Ministers, 529 Cabinet Ministers, and 68 Ministers of the Interior; of which last class of officials each, on an average, was in power only six months. For ten years past the Minister of Finance has not remained in office longer than two months; and since that time, particularly since 1868, the changes have followed one another with still greater rapidity.
+In 1850 a new nominee, Oidor (member of the Supreme Court of Judicature) who with his family voyaged to Manila by the Cape, found, upon his arrival, his successor already in office, the latter having travelled by way of Suez. Such circumstances need not occasion surprise when it is remembered how such operations are repeated in Spain itself.
+
+According to an essay in the Revue Nationale, April, 1867, Spain has had, from 1834 to 1862, i.e. since the accession of Isabella, 4 Constitutions, 28 Parliaments, 47 Chief Ministers, 529 Cabinet Ministers, and 68 Ministers of the Interior; of which last class of officials each, on an average, was in power only six months. 
+
+For ten years past the Minister of Finance has not remained in office longer than two months; and since that time, particularly since 1868, the changes have followed one another with still greater rapidity.
 
 There was, as I afterwards learnt, a still more urgent reason for the existence of these decrees. The Government valued their own gold at sixteen dollars per ounce, while in commerce it fetched less, and the premium on silver had, at one time, risen to 33%. 
 

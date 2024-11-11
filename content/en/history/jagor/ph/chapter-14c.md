@@ -11,9 +11,9 @@ icon: /flags/ph.png
 
 
 
-The details of domestic economy may be narrated as follows:
+The details of domestic economy may be narrated as follows.
 
-For cooking purposes 
+<!-- For cooking purposes  -->
 
 An earthen pot is used for cooking. It costs between 3 and 10 cuartos. When cooking rice, is closed firmly with a banana-leaf, so that the steam of a very small quantity of water is sufficient. 
 
@@ -29,7 +29,9 @@ The water in small households is carried and stored in thick bamboos.
 
 In his bolo (wood-knife), moreover, every one has an universal instrument, which he carries in a wooden sheath made by himself, suspended by a cord of looselytwisted bast fibres tied round his body. 
 
-This, and the ricemortar (a block of wood with a similar cavity), together with pestles and a few baskets, constitute the whole of the household furniture of a poor family ; sometimes a large snail, with a rush wick, is also to be found as a lamp. 
+This, and the rice mortar (a block of wood with a similar cavity), together with pestles and a few baskets, constitute the whole of the household furniture of a poor family. 
+
+Sometimes a large snail, with a rush wick, is also to be found as a lamp. 
 
 They sleep on a mat of pandanus (fan-palm, Corypha) or on the splittings of bamboo, with which the house is floored. 
 

@@ -51,11 +51,15 @@ The cultivation of rice in Leyté is conducted as in Sámar, but it has given wa
 
 part of their fields and of their labour to it. Should a peasant be in arrears, it is the prevalent custom in the country for him to pay to the dealer double the balance remaining due at the next harvest.
 
-Rice culture, which in Catbalogan is almost the only harvest gained, requires no other implement of agriculture than the wood knife, to loosen the soil somewhat, and a sharp stick for making holes at distances of six inches for the reception of five or six grains of rice. Sowing is done from May to June, weeding twice, and five months later it is cut stalk by stalk; the reaper receiving half a real daily wages and food. The produce is between two and three cabanes per ganta, or fifty to seventy fold. 
+Rice culture, which in Catbalogan is almost the only harvest gained, requires no other implement of agriculture than the wood knife, to loosen the soil somewhat, and a sharp stick for making holes at distances of six inches for the reception of five or six grains of rice.
+
+Sowing is done from May to June, weeding twice, and five months later it is cut stalk by stalk; the reaper receiving half a real daily wages and food. The produce is between two and three cabanes per ganta, or fifty to seventy fold. 
 
 The land costs nothing, and wages amount to nearly five reals per ganta of seed-corn. After a good harvest the caban fetches four reals ; but just before the barvest the price rises to one dollar, and often much higher. The ground is used only once for dry rice; camote (batata), abaca, and caladium being planted on it after the harvest. Mountain rice is more remunerative than rice of the valley, about in the proportion of nine to eight.
 
-Next to rice the principal articles of sustenance are camote (convolvulus batatas), ubi (dioscorea), gabi (caladium), paláuán (a large arum, with taper leaves and spotted stalk). Camote can be planted all the year round, and ripens in four months; but it takes place generally when the rice culture is over, when little labour is available. When the cultivation of camote is retained, the old plants are allowed to multiply by their runners, and only the tubers are taken out of the ground. But larger produce is obtained by cleaning out the ground and planting anew. From eight to fifteen gantas may be had for half a real, and a sack for about three to six sgr. *
+Next to rice the principal articles of sustenance are camote (convolvulus batatas), ubi (dioscorea), gabi (caladium), paláuán (a large arum, with taper leaves and spotted stalk). Camote can be planted all the year round, and ripens in four months; but it takes place generally when the rice culture is over, when little labour is available.
+
+ When the cultivation of camote is retained, the old plants are allowed to multiply by their runners, and only the tubers are taken out of the ground. But larger produce is obtained by cleaning out the ground and planting anew. From eight to fifteen gantas may be had for half a real, and a sack for about three to six sgr. *
 
 Although there are large plantations of abaca, during my
 
@@ -66,21 +70,42 @@ visit it was but little cultivated, the price not being sufficiently remunerativ
 
 Tobacco also is cultivated. Formerly it might be sold in the country, but now it has to be delivered at the hacienda.
 
-A resinous oil, balão or malapájo, is found in Sámar and Albáy, probably also in other provinces. It is obtained from a dipterocarpus (apiton), one of the loftiest trees of the forest, by cutting in the trunk a wide hole, half a foot deep, hollowed out into the form of a basin, and from time to time lighting a fire in it, so as to free the channels through which it flows of obstructions. The oil thus drained is collected daily and comes into commerce without any further preparation. 
+A resinous oil, balão or malapájo, is found in Sámar and Albáy, probably also in other provinces. 
+
+It is obtained from a dipterocarpus (apiton), one of the loftiest trees of the forest, by cutting in the trunk a wide hole, half a foot deep, hollowed out into the form of a basin, and from time to time lighting a fire in it, so as to free the channels through which it flows of obstructions. The oil thus drained is collected daily and comes into commerce without any further preparation. 
 
 Its chief application is in the preservation of iron in ship-building. Nails dipped in the oil of the baláo, before being driven in, will, as I have been assured by credible individuals, defy the action of rust for ten years. 
 
-But it is principally used as a varnish for ships, which are painted with it both within and without, and it also protects wood against termites and other insects. The balão is sold in Albáy at four reals for the tinaja of ten gantas (the litre at eight pence). A cement formed by the mixture of burnt lime, gum elemi, and cocoa-nut oil, in such proportions as to form a thick paste before application, is used for the protection of the bottoms of ships ; and the coating is said to last a year. *
+But it is principally used as a varnish for ships, which are painted with it both within and without, and it also protects wood against termites and other insects. The balão is sold in Albáy at four reals for the tinaja of ten gantas (the litre at eight pence). 
 
-Wax is bartered by the Cimarronese. The whole of Sámar annually yields from two hundred to three hundred picos, whose value ranges between twenty-five and fifty dollars per pico, while in Manila the price is generally five to ten dollars higher ; but it fluctuates very much, as the same product is brought from many other localities and at very irregular intervals of time.
+A cement formed by the mixture of burnt lime, gum elemi, and cocoa-nut oil, in such proportions as to form a thick paste before application, is used for the protection of the bottoms of ships ; and the coating is said to last a year. *
 
-There is hardly any breeding of cattle, notwithstanding the * In China an oil is procured from the seeds of vernicia montana, which, by the addition of alum, litharge, and steatite, with a gentle heat, easily forms a valuable varnish, which, when mixed with resin, is employed in rendering the bottoms of vessels watertight. P. Champion, “ Indust. Anc. et Mod. de l'Emp. Chinois," 114.
+Wax is bartered by the Cimarronese.
 
-luxuriant growth of grasses and the absence of destructive animals. Horses and buffaloes are very rare, and are said to have been introduced late, not before the present century. As in Sámar there are hardly any other country roads than the seashore and the shallow beds of rivers (it is better in the north of Leyté), the buffalo is used only once every year in treading over the earth of the rice-field. During the rest of the year he roams at large on the pastures, in the forest, or on a small island, where such exists, in the neighbourhood. It is very rare to see several buffaloes, attached to the large trunk of a tree, dragging it to the village, and their number, therefore, is extremely small. Buffaloes which tread the rice land well are worth as much as ten dollars. 
+The whole of Sámar annually yields from 200-300 picos, whose value ranges between 25-50 dollars per pico, while in Manila the price is generally 5 to 10 dollars higher.
+
+But it fluctuates very much, as the same product is brought from many other localities and at very irregular intervals of time.
+
+There is hardly any breeding of cattle, notwithstanding the luxuriant growth of grasses and the absence of destructive animals.
+
+* In China an oil is procured from the seeds of vernicia montana, which, by the addition of alum, litharge, and steatite, with a gentle heat, easily forms a valuable varnish, which, when mixed with resin, is employed in rendering the bottoms of vessels watertight. P. Champion, “ Indust. Anc. et Mod. de l'Emp. Chinois," 114.
+
+
+Horses and buffaloes are very rare, and are said to have been introduced late, not before the present century. 
+
+As in Sámar there are hardly any other country roads than the seashore and the shallow beds of rivers (it is better in the north of Leyté), the buffalo is used only once every year in treading over the earth of the rice-field. 
+
+During the rest of the year he roams at large on the pastures, in the forest, or on a small island, where such exists, in the neighbourhood. 
+
+It is very rare to see several buffaloes, attached to the large trunk of a tree, dragging it to the village, and their number, therefore, is extremely small. Buffaloes which tread the rice land well are worth as much as ten dollars. 
 
 The mean price is 3 dollars for a buffalo-bull, and 5-6 dollars for a buffalo-cow. 
 
-Horned cattle are only occasionally used as victims at festivals. The property of several owners, they are very limited in number, and live half-wild in the mountains. There is hardly any trade in them, but the average price is three dollars for a heifer, and five or six dollars for a cow. Almost every family possesses a pig; some, three or four of them. A fat pig costs six or seven dollars, even more than a cow. 
+Horned cattle are only occasionally used as victims at festivals.
+
+The property of several owners, they are very limited in number, and live half-wild in the mountains.
+
+There is hardly any trade in them, but the average price is three dollars for a heifer, and five or six dollars for a cow. Almost every family possesses a pig; some, three or four of them. A fat pig costs six or seven dollars, even more than a cow. 
 
 Many native tribes abstain strictly from beef. But pork is essential to their feasts. 
 

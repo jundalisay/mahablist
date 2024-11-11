@@ -45,14 +45,17 @@ t...“They are a wicked and vicious people, and, owing to their numbers, and to
 
 
 
-## MASSACRE OF CHINESE
-
+## Massacre Of Chinese
 
 In the attack of the pirate Limahong in 1574, they escaped destruction only by a miracle. Soon, new dangers threatened them.  
 
-In 1603, a few mandarins came to Manila, under the pretence of ascertaining whether the ground about Cavite really contained gold. They were supposed to be spies. Their mission showed that an attack on the Philippines was intended by the Chinese.
+In 1603, a few mandarins came to Manila, under the pretence of ascertaining whether the ground about Cavite really contained gold. 
 
-The archbishop and the priests incited the distrust which was felt against the numerous Chinese who were settled in Manila. Mutual hate and suspicion arose. Both parties feared one another and prepared for hostilities. 
+They were supposed to be spies. Their mission showed that an attack on the Philippines was intended by the Chinese.
+
+The archbishop and the priests incited the distrust which was felt against the numerous Chinese who were settled in Manila. 
+
+Mutual hate and suspicion arose. Both parties feared one another and prepared for hostilities. 
 
 The Chinese commenced the attack. But the united forces of the Spaniards were supported by the Japanese and the natives. This led to 23,000-25,000 Chinese killed or driven to the wilderness.   
 
@@ -64,21 +67,42 @@ But by 1605 the number of Chinese * had again so increased that a decree was iss
 
 At the same time, their rapid increase was taken advantage of by the Captain-General for his own interest, as he exacted eight dollars from each Chinaman for permission to remain. 
 
-In 1639, the Chinese population had risen to 30,000, according to other information 40,000. When they revolted and were reduced to 7,000. “The natives, who generally were so listless and indifferent, showed the utmost eagerness in assisting in the massacre of the Chinese, but more from hatred of this industrious people than from any feeling of friendship towards the Spaniards.*
+In 1639, the Chinese population had risen to 30,000, according to other information 40,000. When they revolted and were reduced to 7,000. 
+
+“The natives, who generally were so listless and indifferent, showed the utmost eagerness in assisting in the massacre of the Chinese, but more from hatred of this industrious people than from any feeling of friendship towards the Spaniards.*
 
 <!-- * " Recopilacion," Lib. iv., Tit. xviii., ley. 1. -->
 
-The void occasioned by this massacre was soon filled up again by Chinese immigrants; and in 1662 the colony was once more menaced with a new and great danger, by the Chinese pirate Kog-seng, who had under his command between 80,000 and 100,000 men, and who already had dispossessed the Dutch of the Island of Formosa. 
+The void occasioned by this massacre was soon filled up again by Chinese immigrants.
 
-He demanded the absolute submission of the Philippines ; his sudden death, however, saved the colony, and occasioned a fresh outbreak of fury against the Chinese settlers in Manila, a great number of whom were butchered in their own “quarter” (ghetto). † Some dispersed and hid themselves; a few in their terror plunged into the water or hanged themselves ; and a great number fled in small boats to Formosa. I
+In 1662, the colony was once more menaced with a new and great danger, by the Chinese pirate Kog-seng, who had under his command between 80,000 and 100,000 men. 
 
-In 1709 the jealousy against the Chinese once more had reached such a height that they were accused of rebellion, and particularly of monopolising the trades; and, with the exception of the most serviceable of the artisans and such of them as were employed by the Government, they were once again expelled. 
+They already had dispossessed the Dutch of the Island of Formosa. 
 
-Spanish writers praise the salutariness of these measures ; alleging that “under the pretence of agriculture the Chinese carry on trade; they are cunning and careful, making money and sending it to China, so that they defraud the Philippines annually of an enormous amount.” Sonnerat, however, complains that art, trade, and commerce, had not recovered from these severe blows; though, he adds, fortunately the Chinese, in spite of prohibitory decrees, are returning through the corrupt connivance of the governor and officials. 
+He demanded the absolute submission of the Philippines. His sudden death, however:
+- saved the colony
+- occasioned a fresh outbreak of fury against the Chinese settlers in Manila
 
-To the present day, they are blamed as being monopolists, particularly by the creoles. Through their steady industry and natural commercial aptitude, they have appropriated nearly all the retail trade to themselves. 
+Many of them were butchered in their own “quarter” (ghetto).†
 
-The sale of European imported goods is entirely in their hands; and the wholesale purchase of the produce of the country for export is divided between the Indians, creoles, and the Chinese, the latter taking about one half. 
+Some dispersed and hid themselves; a few in their terror plunged into the water or hanged themselves. Many fled in small boats to Formosa.
+
+In 1709, the jealousy against the Chinese once more had reached such a height that they were accused of rebellion, and particularly of monopolising the trades. And, with the exception of the most serviceable of the artisans and such of them as were employed by the Government, they were once again expelled. 
+
+Spanish writers praise the salutariness of these measures ; alleging that “under the pretence of agriculture the Chinese carry on trade.
+
+They are cunning and careful, making money and sending it to China, so that they defraud the Philippines annually of an enormous amount.” 
+
+Sonnerat, however, complains that art, trade, and commerce, had not recovered from these severe blows; though, he adds, fortunately the Chinese, in spite of prohibitory decrees, are returning through the corrupt connivance of the governor and officials. 
+
+To the present day, they are blamed as being monopolists, particularly by the creoles.
+
+Through their steady industry and natural commercial aptitude, they have appropriated nearly all the retail trade to themselves. 
+
+The sale of European imported goods is entirely in their hands. The wholesale purchase of the produce of the country for export is divided between the:
+- natives, 
+- creoles
+- Chinese, taking about half. 
 
 Before this time, only the natives and creoles were permitted to own ships for forwarding the produce to Manila.
 
@@ -116,4 +140,6 @@ Of late years the Chinese have not suffered from the terrible massacres which us
 
 For instance, at the end of 1867 the Chinese shopkeepers were annually taxed 60 dollars for permission to send their goods to the weekly market; this was in addition to a tax of from 12 to 100 dollars on their occupations; and at the same time they were commanded thenceforth to keep their books in Spanish (English Consular Report, 1869).
 
-The Chinese remain true to their customs and mode of living in the Philippines, as they do everywhere else. When they outwardly embrace Christianity, it is done merely to facilitate marriage, or from some motive conducive to their worldly advantage; and occasionally they renounce it, together with their wives in Manila, when about to return home to China. Very many of them, however, beget families, are excellent householders, and their children in time form the most enterprising, industrious, and wealthy portion of the resident population.
+The Chinese remain true to their customs and mode of living in the Philippines, as they do everywhere else. When they outwardly embrace Christianity, it is done merely to facilitate marriage, or from some motive conducive to their worldly advantage; and occasionally they renounce it, together with their wives in Manila, when about to return home to China.
+
+Very many of them, however, beget families, are excellent householders, and their children in time form the most enterprising, industrious, and wealthy portion of the resident population.

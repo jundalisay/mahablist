@@ -76,7 +76,7 @@ Misamis (Mindanáo) | coffee, wax, Spanish cane, mother-of-pearl
 
 Cebú island extends over 75 square miles. A lofty mountain range traverses it from north to south, dividing the east from the west side, and its population is estimated at 340,000,–4,533 to the square mile. 
 
-The inhabitants are peaceable and docile; thefts occur very seldom, and robberies never. 
+The inhabitants are peaceable and docile. Thefts occur very seldom, and robberies never. 
 
 Their occupations are:
 - agriculture
@@ -129,11 +129,16 @@ In the experiments made at the laboratory of the School of Mines in Madrid it yi
 
 Good pit-coal gives 6,000 cal. The first coal pits in Cebú were excavated in the Massánga valley.
 
-But the works were discontinued in 1859, after considerable ontlay had been made on them. Four strata of considerable thickness were subsequently discovered in the valley of Alpacó and in the mountain of Oling, in Naga. "The coal of Cebú is acknowledged to be better than that of Australia and Labuan, but has not sufficient heating power to be used, unmixed with other coal, on long sea voyages."
+But the works were discontinued in 1859, after considerable ontlay had been made on them. Four strata of considerable thickness were subsequently discovered in the valley of Alpacó and in the mountain of Oling, in Naga. 
 
-According to the Catalogue of the Products of the Philippines (Manila, 1866), the coal strata of Cebú have, at many places in the mountain range which runs from north to south across the whole of the island, an average thickness of two miles. The coul is of middling quality, and is burnt in the Government steam works after being mixed with Cardiff coal. The price in Cebú is on the average six dollars per ton.
+"The coal of Cebú is acknowledged to be better than that of Australia and Labuan, but has not sufficient heating power to be used, unmixed with other coal, on long sea voyages."
+
+According to the Catalogue of the Products of the Philippines (Manila, 1866), the coal strata of Cebú have, at many places in the mountain range which runs from north to south across the whole of the island, an average thickness of two miles. 
+
+The coal is of middling quality, and is burnt in the Government steam works after being mixed with Cardiff coal. The price in Cebú is on the average six dollars per ton.
 
 <!-- † English Consular Report, 217. -->
+
 
 ## Iloilo 
 
@@ -141,12 +146,15 @@ Formerly, the products for exportation were bought up by the foreign merchants, 
 
 But now they are bought direct from the producers, who thus obtain better prices in consequence of the abolition of the high brokerages. To this and to the energy of the foreign merchants, under favourable circumstances, is the gradual improvement of agriculture principally to be ascribed.
 
-Yloílo is the most important of the newly opened ports, being the central point of the Bisayan group, and situated in one of the most thickly populated and industrious provinces. N. Loney estimates the export of goods woven from the fibre of the pine, from Yloílo and the neighbouring provinces, at about one million dollars annually.
+Yloílo is the most important of the newly opened ports, being the central point of the Bisayan group, and situated in one of the most thickly populated and industrious provinces. 
 
-The harbour is excellent, being completely protected by an island which lies immediately before it. At high tide there is about twelve feet of water close in shore for vessels to lie in. On account of the bar, however, ships of a deeper draught than this are obliged to complete their loading outside.
+N. Loney estimates the export of goods woven from the fibre of the pine, from Yloílo and the neighbouring provinces, at about one million dollars annually.
+
+The harbour is excellent, being completely protected by an island which lies immediately before it. At high tide there is about 12 feet of water close in shore for vessels to lie in. On account of the bar, however, ships of a deeper draught than this are obliged to complete their loading outside.
 
 Before the new harbours were opened, all the provinces were compelled to bring their products intended for exportation to Manila, as to receive from the same place their foreign imports. 
 
 The cost of which therefore was greatly increased through the extra expenses incurred by the double voyage, reloading, brokerage, and wharfage charges. 
 
 According to N. Loney, this shows how profitable the opening of Iloílo has been to the provinces immediately adjoining—Panáy and Negrós, even just after a few years.
+

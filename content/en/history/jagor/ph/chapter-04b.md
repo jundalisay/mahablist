@@ -22,21 +22,24 @@ Nowadays, forsooth, they sing Andalusian songs, and dance Spanish dances; but in
 
 They imitate everything that passes before their eyes without possessing the intelligence to appreciate it. It is this which makes both themselves and their artistic productions wearisome, devoid of character, and, I may add, unnatural, in spite of the skill and patience they devote to them. 
 
-These two peculiarities, moreover, are invariably to be found amongst nations whose civilisation is
+These two peculiarities, moreover, are invariably to be found amongst nations whose civilisation is but little developed ; the patience so much admired is often nothing but waste of time and breath, quite out of proportion to the end in view, and the skill is the mere consequence of the backward state of the division of labour.
 
 * Depons, speaking of the means employed in America to obtuin the same end, says, “I am convinced that it is impossible to engraft the Christian religion on the Indian mind without mixing up their own inclinations and customs with those of Christianity; this has been even carried so far, that at one time theologians raised the question, whether it was lawful to eat human flesh? But the most singular part of the proceeding is, that the question was decided in favour of the anthropophagi.”
 
-but little developed ; the patience so much admired is often nothing but waste of time and breath, quite out of proportion to the end in view, and the skill is the mere consequence of the backward state of the division of labour.
 
 If I entered the house of a well-to-do native, who spoke Spanish, I was received with the same phrases his model, a Spaniard, would employ. But I always had the feeling that it was out of place. 
 
-In countries where the native population remains true to its ancient customs this is not the case; and whenever I have not been received with proper respect, I have remarked that the apparent fact proceeded from a difference in social forms, not more to be wondered at than a difference in weights and measures. 
+In countries where the native population remains true to its ancient customs this is not the case. 
 
-In Java, and particularly in Borneo and the Malaccas, the utensils in daily use are ornamented with so refined a feeling for form and colour, that they are praised by our artists as patterns of ornamentation, and afford a proof that the labour is one of love, and that it is presided over by an acute intelligence.
+Whenever I have not been received with proper respect, I have remarked that the apparent fact proceeded from a difference in social forms, not more to be wondered at than a difference in weights and measures. 
+
+In Java, and particularly in Borneo and the Malaccas, the utensils in daily use are ornamented with so refined a feeling for form and colour. They:
+- are praised by our artists as patterns of ornamentation, and
+- afford a proof that the labour is one of love and an acute intelligence.
 
 Such a sense of beauty is seldom to be met with in the Philippines. Everything there is imitation or careless makeshift. 
 
-Even the Pina embroideries, which are fabricated with such wonderful patience and skill, and are so celebrated for the fineness of the work, are, as a rule, spiritless imitations of Spanish patterns. 
+Even the Pina embroideries, which are fabricated with such wonderful patience and skill, and are so celebrated for the fineness of the work, are, as a rule, spiritless imitations of Spanish patterns.
 
 Proof is in the comparison of the art products of the Spanish-American communities with those of more barbarous races.
 

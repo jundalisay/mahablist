@@ -28,7 +28,9 @@ The party remained at Tandag 2 weeks, working in the fields for hire, and then p
 
 From there, to Surigáo on the north point of Mindanao. Then with an easterly wind, in 2 days, direct to Guíuan.
 
-* The following communication appeared for the first time in the reports of a session of the Anthropological Society of Berlin ; but my visitors were there denominated Palao islanders. But, as Prof. Semper, who spent a long time on the true Palaos (Pelew) islands, correctly shows in the “Corresp.-Bl. f. Anthropol.," 1871, No. 2, that Uliai belongs to the group of the Carolinas, I have here retained the more common expression, Mikronesian, although those men, respecting whose arrival from Uliai no doubt existed, did not call themselves Caroline islanders, but Palávs. As communicated to me by Dr. Gräffe, who lived many years in Mikronesia, Paláos is a loose expression like Kanaka and many others, and does not, at all events, apply exclusively to the inhabitants of the Pelew group.
+* The following communication appeared for the first time in the reports of a session of the Anthropological Society of Berlin ; but my visitors were there denominated Palao islanders. But, as Prof. Semper, who spent a long time on the true Palaos (Pelew) islands, correctly shows in the “Corresp.-Bl. f. Anthropol.," 1871, No. 2, that Uliai belongs to the group of the Carolinas, I have here retained the more common expression, Mikronesian, although those men, respecting whose arrival from Uliai no doubt existed, did not call themselves Caroline islanders, but Palávs.
+
+As communicated to me by Dr. Gräffe, who lived many years in Mikronesia, Paláos is a loose expression like Kanaka and many others, and does not, at all events, apply exclusively to the inhabitants of the Pelew group.
 
 In the German translation of Captain Salmon's “History of the Oriental Islands” (Altona, 1733), it is stated that
 
