@@ -1,8 +1,7 @@
 ---
-title: "Pigafetta: 1519-1521 Simplified"
-linkTitle: Pigafetta
+title: "Events in the Philippine Islands"
 image: /photos/medieval/magellan.jpg
-date: 2020-10-31
+date: 2024-10-31
 weight: 10
 description: "The history of Maharlika"
 ---
