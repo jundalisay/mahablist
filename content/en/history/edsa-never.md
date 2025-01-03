@@ -19,7 +19,8 @@ Marcos apologists say that the Philippines would have been better if EDSA never 
 
 So let's use a thought-experiment using the historical events from 1986 to 2016, together with our social cycles model, to project* what would've happened without EDSA.
 
-> *This assumes that US policy has a maximum patience of 20 years, just as it gave up on Afghanistan after 20 years, and on Cuba, South Vietnam and Iran in a shorter time 
+{{< n n="*This assumes that US policy has a maximum patience of 20 years, just as it gave up on Afghanistan after 20 years, and on Cuba, South Vietnam and Iran in a shorter time" >}}
+
 
 ![Cory Aquino](https://sorasystem.sirv.com/photos/mh/coryv.jpg)
 

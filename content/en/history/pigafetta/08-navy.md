@@ -5,10 +5,7 @@ date: 2020-07-10
 weight: 28
 image: /photos/medieval/magellan.jpg
 description: "Then we came to a large island [Mindanao], at a port called Chipit and met its king Raja Calanao"
-icon: /icons/sun.png
-aliases:
-  /maharlika/history/simplified-pigafetta3
-  /history/pigafetta/simplified-pigafetta3  
+author: Pigafetta
 ---
 
 
@@ -54,13 +51,13 @@ Giovan Carvaio, our pilot, allowed the junks* to leave for a certain sum of gold
 - Had Carvaio not given up that captain to Raja Siripada, Raja Siripada would have given us whatever we wanted.
 - This is because that captain was exceedingly feared throughout those regions especially by the heathens who are very hostile to Raja Siripada.
 
-{{< n n="Maharlika Note: The Maharlikan navy used Karakoa ships" >}}
+<!-- n n="Maharlika Note: The Maharlikan navy used Karakoa ships" >}} -->
  
 
 
 When Raja Siripada heard how we had treated the junks, he sent us a message by one of our men who was ashore that the praus did not mean to harm us, but that they were going to attack the heathens.*
 
-{{< n n="Maharlika Note: This is part of the Brunei Civil war wherin Brunei was supported by both Luzon and Sulu as its vassals" >}}
+<!-- n n="Maharlika Note: This is part of the Brunei Civil war wherin Brunei was supported by both Luzon and Sulu as its vassals" >}} -->
 
 
 As proof, the Moros showed him some heads of heathens who had been killed.

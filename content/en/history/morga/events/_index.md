@@ -1,5 +1,5 @@
 ---
-title: "Antonio Morga"
+title: "Events in the Philippine Islands"
 image: /photos/medieval/magellan.jpg
 date: 2024-10-31
 weight: 10

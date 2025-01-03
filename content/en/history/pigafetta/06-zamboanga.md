@@ -5,7 +5,7 @@ date: 2020-07-10
 weight: 12
 image: /photos/medieval/magellan.jpg
 description: "Then we came to a large island [Mindanao], at a port called Chipit and met its king Raja Calanao"
-icon: /icons/sun.png
+author: Pigafetta
 aliases:
   /maharlika/history/simplified-pigafetta3
   /history/pigafetta/simplified-pigafetta3  
