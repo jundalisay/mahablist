@@ -2,7 +2,7 @@
 heading: Chapter 8d
 title: "Laguna de Bay"
 date: 2024-09-22
-weight: 14
+weight: 56
 image: /photos/medieval/magellan.jpg
 description: "Meat and fish they relish better when it has begun to spoil and when it stinks"
 icon: /icons/sun.png
@@ -93,9 +93,10 @@ If the industry and efforts of the Spaniards were to be converted into the worki
 
 In some of these islands pearl oysters are found, especially in the Calamianes, where some have been obtained that are large and exceedingly clear and lustrous. [285] Neither is this means of profit utilized. In all parts, seed pearls are found in the ordinary oysters, and there are oysters as large as a buckler. 
 
-From the [shells of the] latter the natives manufacture beautiful articles. There are also very large sea turtles in all the islands. Their shells are utilized by the natives, and sold as an article of commerce to the Chinese and Portuguese, and other nations who go after them and esteem them highly, because of the beautiful things made from them.
+From the [shells of the] latter the natives manufacture beautiful articles. There are also very large sea turtles in all the islands.
+
+Their shells are utilized by the natives, and sold as an article of commerce to the Chinese and Portuguese, and other nations who go after them and esteem them highly, because of the beautiful things made from them.
 
 On the coasts of any of these islands are found many small white snail shells, called siguei. The natives gather them and sell them by measure to the Siamese, Cambodians, Pantanes, and other peoples of the mainland. It serves there as money, and those nations trade with it, as they do with cacao-beans in Nueva España. [286]
 
 Carabao horns are used as merchandise in trading with China; and deerskins and dye-wood with Japon. The natives make use of everything in trading with those nations and derive much profit therefrom.
-

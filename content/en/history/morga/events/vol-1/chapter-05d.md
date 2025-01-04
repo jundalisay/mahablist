@@ -2,7 +2,7 @@
 heading: Chapter 5c
 title: "Expedition to Mindanao"
 date: 2024-09-22
-weight: 12
+weight: 14
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png

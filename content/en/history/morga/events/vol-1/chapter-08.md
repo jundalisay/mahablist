@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "The Philippine Islands"
 date: 2024-09-22
-weight: 14
+weight: 48
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png

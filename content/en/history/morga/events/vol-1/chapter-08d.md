@@ -2,7 +2,7 @@
 heading: Chapter 8d
 title: "Flora and Fauna"
 date: 2024-09-22
-weight: 14
+weight: 54
 image: /photos/medieval/magellan.jpg
 description: "Meat and fish they relish better when it has begun to spoil and when it stinks"
 icon: /icons/sun.png
