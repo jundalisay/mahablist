@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8g
-title: "The Philippine Islands"
+title: "The Visayan People"
 date: 2024-09-22
 weight: 72
 image: /photos/medieval/magellan.jpg
@@ -11,23 +11,65 @@ icon: /icons/sun.png
 <!-- Quite near this large island of Luzon, many other islands, large and small, are located; they are inhabited by the same natives as Luzon, who have gold placers, sowed fields, and their trading.  -->
 
 
-Other islands near Luzon are Marinduque, Tablas Island, Mazbate, Burias, Banton, Bantonillo, and others of less importance. The nearest of them to Manila is the island of Mindoro. It is more than eighty leguas long and about two hundred in circumference.
+Other islands near Luzon are:
+- Marinduque
+- Tablas Island
+- Mazbate
+- Burias
+- Banton
+- Bantonillo
+- others of less importance. 
 
-It has many settlements of the same natives, and the side lying next the provinces of Balayan and Calilaya is so near and close to the island of Luzon, that it forms a strait which contains powerful currents and races, through which the ships going to and from Manila enter and leave. The winds and currents there are very strong.
 
-It is about one-half a legua wide. In that part is the chief town of this island of Mindoro. It has a port that is called El Varadero ["the place for laying up ships"] for large vessels. There are also other anchorages and bars throughout this island for smaller vessels; and many settlements and natives on all the coasts of this island. All of the settlements abound in rice, food, and gold-placers, and all kinds of game and timber. [298]
+### Mindoro
 
-The cape of Espiritu Santo, which is sighted by ships entering the Filipinas Islands on the way from Nueva España, is in an island called Tendaya, [299] in about thirteen degrees. Twenty leguas south after turning this cape of Espiritu Santo lie the island of Viri, and many others which are sighted. Through them an entrance opens to the island of Sebu by a strait called San Juanillo, which is formed by these islands. It is not very good or safe for the larger ships.
+The nearest of them to Manila is the island of Mindoro.
 
-But toward the north after leaving this course, one reaches the island of Capul, which forms a strait and channel of many currents and rough waves, through which the ships enter. Before reaching the strait there is a rock, or barren islet, called San Bernardino; this strait is formed by the coast of the island of Luzon and that of the island of Capul. Its channel is about one legua long and less wide.
+It is more than 80 leguas long and about 200 in circumference.
 
-On leaving this strait, after having entered by it, three small islets form a triangle. They are called the islands of Naranjos ["Oranges"], and are lofty and inaccessible with steep rocks. Upon them ships are wont to be driven by the powerful currents, even though they try to escape them. These are not inhabited, but the others [Capul, Viri, etc.] are large islands containing many settlements of natives and all kinds of provisions and food.
+It has many settlements of the same natives on all the coasts. All of the settlements abound in rice, food, and gold-placers, and all kinds of game and timber. [298]
 
-South of this district lie the islands of Biçayas, or, as they are also called, Pintados. They are many in number, thickly populated with natives. Those of most renown are Leite, Ybabao, [300] Camar [Samar], Bohol, island of Negros, Sebu, Panay, Cuyo, and the Calamianes. All the natives of these islands, both men and women, are well-featured, of a good disposition, and of better nature, and more noble in their actions than the inhabitants of the islands of Luzon and its vicinity.
+Its side lying next the provinces of Balayan and Calilaya is so near to Luzon that it forms a strait, about half a legua wide, which contains powerful currents and strong winds.
+
+This is used by the ships going to and from Manila to enter and leave. 
+
+<!-- The winds and currents there are very strong. -->
+
+<!-- It is . In that part is the chief town of this island of Mindoro. It -->
+
+The chief town has a port called El Varadero ["the place for laying up ships"] for large vessels. 
+
+There are also other anchorages and bars throughout this island for smaller vessels. 
+
+
+The cape of Espiritu Santo, which is sighted by ships entering the Filipinas Islands on the way from Nueva España, is in an island called Tendaya, [299] in about 13 degrees.
+
+20 leguas south after turning this cape of Espiritu Santo lie the island of Viri, and many others which are sighted. 
+
+Through them an entrance opens to the island of Sebu by a strait called San Juanillo, which is formed by these islands. It is not very good or safe for the larger ships.
+
+But toward the north after leaving this course, one reaches the island of Capul, which forms a strait and channel of many currents and rough waves, through which the ships enter. 
+
+Before reaching the strait there is a rock, or barren islet, called San Bernardino; this strait is formed by the coast of the island of Luzon and that of the island of Capul. Its channel is about one legua long and less wide.
+
+On leaving this strait, after having entered by it, three small islets form a triangle. They are called the islands of Naranjos ["Oranges"], and are lofty and inaccessible with steep rocks. 
+
+Upon them ships are wont to be driven by the powerful currents, even though they try to escape them. These are not inhabited, but the others [Capul, Viri, etc.] are large islands containing many settlements of natives and all kinds of provisions and food.
+
+South of this district lie the islands of Biçayas, or, as they are also called, Pintados. 
+
+They are many in number, thickly populated with natives. Those of most renown are Leite, Ybabao, [300] Camar [Samar], Bohol, island of Negros, Sebu, Panay, Cuyo, and the Calamianes. 
+
+
+### The Visayans
+
+All the natives of these islands, both men and women, are well-featured, of a good disposition, and of better nature, and more noble in their actions than the inhabitants of the islands of Luzon and its vicinity.
 
 They differ from them in their hair, which the men wear cut in a cue, like the ancient style in España. Their bodies are tattooed with many designs, but the face is not touched. [301] They wear large earrings of gold and ivory in their ears, and bracelets of the same; certain scarfs wrapped round the head, very showy, which resemble turbans, and knotted very gracefully and edged with gold.
 
-They wear also a loose collarless jacket with tight sleeves, whose skirts reach half way down the leg. These garments are fastened in front and are made of medriñaque and colored silks. They wear no shirts or drawers, but bahaques [i.e., breech-clouts] of many wrappings, which cover their privy parts, when they remove their skirts and jackets. The women are good-looking and graceful. They are very neat, and walk slowly. Their hair is black, long, and drawn into a knot on the head. Their robes are wrapped about the waist and fall downward. These are made of all colors, and they wear collarless jackets of the same material. Both men and women go naked and without any coverings, [302] and barefoot, and with many gold chains, earrings, and wrought bracelets.
+They wear also a loose collarless jacket with tight sleeves, whose skirts reach half way down the leg. These garments are fastened in front and are made of medriñaque and colored silks. They wear no shirts or drawers, but bahaques [i.e., breech-clouts] of many wrappings, which cover their privy parts, when they remove their skirts and jackets. The women are good-looking and graceful. 
+
+They are very neat, and walk slowly. Their hair is black, long, and drawn into a knot on the head. Their robes are wrapped about the waist and fall downward. These are made of all colors, and they wear collarless jackets of the same material. Both men and women go naked and without any coverings, [302] and barefoot, and with many gold chains, earrings, and wrought bracelets.
 
 Their weapons consist of large knives curved like cutlasses, spears, and caraças [i.e., shields]. They employ the same kinds of boats as the inhabitants of Luzon. They have the same occupations, products, and means of gain as the inhabitants of all the other islands. These Visayans are a race less inclined to agriculture, and are skilful in navigation, and eager for war and raids for pillage and booty, which they call mangubas. [303] This means "to go out for plunder."
 

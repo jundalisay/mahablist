@@ -1,6 +1,6 @@
 ---
-heading: Chapter 8d
-title: "The Philippine Islands"
+heading: Chapter 6d
+title: "Expedition from Lima"
 date: 2024-09-22
 weight: 22
 image: /photos/medieval/magellan.jpg
@@ -168,5 +168,7 @@ Besides my desire to serve your Grace, I am moved to leave this brief relation f
 
 Will your Grace look favorably upon my great desire to serve you, of which I shall give a better proof, if God permit me to return to this port. Will your Grace also pardon my brevity, since the fault lies in the short time at my present disposal. 
 
-Moreover, since no man knows what time may bring, I beg your Grace to keep the matter secret, for on considering it well, it seems only right that nothing be said about the first islands until his Majesty be informed and order what is convenient to his service, for, as the islands occupy a position midway between Peru, Nueva Españia, and this land, the English, on learning of them, might settle them and do much mischief in this sea. Your Grace, I consider myself as the faithful servant of your Grace. May God our Lord preserve you for many years in great joy and increasing prosperity, etc. Your Grace's servant, PEDRO FERNANDEZ DE QUIROS To Doctor Antonio de Morga, lieutenant-governor of his Majesty in the Filipinas.
+Moreover, since no man knows what time may bring, I beg your Grace to keep the matter secret, for on considering it well, it seems only right that nothing be said about the first islands until his Majesty be informed and order what is convenient to his service, for, as the islands occupy a position midway between Peru, Nueva Españia, and this land, the English, on learning of them, might settle them and do much mischief in this sea. Your Grace, I consider myself as the faithful servant of your Grace. May God our Lord preserve you for many years in great joy and increasing prosperity, etc. 
+
+Your Grace's servant, PEDRO FERNANDEZ DE QUIROS To Doctor Antonio de Morga, lieutenant-governor of his Majesty in the Filipinas.
 

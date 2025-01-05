@@ -1,8 +1,8 @@
 ---
-heading: Chapter 6i
+heading: Chapter 6j
 title: "Prauncar, King of Camboja"
 date: 2024-09-22
-weight: 32
+weight: 31
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png
@@ -21,17 +21,41 @@ The news came in letters from King Prauncar to Governor Don Francisco Tello and 
 
 
 {{< box >}}
-Prauncar, King of Camboja, to Doctor Antonio de Morga, greeting; to whom I send this letter with great love and joy.
+Prauncar, King of Camboja, to Doctor Antonio de Morga, greeting;
 
-I, Prauncar, King of the rich land of Camboja, I, sole lord of it, the great, cherish an ardent love for Doctor Antonio de Morga, whom I am unable to keep from my thoughts, because I have learned through Captain Chofa Don Blas, the Castilian, that he, from the kindness of his heart, took an active part and has assisted the governor of Luzon to send to this country Captain Chofa Don Blas, the Castilian, and Captain Chofa Don Diego, the Portuguese, with soldiers to find King Prauncar my father.
+ <!-- to whom I send this letter with great love and joy. -->
 
-Having searched for him in vain, the two chofas and the soldiers killed Anacaparan, who was reigning as sole great lord. Then they went with their ships to Cochinchina, whence the two chofas went to Lao, to find the king of this land. They brought me back to my kingdom, and I am here now through their aid. The two chofas and other Spaniards who have come, have helped me to pacify what I now hold. I understand that all this has come to me because the doctor loves this country. 
+I, Prauncar, King of the rich land of Camboja, sole lord of it, cherish an ardent love for Doctor Antonio de Morga.
 
-Hence I shall act so that Doctor Antonio de Morga may always love me as he did my father Prauncar, and assist me now by sending fathers for the two chofas and the other Spaniards and Christians who dwell in my kingdom. I shall build them churches and permit them to christianize whatever Cambodians choose to become Christians.
+Captain Chofa Don Blas told me that he came from Luzon with the Portuguese Captain Chofa Don Diego with soldiers to find King Prauncar my father.
 
-I shall provide them with servants and I shall protect them as did formerly King Prauncar my father. I shall provide Doctor Antonio de Morga with whatever will be useful to him from this country. The two chofas have received the lands which I promised them.
+<!-- , the Castilian, that he, from the kindness of his heart, took an active part and has assisted the governor of Luzon to send to this country Captain Chofa Don Blas, the Castilian, and   the two chofas and the soldiers -->
 
-To Captain Don Blas, the Castilian, I gave the province of Tran, and to Captain Chofa Don Diego, the Portuguese, the province of Bapano. These provinces I grant and bestow upon them for the services which they have rendered me and in payment for the property they have spent in my service, so that they may possess and enjoy them as their own, and do what they will with them while in my service. [96]
+They searched for him in vain. But they killed Anacaparan [the usurper]. 
+
+<!-- , who was reigning as sole great lord.  -->
+
+Then they went with their ships to Cochinchina, whence the two chofas went to Lao to find the king.
+
+They brought me back to my kingdom and have helped me to pacify what I now hold.
+
+I understand that all this has come to me because of you.
+
+<!--  and I am here now through their aid. The two chofas and other Spaniards who have come, 
+the doctor loves this country.  -->
+
+<!-- Hence I shall act so that Doctor Antonio de Morga may always love me as he did my father Prauncar, and assist me now by -->
+
+Please send me fathers for the two chofas and the other Spaniards and Christians who dwell in my kingdom. I shall build them churches and permit them to christianize whatever Cambodians choose to become Christians.
+
+I shall provide them with servants and I protect them as did formerly King Prauncar.
+
+I shall provide you with whatever will be useful to you from this country.
+- The two chofas have received the lands which I promised them.
+
+To Captain Don Blas, the Castilian, I gave the province of Tran, and to Captain Chofa Don Diego, the Portuguese, the province of Bapano.
+
+These provinces I grant and bestow upon them for the services which they have rendered me and in payment for the property they have spent in my service, so that they may possess and enjoy them as their own, and do what they will with them while in my service. [96]
 {{< /box >}}
 
 
@@ -69,83 +93,245 @@ The Chinese had no more right in Camodia than we had.
 
 <!-- , and that we had to try to gain reputation, not to lose it. Since  -->
 
-We came with a warlike attitude, and it was the first time that an armed Spanish force set foot on the mainland, was it right for us to endure insults, abuse, contempt, and open affronts from a so vile race as they are, and before all these pagans? 
+We came with a warlike attitude. It was the first time that an armed Spanish force set foot on the mainland.
 
-Was it right to endure the further action of their arguments before the usurping king, to induce him to kill us; their many evil and infamous reports to him concerning us, in order to induce him to grant their request; and above all their impudence in killing and disarming Spaniards and going out in the streets to spear them?
+Was it right for us to endure insults, abuse, and contempt from a so vile race as they are, and before all these pagans? 
 
-All this I endured very patiently in order not to disturb the land by breaking with them, until one day when they actually tried to kill some of our men in their Parián, and the numbers being very unequal, they had already wounded and maltreated them. 
+Was it right to endure the further action of their arguments before the usurping king, to induce him to kill us?
 
-We came out at the noise and the Chinese drew up in battle array, armed with many warlike instruments, challenging us to battle, with insults and expressions of contempt. At this juncture, what would have become of our reputation had we retired when the advantage was on their side?
+ <!-- their many evil and infamous reports to him concerning us, in order to induce him to grant their request; and above all their impudence in killing and disarming Spaniards and going out in the streets to spear them? -->
 
-Then, too, after attacking and killing many of them what security had we in this tyrannical kingdom, which showed itself not at all friendly to us, with only one ship, [98] which was at the time aground, and with the artillery and provisions ashore; while they had six ships and many rowboats all provided with one or two culverins and many men, both in the ships and those living in the port? [99] 
+All this I endured very patiently in order not to disturb the land by breaking with them. This was until one day they actually tried to kill some of our men in their Parián.
 
-Would it have been right, after war had broken out, to have them with all their resources while we had none? Had they taken our lives, what reputation would the Spaniards have left in these kingdoms? 
+ <!-- and the numbers being very unequal, they had already wounded and maltreated them.  -->
 
-For this reason I thought it better for us to overpower them, rather than to be at their mercy, or at that of the king. 
+We came out at the noise and the Chinese drew up in battle array, armed with many warlike instruments, challenging us to battle, with insults and expressions of contempt.
 
-Accordingly, in order to assure our lives we were obliged to seize their ships and to strengthen ourselves by means of them, since the Chinese began the war.
+At this juncture, what would have become of our reputation had we retired when the advantage was on their side?
 
-After this, father Fray Alonso Ximenez and we thought that, by making an embassy with presents to the king, and by exculpating ourselves in this matter, before him, everything would turn out well; and that if we had peace with him, and our persons in safety in a fort, or under his word and safe-conduct, we would give the Chinese their ship and property.
+We attacked and killed many of them.
 
-All this was written out and signed by us. In order to carry this out, a letter was written in the name of the governor of that city [i.e., Manila], and we went to deliver it nine leguas away at the residence of the king, leaving the vessels guarded. But when he found us there, the king deprived us of the boats in which we had gone, and refused to receive the letter, which went under form of embassy, or to hear us unless we first restored the ships. 
+We do not have security in this tyrannical kingdom which is not at all friendly to us.
 
-Then he immediately began to prepare arms and to assemble many men, with the intention, unless we restored the ships, of killing us, or reducing us by force to such straits as to compel us to restore them; and after their restoration, of making an end of us all without trouble or risk to his own men.
+We had only one ship [98] which was aground at the time.
 
-For he trusted us in nothing, since we were going in search of, and bringing help to, him whom he had dispossessed. All this was told us by some Christians among them, especially by a young mestizo from Malaca who lived among them and knew their language. Therefore considering that we were already separated from our companions, and that, if we restored the ships, they could easily take ours by means of them and kill the men left in them, and then us who were in that place; also that if we waited for them to collect and attack us, they could very easily kill us: we decided to seek the remedy by first attacking them instead of waiting to be attacked; and try to rejoin our men and assure our lives or end them by fighting. Accordingly we attacked them, and such was our good fortune that we killed the king in the fight. Then we retired to our ships with great difficulty, without the loss of a single Spaniard. We did not allow the king's house to be sacked, so that it might not be said that we had done this to rob him. At this juncture, the captain and sargento-mayor, our leader, arrived.
+Our artillery and provisions were ashore.
 
-He belittled and censured what we had done, and ridiculed our statement and that of some of the Cambodians, namely, that we had killed the usurper. All that he did was simply to collect whatever silver and gold certain soldiers seized during these troubles, and everything valuable in the ships, and then to burn the latter. Then he drew up a report against us and dispossessed us of our ships and command, thus formulating suspicion and distrust. 
+They had 6 ships and many rowboats all with 2 culverins and many men.
 
-After that he gave orders for the departure from the kingdom, paying no heed to many Cambodians who came to speak to us when we went ashore, and told us that we might build a fortress there, for they had a legitimate king before, but that he who was their king lately had driven him to Lao, and thus they had no king; that they would gather wherever the most protection could be found; and that we should continue the war. Nor did the captain accept any of our suggestions, when we told him that the usurper had imprisoned a kinsman of the lawful king; that we should go to his rescue; that the latter would raise men in favor of the legitimate king; and that with his support we would take possession of the kingdom, and then go to get the king. But he was deaf to all this and accordingly abandoned the kingdom, and this great opportunity was lost. 
+<!-- , both in the ships and those living in the port? [99]  -->
 
-The only thing that we could obtain from him by great entreaty after putting to sea, was to go to Cochinchina to inquire about the galley, since they had intended to send from Manila for that purpose. I also offered to go to Lao by land at my own expense, in search of the king of Camboja, for I knew that that way led thither. 
+After war had broken out, they had all their resources while we had none.
+
+Had they taken our lives, what reputation would the Spaniards have left in these kingdoms? 
+
+This is why I thought it better for us to overpower them rather than to be at their mercy.
+
+Accordingly, since the Chinese began the war, we were obliged to:
+- seize their ships
+- strengthen ourselves through them
+
+Father Fray Alonso Ximenez and we thought that everything would turn out well by:
+- making an embassy with presents to the king
+- exculpating ourselves in this matter before him
+- returning to the Chinese their ship and property if they promised peace, our persons in safety in a fort under his word
+
+ <!-- and safe-conduct, we would the king. -->
+
+<!-- All this was written out and signed by us. In order to carry this out,  -->
+
+We wrote a letter in the name of the Manila governor. We delivered it 9 leguas away to the king, leaving the vessels guarded.
+
+But when he found us there, he deprived us our boats and refused to receive the letter unless we first restored the ships.
+
+<!-- , which went under form of embassy, or to hear us   -->
+
+Then he immediately prepared arms and assembled many men to kill us unless we restored the ships.
+
+<!-- , of killing us, or reducing us by force to such straits as to compel us to restore them; and after their restoration, of making an end of us all without trouble or risk to his own men. -->
+
+He did not trust us since we were going to help [his rival king]. 
+
+<!-- in search of, and bringing help to, him whom he had dispossessed.  -->
+
+All this was told to us by some Christians among them, especially by a young mestizo from Malaca who lived among them and knew their language.
+
+<!-- Therefore considering that we were already separated from our companions, and that, if we restored the ships, they could easily take ours by means of them and kill the men left in them, and then us who were in that place; also that if we waited for them to collect and attack us, they could very easily kill us:  -->
+
+We decided to attack them first instead of waiting to be attacked, then rejoin our men.
+
+ <!-- and assure our lives or end them by fighting. Accordingly we attacked them, and such was our good fortune -->
+
+So we attacked and we were lucky that we killed the king in the fight.
+
+Then we retired to our ships with great difficulty, without the loss of a single Spaniard.
+
+We did not allow the king's house to be sacked, so that they would not say that we did this to rob him.
+
+Then the captain and sargento-mayor, our leader, arrived.
+
+He belittled and censured what we had done, and ridiculed our statement and that of some of the Cambodians, namely, that we had killed the usurper.
+
+He merely collected whatever silver and gold the soldiers seized during these troubles, and everything valuable in the ships, and then to burn the ships. 
+
+Then he drew up a report against us and dispossessed us of our ships and command, thus formulating suspicion and distrust. 
+
+After that, he gave orders to leave the kingdom. 
+
+He paid no heed to many Cambodians who came to speak to us when we went ashore. He told us that we might build a fortress there. 
+
+They had a legitimate king before who was driven to Lao by the usurper. Thus, they had no king.
+
+He told us to:
+- gather wherever the most protection could be found
+- continue the war
+
+He did not accept any of our suggestions. We told him that we should rescue a kinsman of the lawful king who was imprisoned by the usurper.
+
+In this way, the kinsman would raise men in favor of the legitimate king who would then let us take his kingdom. 
+
+<!-- that with his support we would take possession of the kingdom, and then go to get the king.  -->
+
+But he was deaf to all this and accordingly abandoned the kingdom, and this great opportunity was lost. 
+
+The only thing that we could request from him after returning to sea was to go to Cochinchina to ask about the galley, since they had intended to send from Manila for that purpose.
+
+I also offered to go to Lao by land at my own expense, in search of the king of Camboja.
+
+<!-- , for I knew that that way led thither.  -->
 
 
-Accordingly, as soon as we arrived in Cochinchina, the captain sent Diego Belloso and myself to Lao, and Captain Gregorio de Vargas to Tunquin. Meanwhile he held an auction among the soldiers of everything valuable from the Chinese ships, and of what else he had taken from the soldiers; but the men were all without a real, and so he had everything bought for himself, at whatever price he was pleased to give. The king of Sinoa, a province of Cochinchina, equipped us for the voyage with a good outfit, by giving us an embassy for that country, and men to accompany us on the road. Thus we made the entire journey well provided and always highly honored and feared and much looked at, as the like had never before been seen in those kingdoms.
+As soon as we arrived in Cochinchina, the captain sent:
+- Diego Belloso and myself to Lao
+- Captain Gregorio de Vargas to Tunquin. 
 
-We were all sick on the road; but in all our troubles we were greatly comforted by the love which the people showed towards us, and: by the kind reception that we met at the hands of all. Finally we reached Lanchan, the capital and the royal seat of the kingdom. This kingdom has a vast territory, but it is thinly populated because it has been often devastated by Pegu. It has mines of gold, silver, copper, iron, brass, [sic] and tin. 
+Meanwhile he held an auction among the soldiers of everything valuable from the Chinese ships, and of what else he had taken from the soldiers.
 
-It produces silk, benzoin, lac, brasil, wax, and ivory. There are also rhinoceroses, many elephants, and horses larger than those of China. Lao is bounded on the east by Cochinchina and on the northeast and north by China and Tartaria, from which places came the sheep and the asses that were there when I went. Much of their merchandise is exported by means of these animals. On its west and southwest lie Pegu and Sian, and on the south and southeast, it is bounded by Camboja and Champan. [100] It is a rich country, and everything imported there is very expensive.
+But the men were all had no money. 
 
-Before our arrival at Lanchan, a cousin of the exiled king, on account of the usurper's death, had fled thither from Camboja, fearing lest the latter's son who was then ruling would kill him. He related what we had done in Camboja, in consequence of which the king of Lao received us very cordially, and showed great respect for us, praising our deeds and showing amazement that they had been accomplished by so few. When we arrived the old king of Camboja, together with his elder son and daughter, had already died, and there was left only the younger son with his mother, aunt, and grandmother. These women rejoiced greatly over our deeds and arrival, and more attention was given them thenceforth. Before our arrival at the city, we met an ambassador, whom the usurping king, Anacaparan, had sent from Camboja, in order that he might reach Lanchan before we did, and see what was going on there.
+So he bought them all himself. 
 
-He feigned excuse and pretext of asking for the old queen, who was the step-mother of the dead king Prauncar, and whom Anacaparan claimed to be his father's sister. The king of Lao was sending her, but at our arrival, and on our assuring him of Anacaparan's death, he ordered her to return, and the ambassador, for fear of being killed, fled down the river in a boat to Camboja. Then we declared our embassy, and asked for the heir of the kingdom in order to take him to our ships and thence to his own country. We were answered that he [i.e., the younger son] was the only one, and that they could not allow him to go, especially through a foreign country, and over such rough roads and seas. The youth wished to come, but his mothers [101] would not consent to it. Finally it was decided that we should return to the fleet and proceed with it to Camboja. We were to send them advices from there, whereupon they would send him under a large escort. His mothers gave me letters directed to that city [i.e., Manila], making great promises to the Spaniards on behalf of the kingdom, if they would return to Camboja to pacify the land and restore it to them. 
+ <!-- without a real, and so he had everything bought for himself, at whatever price he was pleased to give.  -->
 
-The king of Lao entrusted me with another embassy, in which he petitioned for friendship and requested that the fleet return to Camboja, adding that, should Gallinato be unwilling to return, he would send large forces by land to our assistance, under command of the heir himself. Thus we took leave and went to Cochinchina. While these things were happening in Lao, the following occurred in Camboja. As soon as the fleet had departed, the news of Anacaparan's death was published. When it was heard by Chupinaqueo, kinsman of the lawful king, who was in prison, he escaped from his prison, incited a province to rise, collected its men, and having proclaimed Prauncar as the lawful king, came to get us with about six thousand men, in order to join us and make war upon the sons of the usurper, who were now ruling. Not finding us in Chordemuco, where our ships had been lying, he sent boats to look for us as far as the bar. Seeing that we were nowhere to be found he seized all the Chinese and other people there, and returned to his province where he had gathered his forces, and there he fortified himself. Meanwhile the men at Champan, who had gone thither to take it, returned, whereupon the commander of the camp, called Ocuña de Chu, took sides with the sons of the usurper and had one of them—the second—Chupinanu by name, proclaimed king, because he was the most warlike. 
+The king of Sinoa, a province of Cochinchina, equipped us for the voyage with a good outfit, by giving us an embassy for that country, and men to accompany us on the road.
 
-For this reason, the elder brother, called Chupinanon, and those of his party were angered, and consequently there was continual strife between them. Then all having united, together with the army from Chanpan, pursued Chupinaqueo, who came out to meet them with many of his men. They fought for many days, but at last it was Chupinaqueo's fate to be conquered and cruelly killed. Thus for the time being Chupinanu ruled as king, and the camp was disbanded, each man going to his own home. At this time a ship arrived from Malaca on an embassy, bringing some Spaniards who came in search of us, and a number of Japanese. Chupinanu would have liked to have killed them all, but seeing that they came on an embassy, and from Malaca, he let them go immediately. A large province, called Tele, seeing the cruelty with which the king treated them, revolted, and declaring themselves free, proclaimed a new king; then they marched against Chupinanu, and defeated and routed him, took from him a large number of elephants and artillery, and sacked his city. In the battle, most of the Spaniards and Japanese who had come from Malaca were killed. Chupinanu retreated with all his brothers, six in number, to another province, always accompanied by Ocuña de Chu. There they began to make plans and to collect men. They also invited two Malays, leaders of all the other Malays on whom Chupinanu relied strongly, who on the break-up of the camp after Chupinaqueo's death, had gone to the lands of which they were magistrates. But in order that what follows may be understood, I will tell who these Malays are. When this country was being ravaged by Sian, these two went to Chanpan, taking with them many of their Malays, as well as many Cambodians; and because the ruler of Champan did not show them all the honors that they desired, they caused an insurrection in the city when he was away. They fortified themselves there, and then plundered the city, after which they returned to this kingdom with all the artillery and many captives. When they arrived here the usurper Anacaparan was ruling. Congratulating one another mutually for their deeds, the usurper gave them a friendly welcome, and they gave him all the artillery and other things which they had brought. Then the usurper gave them lands for their maintenance, and made them great mandarins. These two Malays made it easy for him to capture Champan, and offered to seize its king. Since the latter had been so great and long-standing an enemy of the Cambodians, Anacaparan immediately collected an army, which he sent under command of Ocuña de Chu. When we killed Anacaparan, these forces were in Chanpan, and, as abovesaid, they returned after his death. These men presented themselves before the new king, Chupinanu, with all their Malays and it was at once decided to attack the insurgents of Tele. At this juncture arrived the ambassador who had fled from Lao as we reached Lanchan. He said that we had remained there and that our purpose was to ask for the lawful heir of Camboja in order to take him to our ships and transport him to his kingdom; that the king of Cochinchina was going to help us in this undertaking; that we had entered Lao with that report; and that the king of Lao was about to send the heir with great forces by river and by land, while we and the men of Cochinchina would go by sea and join them in Camboja, where we would declare war and inflict severe punishment upon whomsoever would not render homage. When the new king and his followers heard this news they were frightened, and consequently each thought only of himself. A few days later it was reported from the bar that four Spanish ships had entered, accompanied by many galleys from Cochinchina. This report was either a vision that some had seen, or was a fiction; and we have been unable to clarify the matter to this very day. At any rate, on hearing this news, these people confirmed as true the entire report of the ambassador who had fled. 
+Thus we made the entire journey well provided and always highly honored and feared, as Europeans had never before been seen in those kingdoms.
 
-The mandarins of Camboja, taking into consideration the war which was now waging with the men of Tele, and the new one threatened by the Spaniards, Cochinchina, and Lao, decided to depose the new king and render homage to the one who was coming from Lao. For this purpose they communicated with the two Malays and together with them attacked the king with his brothers and turned them out of the realm. The two elder brothers fled separately, each to the province where he thought to find more friends. After this the mandarins ordered a fleet of row-boats to proceed toward Lao to receive their king, who they said was already coming. They sent Ocuña de Chu as leader of the fleet and also his two sons. Other boats were sent to the bar to receive the Spaniards, and make friendly terms with them, sending for that purpose certain Spaniards there.
+We were all sick on the road. But in all our troubles we were greatly comforted by the love which the people showed towards us.
 
-Two Cambodian mandarins and the two Malays were to remain to guard the kingdom, and to act as governors. The Spaniards went to the bar, but, finding nothing, returned. Ocuña de Chu took the road to Lao, but seeing that he did not meet his king, or hear any news of him, resolved to go to Lanchan and ask for him. He continued his march, but suffered some pangs of hunger, for he had left the kingdom unprovided, and the way was long. On account of this some of his men deserted, but at last he reached Lanchan with ten armed praus. All the kingdom of Lao was thrown into great confusion. Imagining that he was coming to make war, they abandoned their villages and property, and fled to the mountains. But on seeing that he was coming on a peaceful mission, they lost their apprehension. At his arrival we were already on the road to Cochinchina, whereupon the king ordered us to return to Lanchan immediately. The king [of Lao], on learning what was happening in Camboja, despatched there a large fleet by sea, and forces by land, and sent for the king of that country.
+<!-- , and: by the kind reception that we met at the hands of all. Finally w -->
 
-He despatched me to Cochinchina with news of what was happening, and to take the ships to Camboja; but, while on the way, I heard of the battle fought by our fleet, whereupon I returned to Camboja with the king. When we reached the first village of the kingdom, we learned from the spies who had preceded us, that, as the news of the ships had been untrue, and Cuña de Chu was delaying so long, the provinces where the two brothers sought shelter had proclaimed them kings, and were at war with one another; that the people of Tele had come to fight with the governors, who were divided into factions; and that each man obeyed whom he pleased. But they said that Ocuña Lacasamana, one of the Malay headmen, had the greatest force of artillery and praus; and that a Japanese junk—the one that had been in Cochinchina when our fleet was there—had arrived, and was supporting Chupinannu. The sea and land forces were collected together at the point where this news had been received, and it was found that they were not sufficient to make a warlike entry. A fort was built there, and a request for more men sent to Lao. In the meantime, secret letters were despatched to probe the hearts of the leading men. The men from Lao delayed, and no answers were received to the letters. 
+We reached Lanchan, the capital and the royal seat of the kingdom. 
 
-Feeling insecure in that place, they deliberated upon returning to Lao, but at this juncture news arrived from Ocuña Lacasamana, one of the Malays who had fortified himself in his own land, saying that he was on their side, although he had rendered homage to Chupinanu—a feigned promise because he had seen the king's delay—but that as soon as the king entered the land he would join his party. Soon after news came from another Cambojan governor, to the effect that, although he had rendered homage to Chupinanu, yet, if the king would come to him, he would attack Chupinanu, and depose or kill him. For that he said that he had four thousand men fortified with himself on a hill. He sent one of his relatives with this message. All trusted in this man, and immediately we set out for that place. When the above-mentioned man learned of the king's approach, he attacked the other king and routed him; then he came out to receive us, and thus we entered. That province and many others were delivered to us immediately. Chupinanu withdrew to some mountains. Immediately the two Malays, each with his forces, joined us; the Japanese did the same. The king then gave orders to pursue Chupinanu until he was taken and killed. Then he seized another man who was acting as judge in another province and put him to death. Soon after war began against the eldest of the brothers and against the people of Tele who also refused homage. At this juncture, a ship arrived from Malaca with fourteen Spaniards of our fleet, who had put into Malaca. The king was delighted thereat, and honored and made much of them, when he learned that they were some of the men who had killed the usurper. They were esteemed and respected in an extraordinary manner by the whole kingdom. Captain Diego Belloso tried to assume charge of them by virtue of an old document from Malaca; this I forbade, alleging that the right of this jurisdiction should proceed from Manila, since the restoration of this kingdom proceeded from that place, and that those men were Castilians and had nothing to do with his document or with Malaca. The king, before whom this matter was brought, replied that the matter lay between us two, and refused to mingle in those affairs. 
+This kingdom has a vast territory, but it is thinly populated because it has been often devastated by Pegu. 
 
-Some of the newcomers coincided with Belloso's opinion, and others with mine; and thus we have gone on until now. This has been the cause of my not asking the king for a fort to secure our personal safety. It would have been a footing for some business, [102] and what I shall relate later would not have happened to us. After the arrival of the Castilians, the king sent an embassy to Cochinchina—a Spaniard and a Cambodian—to get father Fray Alonso Ximenez and certain Spaniards, who, as we heard, had remained there. The ruler of Chanpan seized them, and they have not returned. The wars continued, in all of which the Spaniards and Japanese took part. Whatever we attacked, we conquered with God's assistance, but where we did not go, losses always resulted. Consequently we gained great reputation and were esteemed by our friends and feared by the enemy. While we were making an incursion, Ocuña de Chu, who was now called manbaray—the highest title in the kingdom—tried to revolt. In this he was aided by one of the Malay chiefs called Cancona. The king summoned me and ordered me to bring with me the Spaniards of my party. He ordered Diego Belloso to remain, for both of us were leaders and still are, in any war in which any of us is engaged. 
+It has mines of gold, silver, copper, iron, brass, and tin. 
 
-I came at his bidding, and he told me that those men were trying to kill him and deprive him of his kingdom, and asked me to prevent such a thing. The mambaray was the one who ruled the kingdom, and since the king was young and addicted to wine, he held the latter in little esteem and considered himself as king. At last, I, aided by Spaniards, killed him; then his sons were captured and killed. Afterward the Malay Cancona was seized and killed, and the king was extricated from this peril by the Spaniards. Then we returned to the war. 
+It produces silk, benzoin, lac, brasil, wax, and ivory.
 
-I learned that another grandee who was head of a province was trying to rebel and join Chupinannon; I captured him and after trying him, put him to death. Therefore the king showed great esteem for us, and the kingdom feared us; that province was subdued and we returned to the king. At this time a vessel arrived from Sian, and ported here on its way to an embassy at Manila. On board this vessel were father Fray Pedro Custodio and some Portuguese. The king was greatly delighted at the arrival of the father and wished to build him a church. We all united and continued the war. Again we returned, after having reduced many provinces to the obedience of the king, and left Chupinanon secluded on some mountains, thus almost ending the war. Hereupon many Laos arrived under the leadership of one of their king's relatives, for hitherto they had done nothing nor uttered any sound. I do not know whether it was from envy at seeing us so high in the king's favor and that of the people of the kingdom, or whether they decided the matter beforehand in their own country; they killed a Spaniard with but slight pretext. When we asked the king for justice in this matter, the latter ordered his mandarins to judge the case. Meanwhile we sent for the Japanese who were carrying on the war in another region, in order to take vengeance if justice were not done. The Laos, either fearing this, or purposing to make an end of us, attacked our quarters at night and killed the father and several Spaniards who had accompanied him and who were sick; they also killed some Japanese, for their anger was directed against all. The rest of us escaped and took refuge on the Japanese vessel, where we defended ourselves until the arrival of the Japanese. The Laos made a fort and strengthened themselves therein. There were about six thousand of them.
+There are also rhinoceroses, many elephants, and horses larger than those of China.
 
-They sent a message to the king saying that they would not agree to any act of justice which he might order to be carried out. The king was very angry for the deaths that they had caused, and for the disrespect with which they treated him; but, in order not to break with their king, he refused to give us forces with which to attack them, although we often requested him to do so; nor did we attack them ourselves, as we were without weapons. The king sent word of this affair to Lao, and we remained for the time, stripped, without property, without arms, without justice or revenge, and quite angry at the king, although he was continually sending us excuses, saying that if the king of Lao did not do justice in this matter, he himself would do it, and would not let them leave the country on that account; he also sent us food, and some clothes and weapons. At this juncture a ship was despatched on an embassy to Malaca in which we wished to embark, but neither the king nor his mothers would allow Diego Belloso or me to leave. Some of the Spaniards embarked in it, some returned to Sian, and others remained with us; and the king from that time on made us more presents than ever.
+Lao is bounded on the east by Cochinchina and on the northeast and north by China and Tartaria, from which places came the sheep and the asses that were there when I went.
 
-The Japanese gathered in their ship, and refused to continue the war. When the enemy learned that we were in confusion, they collected large forces and regained many undefended regions. The king requested the Laos to go to war, since they had thrown into confusion those who were defending his country. They went, lost the first battle, and returned completely routed, leaving many dead and wounded on the field. Chupinanon followed up the victory and came within sight of the king's residence, only a river separating them. Thereupon the king quite disregarded the Laos, and persuaded us and the Japanese to take up arms again and defend him. By this time we had all reëquipped ourselves with arms and ammunition, and after much entreaty from him and his mothers, we went to war and relieved a fortress which Chupinanon was besieging. We won two battles and forced him to withdraw, thus taking from him all he had just regained, as well as other lands which had remained in those regions. We captured a quantity of rice and provisions from the enemy—with which the king's forces recuperated themselves, for they were suffering famine—and we went into quarters. This we did, I, the Spaniards, and the Japanese who were on my side. Diego Belloso and his men went to Tele, killed its king, and returned after having conquered part of the province. At this time a Portuguese ship arrived from Macao, [103] laden with merchandise; on which account, and on beholding our deeds, the Laos were filled with great fear of us, and without leave from the king, departed in boats to their country. 
+Much of their merchandise is exported by means of these animals. On its west and southwest lie Pegu and Sian, and on the south and southeast, it is bounded by Camboja and Champan. [100] 
 
-Thereupon we went to the king, and requested him not to let them go without doing justice, unless he wished to break friendship with Luzon and Malaca. He replied that he did not dare detain them, but that if we wished to pursue and dared to fight them, he would secretly give us men. Accordingly we all negotiated for ten praus, and followed them. But since they were far ahead of us and under the spell of fear, we could not overtake them for many days. For this reason Belloso turned back with some Spaniards and Japanese. 
+It is a rich country, and everything imported there is very expensive.
 
-I followed with great difficulty—on account of certain strong currents, for we dragged the praus part way with ropes—although with but few men, until I overtook many of the Laos, and seized their praus and possessions, from which we all received compensation and gained still more in reputation, which at present we enjoy to a higher degree than was ever enjoyed by any nation in foreign lands. We are greatly esteemed by the king and his men, and by those native here; and greatly feared by foreigners. Accordingly we receive great respect in all parts of the kingdom. They have bestowed upon Captain Diego Belloso and myself the title of grandee, the highest in their kingdom, so that we may be more respected and feared, and better obeyed.
+<!-- Before our arrival at Lanchan, , on account of -->
 
-Two of the best provinces in the kingdom are entered in our names, and will be made over to us as soon as the turmoils of war are settled and assemblies have been held to take the oaths to the king, which has not yet been done. In the meantime we are making use of other people whom the king orders to be given us. There is no opportunity in the kingdom for any one else to possess entire power and command, beyond Ocuña Lacasamana, leader of the Malays, whom the king favors on account of his large forces, and because he needs him for the wars in which he is engaged. The Spaniards have some encounters with his men, for which reason we hold aloof from one another. I have informed your Grace so minutely of these wars and affairs, in order that it may be judged whether his Majesty has any justifiable and legal right to seize any portion of this kingdom, since his forces killed the man who was quietly in possession of it; and since its heir, who was driven away where he had lost hope of ever again possessing it, has afterward reconquered it through his Majesty's subjects, who have guarded and defended his person from his enemies. For the hope that the king will give it up voluntarily will never be realized, as he rather fears having so many Spaniards in his country, even while he esteems them; for he dreads lest they deprive him of his kingdom, since he sees that this only requires the determination therefor. Some of our enemies impress this fact upon him, especially the Moros. 
+After the usurper's death, a cousin of the exiled king went there from Camboja, fearing that the usurper's son would would kill him.
 
-I beg and entreat your Grace, who can do so much in this matter, to see that we do not lose our hold on this land, since so much has been accomplished in it, and it has been brought to a so satisfactory state. Moreover it is very important to possess a fortress on the mainland, since it is the beginning of great things. For if a fortress be built here, and the king see a large force in this land, he would have to do what he knows to be just, even if ill-disposed. I say this on account of his mother, aunt, and grandmother, who rule and govern, for he only does as they tell him. He is a child and is addicted to wine more than his father; he only thinks of sports and hunting, and cares nothing for the kingdom. Therefore should he see many Spaniards, and that nobody could harm them, he would do whatever they wished, because, as above-said, he loves them; neither would our opponents dare to offer any opposition. If perchance there should be so few men in the Filipinas at present that no great number of them can be sent, at least send as many as possible with the fathers, so as not to lose this jurisdiction and our share in anything; for Diego Belloso sent to Malaca for religious, men, and documents, so that by that means he may become chief justice of this land, and make over this jurisdiction to Malaca. Since this kingdom has been restored by that kingdom [i.e., the Philippines], your Grace should not allow others to reap the fruits of our labors. If some soldiers should come, and the Cambodians should refuse them the wherewithal to maintain themselves because of their small number, and not fearing them, I would do here whatever your Grace bade me, so long as it were reasonable; and until more soldiers came, I could manage to make the Cambodians give it, however much against their inclination. These men should come bound hard and fast by documents, so that, as the country is very vast, they should not be tempted to avail themselves of license, for lack of discipline was the cause of our encounter with the Laos. It has been very difficult for me to despatch this vessel, because little is given to the king for any purpose, and because there were many opponents to prevent it—for it is evident that the mandarins, whether native or foreign, are not pleased to see men set over them in the kingdom—and as I am poor, for I have lived hitherto by war, and subsisted from its gains by many wars, for the king also is very poor.
+He told what we had done in Camboja. This made the king of Lao receive us very cordially, and showed great respect for us. He praised our deeds and showed amazement that they had been accomplished by so few.
 
-The Spaniard whom I entrust with this mission is poor and an excellent soldier; and to enable him to go, I have assisted him from my indigence. Will your Grace please assist both him and the Cambodian, in order that the latter may become acquainted with some of the grandeur of his Majesty. I would rejoice to be the bearer of this, so as to give your Grace a long account of these affairs and of other notable things, and of the fertility of these kingdoms; but neither the king nor his mothers have allowed me to go, as the bearer will state, among other things. Your Grace may believe him, for he is a person disinterested in all respects, having just arrived from Macan. On account of the many wars, the king does not possess many things to send your Grace. He sends two ivory tusks, and a slave. Your Grace will forgive him; he will send many things next year, if the pacification of his country is accomplished, for he still has something to do in it. 
+When we arrived, the old king of Camboja, together with his elder son and daughter, had already died.
 
-I have spoken to him and persuaded him to send to that city [i.e., Manila] to request soldiers, in order to complete the pacification of the country; but his mothers would not have it on any account, I am sure that they act thus in order not to promise them lands for their maintenance, or that they may not seize the land. But when they were in Lao, they promised very vast lands. But if what is done is not sufficient to provide for them, let the mercy of God suffice. When this embassy was despatched, Diego Belloso and myself told the king that if he did not give us the lands that he had promised us, we intended to go to Luzon, because we did not now possess the wherewithal with which to maintain ourselves. Many things occurred with respect to this request, but finally he gave us the lands, as is stated in the embassy; he gave them to us on condition of our holding them in his service and obedience. By this means I shall have more resources for your Grace's service. I spent all my possessions in meeting the expenses that I incurred in that city [i.e., Manila], and in maintaining my men in this kingdom. For that purpose I took the silver of the common seamen of my vessel, and although I paid the latter with some silver which we found in the [Chinese] ships, Gallinato would not consent to it, but took it all for himself. In Malaca they made me pay it out of the property on my ship, and would not consent to their being paid out of the prizes, since the war was considered a just one. [104] For this reason I am now destitute of any property, and therefore do not possess the means of serving your Grace as I ought and as I should have desired. Recollecting your Grace's unique armory I send you a bottle and a small flask of ivory. Your Grace will forgive the trifle for I promise to compensate for it next year. Your Grace may command me in any service for I shall take great pleasure therein. Will your Grace do me the favor to protect my affairs, so that they may gain some merit by your favor. Trusting to this, may our Lord preserve your Grace, and give you increase in your dignity, as this servant of your Grace desires in your affairs. From Camboja, July twenty, one thousand five hundred and ninety-eight.
+There was left only the younger son with his mother, aunt, and grandmother.
 
-Your Grace's servant,
+These women rejoiced greatly over our deeds and arrival, and more attention was given them thenceforth. 
 
-BLAS RUYZ DE HERNAN GONÇALES
+The usurping king Anacaparan sent from Camboja an ambassador to Lao. 
+
+Before our arrival at the city, we met him and assured him of Anacaparan's death. This made him return to Camboja.  
+
+ <!-- , in order that he might reach Lanchan before we did, and see what was going on there. -->
+
+<!-- He feigned excuse and pretext of asking for the old queen, who was the step-mother of the dead king Prauncar, and whom Anacaparan claimed to be his father's sister. 
+
+The king of Lao was sending her, but at our arrival, and on our assuring him of Anacaparan's death, he ordered her to return, and the ambassador, for fear of being killed, fled down the river in a boat to Camboja.  -->
+
+Then we declared our embassy. We asked to take the heir to our ships back to Camboja.
+
+They rejected it.
+<!-- We were answered that he [i.e., the younger son] was the only one, and that they could not allow him to go, especially through a foreign country, and over such rough roads and seas. The youth wished to come, but his mothers [101] would not consent to it. Finally it was decided that  -->
+
+Instead, we were to return to our ships and send them advices from it.
+
+The Lao would send the heir to Camboja under a large escort.
+
+His mothers gave me letters for Manila, asking the Spanish to pacify Camboja.
+
+<!-- making great promises to the Spaniards  on behalf of the kingdom, if they would return to Camboja to pacify the land and restore it to them.  -->
+
+<!-- entrusted me with another embassy, in which he petitioned for friendship and requested that the fleet return to Camboja, adding that, should -->
+
+The king of Lao said if Gallinato was unwilling to return, he would send large forces by land to our assistance, under command of the heir.
+
+So we left for Cochinchina.
+
+<!-- While these things were happening in Lao, the following occurred in Camboja. As soon as the fleet had departed, the news of Anacaparan's death was published. When it was heard by  -->
+
+Chupinaqueo, kinsman of the lawful king, escaped from his prison and incited a province to rise. He collected 6,000 men to help us make war on the sons of the usurper, who were now ruling.
+
+<!-- , and having proclaimed Prauncar as the lawful king, came to get us with about six thousand men, in order to join us and  -->
+
+But he could not find us in Chordemuco. 
+
+<!-- Not finding us , where our ships had been lying, he sent boats to look for us as far as the bar. Seeing that we were nowhere to be found  the men at Champan-->
+
+So he seized all the Chinese and other people there, and returned to his province to fortify himself.
+
+Meanwhile, Champa army, led by Ocuña de Chu, went to Chordemuco to recover the Chinese.
+
+Ocuña de Chu sided with the sons of the usurper.
+- He proclaimed the second son Chupinanu as king because he was the most warlike.
+
+<!-- , returned, whereupon the commander of the camp, called , took sides with  -->
+
+ <!-- and had one of them—the second— by name, proclaimed king,   -->
+
+<!-- This angered the first son Chupinanon.
+
+This led to strife between them. -->
+
+They, with the Champa army, they fought and defeated and killed Chupinaqueo.
+
+<!--  for many days. 
+
+ and those of his party were angered, and consequently there was continual strife between them. Then all having united, together with the army from Chanpan, 
+
+ pursued , who came out to meet them with many of his men. They fought for many days, but at last it was Chupinaqueo's fate to be conquered and cruelly killed.  -->
+
+Thus, for the time being Chupinanu ruled as king and the camp was disbanded.
+
+<!-- each man going to his own home.  -->
+
+At this time a ship arrived from Malaca on an embassy, bringing some Spaniards and some Japanese to search for us.
+
+Chupinanu would have liked to have killed them all, but seeing that they came on an embassy, and from Malaca, he let them go immediately. 
+
+A large province, called Tele, saw the cruelty of Chupinanu and revolted and defeated Chupinanu. 
+
+<!-- , and declaring themselves free, proclaimed a new king; then they marched against Chupinanu, and defeated and routed him,  -->
+
+They took from him many elephants and artillery, and sacked his city.
+
+In the battle, most of the Spaniards and Japanese who had come from Malaca were killed.
+
+Chupinanu retreated with all his 6 brothersto another province, always accompanied by Ocuña de Chu.
+
+There they began to make plans and to collect men. 
+
+They also invited 2 Malays, leaders of all the other Malays on whom Chupinanu relied strongly, who on the break-up of the camp after Chupinaqueo's death, had gone to the lands of which they were magistrates.
+
+But in order that what follows may be understood, I will tell who these Malays are. 
 {{< /box >}}
-

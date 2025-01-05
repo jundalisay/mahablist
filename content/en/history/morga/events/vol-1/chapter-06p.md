@@ -1,72 +1,188 @@
 ---
 heading: Chapter 6p
-title: "The Conquest of Jolo"
+title: "The End of the Spanish in Cambodia"
 date: 2024-09-22
-weight: 36
+weight: 37
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png
 ---
 
 
+<!-- After Don Juan de Çamudio's departure from El Pinal, where Don Luis Dasmariñas remained with his junk awaiting the assistance that he expected from Manila and which he had requested through Don Joan and Alférez Francisco Rodrigues, Don Luis thought that, since some time had passed, the answer was being delayed, while his people were suffering great want and cold there. Therefore he -->
 
-The daring and audacity of the Mindanaos and Joloans in making incursions with their fleets into Bisayas led to the expectation that they would come to Manila. 
+Don Luis Dasmariñas tried to leave El Pinal in Canton and return to Manila. 
 
-So at the start of 1602, Governor Don Francisco Tello decided for an expedition against Jolo immediately with the forces whom Captain and Sargento-mayor Joan Xuarez Gallinato held in Sebu and in the Pintados, together with more men, ships, and provisions, which were sent him, accompanied by the necessary documents and instructions for him to enter the island.
+But the weather did not permit this, nor was the vessel large enough to hold all of Don Luis's men for the voyage.
 
- <!-- chastise its king and inhabitants, and pacify and reduce it to the obedience of his Majesty.  -->
+<!-- He stopped near the fort where the Portuguese of Macan again sent him many messages and requests to leave the coast at once, warning him that they would seize him and his companions, and would send them to India, where they would be severely punished. Don Luis always answered them that he had not come to harm or offend them, but that he was going to the kingdom of Camboja for the service of God and of his Majesty; that he had been shipwrecked and had suffered many hardships, the severest of which had been due to the Portuguese of Macan themselves, subjects of his Majesty; that he was expecting help from Manila in order that he might return thither; and that he begged and requested them to aid and protect him, and to free the two Castilians whom they had seized.
 
-<!-- By this means, until there should be an opportunity to settle the affairs of Mindanao, which is quite near Jolo, the audacity of the enemy would be checked; and by bringing the war into his own country, he would not come out to commit depredations. -->
+Finally he declared that if, in spite of all this, they should attempt to do him any harm or injury, he would defend himself to the best of his ability; and he protested that any losses resulting therefrom would lie at their door.
 
-Captain Gallinato set out with 200 Spanish soldiers, ships, artillery, enough provisions for 4 months.
 
-<!-- —the time which it was thought the expedition would last—and with Indians as rowers for the ships and for other services that might arise. , at the bar of the river of this island, which is -->
+Thenceforward Don Luis Dasmariñas kept strict watch on his ship. He kept his weapons ready and the artillery loaded, and was on his guard day and night. And he was not mistaken, for  -->
 
-He arrived at Jolo 2 leguas from the principal town and dwellings of the king.
+<!-- The people of Macan resolved to attack Don Luis to seize him.
 
- <!-- he landed his men, artillery, and the necessary provisions and left his ships under a sufficient guard.  -->
+To this end the chief captain himself came one day, with some fustas and other vessels, and with men armed with javelins, guns, and artillery, when they thought the Castilians would be off their guard, to attack Don Luis Dasmariñas. The latter, suspecting what was about to happen, awaited them arms in hand; and as he saw the Portuguese fleet attacking him, he began to play upon them with his muskets, arquebuses, and a few pieces of artillery, with such rapidity that he inflicted a very severe loss upon his enemy and upon the ship which carried the chief captain, killing one of his pages who stood behind him, and other persons. 
 
-The islanders were all in the town and dwellings of the king, which are situated on a very high hill above some cliffs, and have two roads of approach through paths and roads so narrow that they can be reached only in single file. 
+The chief captain retired with all the other vessels, and they made for the high sea, having been defeated by Don Luis, who did not attempt to follow them but remained on the watch.
 
-They had fortified the whole place, intrenched it with palms and other woods, and a number of culverins. 
+As the Portuguese did not dare attack him again they made for Macan, and Don Luis Dasmariñas put into the port of El Pinal, where he thought he would be in greater security. There  -->
 
-They had also collected provisions and water for their sustenance, besides a supply of arquebuses and other weapons.
+Don Luis remained until Captain Francisco Rodrigues arrived with the ship from Manila, and joined him. 
 
-They had neither women nor children with them, for they had taken them out of the island. They had requested aid from the people of Mindanao, Borney, and Terrenate, and were awaiting the same, since they had been informed of the fleet which was being prepared against them in the Pintados.
+They distributed their men between the two ships and made some purchases with what this last ship had brought from Manila.
 
-Gallinato determined to pitch his camp near the town, before this aid should arrive, and to attack the fort.
+<!-- , in the very city of Macan, for the Portuguese, for the sake of their own interests, gave and sold them goods, in spite of a certain apprehension of the law.  -->
 
-After he had quartered himself at a distance of one-half legua, in a plain facing the ascent, he sent interpreters with messages to the king and chiefs of the island, calling on them to surrender, and telling them that good terms would be given them. While waiting for an answer, he fortified his quarters in that spot, intrenching himself wherever necessary. He mounted the artillery in the best position for use, and kept his men ready for any emergency.
+They returned to Manila leaving a few men in El Pinal who had died of sickness, among whom was Fray Alonso Ximenez, the principal promoter of this enterprise. 
 
-A false and deceptive answer was returned, making excuses for the excesses that had been committed, and for not complying just then with what had been asked of them, and making loud promises to do so later. All this was with the object of detaining the captain in that place, which is very unhealthy, until the rains should set in, his provisions run short, and the arrival of the expected aid. After this answer had been received the Joloans, thinking that the Spaniards had become more careless on account of it, swarmed down quickly from the said fort in a large body of probably somewhat over one thousand; and armed with arquebuses and other weapons with handles, campilans, and caraças, attacked and assaulted the quarters and camp of the Spaniards.
+<!-- His associate, Fray Diego Aduarte, did not choose to return to Manila, but went to Macan and thence to Goa, in order to go to España. Don Luis reached Manila with both ships, and his expedition to Camboja and his conduct of the said enterprise remained in this state. -->
 
-This could not be done so secretly as not to be seen by the Spaniards, and allow them opportunity to prepare to receive the Joloans before their arrival. This the Spaniards did, and having permitted the natives to come all together in a body to the very inside of the quarters and trenches, as soon as the Joloans had discharged their arquebuses, the Spaniards opened fire upon them, first with their artillery, and then with their arquebuses, killing many, and forcing the rest to retire in flight to the fort. 
+The galliot, one of the ships of Don Luis Dasmariñas's fleet, in which Luis Ortiz and twenty-five Spaniards had sailed, after having put into Cagayan and refitted there, sailed again during fairly good weather to find the fleet. 
 
-The Spaniards pursued them, wounding and killing to the middle of the hill. But seeing that farther on the paths were so narrow and rough, they retreated before the heavy artillery fire from the heights, and the large stones hurled down upon them, and returned to their quarters. Upon many other days, efforts were made to reach the fort, but without any result. 
+This ship is so inadequate to resist storms at sea. But it arrived in Camboja without being wrecked.
 
-Gallinato felt that the war was prolonged beyond expectation.
+<!-- It made its way along the coast of Cochinchina and Champan, inside the shoals of Aynao, and reached the bar of Camboja. Expecting to find all or some of the ships of its convoy within the bar, it ascended the river as far as  -->
 
-So he built 2 forts:
+In the city of Chordemuco where they found Diego Belloso and Blas Ruys de Hernan Gonçalez with some:
+- Castilians
+- Portuguese from Malaca
 
-1. One for his ships and the port
-2. One half legua farther where they could take refuge and communicate with the camp
+ <!-- and with whose assistance many battles had been won in favor of King Prauncar, who had been restored to his kingdom, although some of his provinces had not been entirely pacified.  -->
 
-The forts were built of wood and fascines, and fortified with the artillery from the ships.
+It was learned there that neither Don Luis Dasmariñas nor any other of his fleet had reached Camboja.
 
-The Spaniards shut themselves up in these forts, whence from time to time they sallied, making incursions as far as the enemy's fort.
+<!-- Those in the galliot said that Don Luis was coming in person with a large force of ships, men, arms, and some religious, to accomplish what he had always desired to do in that kingdom; that he would not be long in coming; and that their galliot and crew belonged to his fleet.
 
-The latter always remained shut up in their fort without ever choosing to come down or to yield; for he was convinced that the Spaniards could not remain long in the island. 
+Blas Ruis and his Castilian companions greatly rejoiced over so opportune news. The former thought that everything was turning out well, and that now, according to the present state of affairs, matters would be accomplished and settled as they wished. Diego Belloso and his party, although they did not show their regret, were not so pleased, for they much preferred the happy termination and reward of this expedition to be for the Portuguese and the government of India. They had had certain quarrels and disputes with Blas Ruis over this.
 
-The rains were fast setting in
+But seeing that the affair had reached this state, they conformed to the times. Thereupon all joined together, Portuguese and Castilians, and informed Prauncar and his mandarins of the arrival of Alférez Luis Ortiz with his galliot and companions, saying that they were part of a large fleet which would shortly arrive, and that Don Luis Dasmariñas was coming in it in person, with religious and men to aid and serve the king, in conformity to what he himself had requested in his letter to Manila, several months before. The king seemed pleased at this, and so did some of his mandarins who liked the Spaniards, and recognized what benefits they had derived from them hitherto. 
 
-Gallinato's men were becoming ill
+These believed that the matter would turn out as it was represented to them. -->
 
-His provisions were failing, without any achievement.
+But the king's stepmother, and other mandarins of her party, especially the Moro Malay Ocuña Lacasamana, were vexed at the arrival of the Spaniards.
 
-The enemy and other allies were boasting that they were gathering a large fleet to drive the Spaniards from Jolo.
+They thought that Spaniards would dominate everything.
 
-He sent news of all that had occurred to the governor of Manila, with a plan of the island and fort and a relation of the difficulties which the enterprise presented. 
+<!-- latter, being valiant men, numerous, and so courageous, as they already knew, , or at least would take the best; moreover they alone wished to deal with King Prauncar.  -->
 
-He sent this in a swift vessel, by Captain and Sargento-mayor Pedro Cotelo de Morales, toward the end of May 1602, in order to obtain instructions as to his procedure, and the necessary reënforcements of men and provisions.
+Thus their aversion for Spanish affairs became known to be as great as the favor with which Prauncar, on the contrary, regarded them. 
+
+The latter immediately assigned the Spaniards a position with their ship near the city, at the place which Blas Ruiz and Diego Belloso occupied.
+
+<!-- Governor Don Francisco Tello to allow him -->
+
+### Captain Joan de Mendoça
+
+Before Don Luis Dasmariñas left Manila with his fleet, Captain Joan de Mendoça Gamboa requested to go to the kingdom of Sian with a moderate-sized ship for trade. 
+
+<!-- For the greater security of his voyage and business, he asked the governor to give him letters to the king of Sian, in which the latter should be informed that he was sent as the governor's ambassador and messenger to continue the peace, friendship, and commerce which Joan Tello de Aguirre had contracted with Sian the year before. -->
+
+<!-- Seeing that Don Luis Dasmariñas, who was on the way to Camboja, had left in Manila for another occasion some ammunition and other things of use to his fleet, Don Joan, in order better to facilitate the granting of his request,  -->
+
+He offered to take ammunition on board and sail around by way of Camboja to meet Don Luis Dasmariñas, and deliver them to him.
+
+<!-- The governor thought the two proposals timely, and having furnished him with the necessary despatches,  -->
+
+So De Mendoça left Manila, taking:
+- as pilot Joan Martinez de Chave, who had been Joan Tello's pilot when the latter went to Sian
+- Fray Joan Maldonado [118] and an associate, both religious of the Order of St. Dominic. 
+- natives and sailors
+- a quantity of siguei [117] and other goods to barter
+- the ammunition and provisions for Don Luis
+
+
+<!-- The former was a grave and learned man and a very intimate friend of Don Luis Dasmariñas, to whom his order took great pleasure in sending him as a companion. They left Manila, without knowing of Don Luis's shipwreck two months after the latter had set sail. Crossing over the shoals they shortly reached the bar of  -->
+
+They reached Camboja and ascended to the capital, where they found the galliot of the fleet and learned that its other ships had not arrived. 
+
+The king received them cordially and lodged them with Diego Belloso, Blas Ruiz, Luis Ortiz, and their companions. 
+
+They passed the time together, and would not let Joan de Mendoça leave Camboja with his ship until something was heard of Don Luis Dasmariñas.
+
+A few days later, they learned through Chinese ships that Don Luis had problems in China. 
+
+ <!-- the latter had put into China with difficulty and in distress, and that he was there preparing to continue his voyage. Although this event caused them sorrow, they  -->
+
+But still hoped that Don Luis would be in Camboja with his 2 ships.
+
+At this same time, a mestizo, named Govea, son of a Portuguese and a Japanese woman who lived in Japon, collected some mestizo companions, as well as Japanese and Portuguese, on a junk which he owned in the port of Nangasaqui, with the intention of coasting along China, Champan, and Camboja, to seek adventures and to barter, but mainly to make prizes of what they might meet at sea. 
+
+With them embarked a Castilian Don Antonio Malaver, an Italian soldier, who had lived in Nangasaqui after the wreck of the galleon "San Felipe".
+
+He came to the Filipinas from Nueva España as captain and sargento-mayor of the troops brought by Doctor Antonio de Morga.
+
+Don Antonio Malaver wanted to return to Spain via India.
+
+<!-- had no wish to return to the Filipinas, thinking that by that way he could go to India and thence to España, and that on the road there might fall to him some share of the illgotten gains of that voyage,  -->
+
+So he embarked with Govea. 
+
+After they had run down the coast, they heard news of the Spaniards' entry into Camboja.
+
+Don Antonio persuaded Govea to enter the river of Camboja to thrive better than at sea.
+
+They went up as far as Chordemuco, joined the Castilians and Portuguese and were received into their company and list. 
+
+As they all—and they were a considerable number of men—saw the delay of Don Luis Dasmariñas, they proclaimed as leaders Fray Joan Maldonado, Diego Belloso, and Blas Ruis. 
+
+Then they began to treat with King Prauncar on their own account concerning their establishment and comfort, and to request lands and rice for their maintenance and other things which had been promised them, alleging that they did not derive the necessary usufruct and profit out of his concessions to Belloso and Blas Ruis.
+
+Although the king gave them good hopes for everything he brought nothing to a conclusion, being hindered in this by his stepmother and the mandarins of her party, who would have liked to see the Spaniards out of the kingdom; and in this they gained more animus every day by the non-arrival of Don Luis Dasmariñas. 
+
+Consequently, the Spaniards spent the time in going to and fro between their quarters and the city to negotiate with the king, with whose answers and conversations they sometimes returned satisfied and at other times not so much so.
+
+Ocuña Lacasamana and his Malays had their quarters near those of the Spaniards. They were Moros opposed in religion and pretension.
+
+Once a quarrel arose between Spaniards and Malays, and several men were severely wounded on both sides. Among them Alférez Luys Ortiz, commander of the galliot, had both legs run through and was in great danger. 
+
+King Prauncar was angry at this, but did not dare to inflict any punishment or make any reparation for these injuries. 
+
+While matters were at such a heat and the Malays were ill-disposed toward the Spaniards, one day while Fray Joan Maldonado, Diego Belloso, and Blas Ruyz were in the city, and Luys de Villafañe was in command of the quarters, on account of the wounds and illness of Luys Ortiz, another quarrel arose in the quarters with the Malays. 
+
+Luys de Villafañe, taking advantage of this opportunity, determined, with a few Spaniards who followed him, to unite with Govea and his men, and attack the Malays, their quarters, and the goods that they possessed, and sack them.
+
+Incited by anger and still more by covetousness, they carried this out, and after having killed many Malays and taken a quantity of property from them, they retired and fortified themselves in their own quarters and in the Japanese ship.
+
+The king and his mandarins were very angry at this, and not less so were Fray Joan Maldonado, Belloso, and Blas Ruyz, who were in Chordemuco.
+
+But Ocuña Lacasamana was far the angriest, at seeing the injury and insult done him, and at the breaking of the peace so recently made in reference to former quarrels.
+
+Fray Joan Maldonado, Belloso, and Blas Ruiz went at once to the quarters to remedy the matter, they found it so complicated that not even King Prauncar, who tried to intervene, could compose it.
+
+The latter warned the Spaniards to look to their personal safety, for he saw their party fallen and in great danger, without his being able to help it.
+
+Fray Joan Maldonado and his companion, although facing the matter in company with Diego Belloso and Bias Ruis, yet took refuge in Joan de Mendoça's ship for greater security, and some Spaniards did the same. 
+
+Diego Belloso, Blas Ruiz, and the others relying on the king's friendship, and their services in the country, remained on shore, although they took every precaution and kept the closest possible guard over their safety. [119]
+
+The Malay Lacasamana, aided by his men and the mandarins of his party, and supported by the king's step-mother attacked the Castilians, Portuguese, and Japanese, at once, both by land and sea.
+
+ <!-- lost no more time, nor the present opportunity, but Finding them separated—although some offered as much resistance as possible—he -->
+
+
+Lacasamana killed them all, including Diego Belloso and Blas Ruiz de Hernan Gonçales.
+
+<!-- Then he burned their quarters and vessels except that of Joan de Mendoça. 
+
+Joan and Fray Joan Maldonado 
+
+, who, fearing the danger, descended the river toward the sea and defended himself against some praus that had followed him. He took with him , the latter's associate, and some few Spaniards. On shore there remained alive only one Franciscan religious, five Manila Indians, and a Castilian named Joan Dias, whom the king, who grieved exceedingly for the deaths of the Spaniards, had hid carefully in the open country.
+
+Although the king advised the friar not to appear in public until the Malays were appeased, that religious, imagining that he could escape their fury, emerged with two Indians in order to escape from the kingdom. 
+
+But they were found and killed like the others. Joan Dias and three Indians remained many days in concealment, and the king maintained them, until, after other events, they could appear.  -->
+
+Thus the cause of the Spaniards in Camboja ended. 
+
+The Moro Malay and his partisans remained complete masters. They eventually killed King Prauncar also. 
+
+<!-- They managed the affairs of the kingdom with so little respect for , that finally they killed him also. -->
+
+Then a fresh insurrection broke out, causing more confusion and disturbance than before.
+
+<!-- , the provinces revolted, each man seized whatever he could, and there was  -->
 
 

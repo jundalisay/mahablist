@@ -1,5 +1,6 @@
 ---
 title: "Events in the Philippine Islands"
+linkTitle: Events
 image: /photos/medieval/magellan.jpg
 date: 2024-10-31
 weight: 10
