@@ -1,6 +1,6 @@
 ---
 heading: Appendix B
-title: "EARLY YEARS OF THE DUTCH IN THE EAST INDIES"
+title: "Early Years Of The Dutch In The East Indies"
 date: 2024-09-15
 weight: 106
 image: /photos/medieval/magellan.jpg

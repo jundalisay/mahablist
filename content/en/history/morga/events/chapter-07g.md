@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7g (Start of Vol 2)
-title: "Mendoza's Letter"
+title: "Ships Going To and From Manila"
 date: 2024-09-22
 weight: 49
 image: /photos/medieval/magellan.jpg

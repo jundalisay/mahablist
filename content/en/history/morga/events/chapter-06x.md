@@ -1,5 +1,5 @@
 ---
-heading: Chapter 6p
+heading: Chapter 6x
 title: "The Conquest of Jolo"
 date: 2024-09-22
 weight: 45

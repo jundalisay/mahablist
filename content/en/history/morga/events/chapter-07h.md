@@ -1,121 +1,114 @@
 ---
 heading: Chapter 7h
-title: "Mendoza's Letter"
+title: "The Chinese Mandarins Look for Cavite"
 date: 2024-09-22
-weight: 52
+weight: 50
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png
 ---
 
 
-As soon as the ships "Jesus Maria" and "Espiritu Sancto" sailed for Nueva España, and the ship "Sanctiago" with the religious for Japon, there was more time to discuss further the matter started by the coming of the Chinese mandarins.
+In March 1603, a ship from China came to Manila with 3 great mandarins in the service of their king. 
 
-For finding themselves unoccupied with other matters, fear of the Sangleys became universal.
+<!-- The governor gave them permission to leave their ship and enter the city with their suites.  -->
 
-The suspicions that were current that the Sangleys were about to commit some mischievous outbreak. This the archbishop and some religious affirmed and told, publicly and privately.
+ 
+In very curious chairs of ivory and fine gilded woods, borne on the shoulders of men, they went straight to the royal houses of the Audiencia, where the governor was awaiting them.
 
-At this time, many Chinese were living in Manila and its environs. 
+ <!-- with a large suite of captains and soldiers throughout the house and through the streets where they passed. -->
 
-Some of them were baptized Christians living in the settlements of Baibai and Minondoc, [176] on the other side of the river, opposite the city.
+<!-- When they had reached the doors of the royal houses they alighted from their chairs and entered on foot, leaving in the street the banners, plumes, lances and other very showy insignia which they brought with them.  -->
 
-Most of them were infidels, occupied and living in these same settlements and in the shops of the parián in the city. They were employed as merchants and in all other occupations. 
+The mandarins went into a large, finely-decorated hall, where the governor received them standing, they making many bows and compliments to him after their fashion, and he replying to them after his. 
 
-The majority of them were fishermen, stonecutters, charcoal-burners, porters, masons, and day-laborers.
+They told him through the interpreters that their king had sent them, with a Chinaman whom they had with them in chains.
 
-Greater security was always felt in regard to the merchants, for they are the better class of people, and those who are most interested, because of their property.
+They wanted to see an island of gold, called Cabit, which he said belonged to no one. [162] 
 
-So great security was not felt about the others, even though they were Christians; because, as they are a poor and covetous people. 
+They said that this man had asked for ships to take this gold.
+- If it were a lie, then they could punish him with his life.
 
-They were inclined to any act of meanness.
+<!-- So they had come to ascertain and tell their king what there was in the matter. -->
 
-They would not cause any commotion unless a strong fleet from China came, which they could rely on.
+The governor replied briefly, saying only that they were welcome, and appointed them quarters in 2 houses within the city which had been prepared for them, in which they and their men could lodge.
 
-Talk continued to increase daily, and with it suspicion. 
+He said that the business would be discussed afterwards.
 
-Some of the Chinese, both infidels and Christians, in order to prove themselves friends of the Spaniards told the Spaniards that there was to be an insurrection shortly.
+Thereupon they left the royal houses again, and at the doors mounted in their chairs on the shoulders of their servants, who were dressed in red, and were carried to their lodgings, where the governor ordered them to be supplied fully with whatever they needed during the days of their stay.
 
-<!-- , and clean from all guilt, even 
+The coming of these mandarins seemed suspicious. Their purpose to be different from what they said, because it seemed a fiction for people, of so much understanding as the Chinese, to say that their king was sending them on this business.
 
-, and other similar things. -->
+<!-- Among the Chinese themselves who came to Manila at the same time in 8 merchant ships, and among those who lived in the city,  -->
 
-<!-- Although the governor always considered these statements as fictions and the exaggerations of that nation, and did not credit them, yet he was not so heedless that he did not act cautiously and watch, although with dissembling, for whatever might happen.  -->
+They were told by local Chinese that these mandarins were coming to see the land and study its nature because the king of China wanted to attack with 100,000 men before the end of the year, to take the country.
 
-The governor took pains to have the city guarded and the soldiers armed, besides flattering the most prominent of the Chinese and the merchants, whom he assured of their lives and property. 
+The governor and the Audiencia thought that:
+- they should be very careful in guarding the city
+- these mandarins should be well treated, but they should not go out of the city
 
-The natives of La Pampanga and other provinces near by were instructed beforehand to supply the city with rice and other provisions, and to come to reënforce it with their persons and arms, should necessity arise.
+These mandarins were beginning to administer justice among the Sangleys. They were told not to do it. 
+- This made the mandarins were somewhat angry. 
+ <!-- nor be allowed to administer justice, as they were , at which  -->
 
-The same was done with some Japanese in the city.
+He asked them to treat of their business, and then to return to China quickly.
 
-As all this was done with some publicity, since it could not be done secretly, as so many were concerned, one and all became convinced of the certainty of the danger.
+He warned the Spaniards not to show that they understood or were suspicious of anything other than what the mandarins had said.
 
-Many even desired it, in order to see the peace disturbed, and to have the opportunity to seize something. [177] From that time, both in the city and its environs, where the Sangleys were living scattered, these people began to persecute the Sangleys by word and deed. 
+The mandarins had another interview with the governor, and he told them more clearly,
 
-The natives, Japanese and soldiers of the camp took from them their possessions and inflicted on them other ill-treatment, calling them dogs and traitors, and saying that they knew well that they meant to rebel.
+The governer told the mandarins that:
+- their coming was some joke
+- he was astonished that their king would believe that Chinaman
+- the country belonged to his Majesty.
 
-But they said they would kill all the Sangleys first, and that very soon, for the governor was preparing for it. This alone was sufficient to make it necessary for the Sangleys to do what they had no intention of doing. [178] 
+ <!-- whom they had with them had said, and even if it were true that there was so much gold in the Filipinas, that the Spaniards would not allow it to be carried away, since   -->
 
-Some of the most clever and covetous set themselves to rouse the courage of the others, and to make themselves leaders, telling the Sangleys that their destruction was sure, according to the determination which they saw in the Spaniards, unless they should anticipate the latter, since they [the Sangleys] were so numerous, and attack and capture the city.
+<!-- The mandarins said that they understood very well what the governor had communicated to them, but that their king had ordered them to come and that they must needs obey and bring him a reply, and that when they had performed their duty, that was all, and they would return.  -->
 
-They said that it would not be difficult for them to kill the Spaniards, seize their possessions, and become masters of the country, with the aid and reënforcements that would immediately come to them from China, as soon as the auspicious beginning that they would have made in the matter should be known. 
+The governor, to cut short the business, sent the mandarins, with their servants and the prisoner, to Cabit, which is the port, 2 leguas from the city. 
 
-In order to do this when the time came, it was advisable to build a fort and quarters in some retired and strong place near the city, where the people could gather and unite, and where arms and supplies could be provided for the war. 
+There they were received with a great artillery salute, which was fired suddenly as they landed, at which they were very frightened and fearful.
 
-At least such a fort would be sufficient to assure there their lives from the outrages that they were expecting from the Spaniards. It was learned that the chief mover in this matter was a Christian Sangley, an old-time resident in the country, named Joan Bautista de Vera. [179] 
+When they had landed, they asked the prisoner if that was the island of which he had spoken to the king, and he replied that it was.
 
-He was rich and highly esteemed by the Spaniards, and feared and respected by the Sangleys. He had often been governor of the latter, and had many godchildren and dependents. He had become an excellent Spaniard, and was courageous.
+They asked him where the gold was, and he replied that everything there was gold and that he would make his statement good with the king. They asked him other questions and he always replied the same thing. 
 
-He himself, exercising duplicity and cunning, did not leave the city, or the houses of the Spanish during this time, in order to arouse less suspicion of himself. From there he managed the affair through his confidants; and in order to assure himself better of the result, and to ascertain the number of men of his race, and to make a census and list of them, he cunningly had each of them ordered to bring him a needle, which he pretended to be necessary for a certain work that he had to do.
+Everything was written down in the presence of some Spanish captains who were there with some confidential interpreters. 
 
-These needles he placed, as he received them, in a little box; and when he took them out of it, he found that he had sufficient men for his purpose. They began to construct the fort or quarters immediately at a distance of slightly more than one-half legua from the village of Tondo, among some estuaries and swamps, and in a hidden location. [180]
+The mandarins ordered a basketful of earth to be taken from the ground, to take to the king of China, and then, having eaten and rested, they returned to Manila the same day, with the prisoner.
 
-They stored there some rice and other provisions, and weapons of little importance. The Sangleys began to gather there, especially the masses—the common people and day-laborers; for those of the parián, and the mechanics, although urged to do the same, did not resolve to do it, and remained quiet, guarding their houses and property. 
+The interpreters said that the prisoner, when hard pressed by the mandarins to answer their questions.
 
-The restlessness of the Sangleys daily continued to become more inflamed.
+<!-- what he had meant to tell the king of China was that -->
 
-This, and the advices given to the governor and the Spaniards, kept the latter more anxious and apprehensive, and made them talk more openly of the matter. 
+He had said that there was much gold and wealth in the hands of the natives and Spaniards of Manila.
 
-The Sangleys, seeing that their intention was discovered, and that delay might be of so great harm to them, determined, although the insurrection was planned for St. Andrew's day, the last of November, to anticipate that day, and to lose no more time. 
+If they gave him a fleet with men, he offered, as a man who had been in Luzon and knew the country, to capture it and bring the ships back laden with gold and riches. 
 
-On Friday, October 3, the eve of St. Francis, they collected very hurriedly in the above-mentioned fort.
+This, together with what some Chinamen had said at the beginning, seemed very much to have more meaning than the mandarins had implied, especially to Don Fray Miguel de Benavides, archbishop-elect of Manila, who knew the language. 
 
-By nightfall, there were 2,000 men in it.
+Thereupon the archbishop and other religious warned the governor and the city, publicly and privately, to look to its defense, because they felt sure of the coming of the Chinese fleet against it shortly.
 
-Joan Bautista de Vera was a thief disguised as an honest man.
+Then the governor dismissed the mandarins and embarked them on their ship, with their prisoner, after giving them some pieces of silver and other things with which they were pleased.
 
-He was the leader and organizer of the treason.
+The people thought unreasonable that the Chinese would attack. 
 
-He went immediately to the city and told the governor that the Sangleys:
-- had risen
-- were collecting on the other side of the river. 
+Yet the governor began covertly to:
+- prepare ships and other things suitable for defense
+- completed extensive repairs on:
+  - the fort of Sanctiago at the point of the river
+  - the fort he built on the inside a wall of great strength, with its wings, facing toward the parade ground.
 
-The governor, suspecting the mischief, had him immediately arrested and carefully guarded.
+<!-- on the eve of Sts. Philip and James [Santiago] -->
 
-He was afterwards executed. 
+<!-- At the end of April 1603, 3pm a fire started in a little field house [casilla de zacate] used by some Indians and negroes of the native hospital in the city.
 
-Then, without tap of drum, the governor ordered the companies, both of the camp and the city, to be notified, and all to hold their arms in readiness.
+passed to other houses so quickly, with the force of the rather fresh wind, that it could not be stopped, and burned houses of wood and stone, even the monastery of St. Dominic—house and church—the royal hospital for the Spaniards, and the royal warehouses, without leaving a building standing among them. 
 
-Very shortly after nightfall, Don Luys Dasmariñas, who was living near the monastery and church of Minondoc, on the other side of the river, came hurriedly to the city to advise the governor that the Sangleys had revolted. 
+14 people died in the fire, Spaniards, Indians, and negroes, and among them Licentiate Sanz, canon of the cathedral.
 
-He asked for 20 soldiers to go to the other side [of the river], where he would guard the said monastery.
+260 houses were burned, with much property which was in them, and it was understood that the damage and loss amounted to more than one million [pesos].
+ -->
 
-Cristoval de Axqueta, sargento-mayor of the camp, went with these men, together with Don Luys.
-
-As the silence of night deepened, the noise made by the Sangleys grew louder, for they were continuing to assemble and were sounding horns and other instruments, after their fashion.
-
-Don Luys remained to guard the monastery, with the men brought from Manila, where he had placed in shelter many women and children of Christian Sangleys, with the religious. 
-
-The sargento-mayor returned immediately to the city, where he told of what was being done. 
-
-The call to arms was sounded, for the noise and shouts of the Sangleys, who had sallied out to set fire to some houses in the country, was so great that it was thought that they were devastating that district. 
-
-The Sangleys burned a stone country-house belonging to Captain Estevan de Marquina. He and his wife and children died except a little girl who hid in a thicket. [181] 
-
-Thence the Sangleys went to the settlement of Laguio, [182] situated on the shore of the river, and burned it. 
-
-They killed several natives and the rest fled to the city.
-
-There the gates were already shut and all the people, with arms in hand, manned the walls and other suitable posts, ready for any emergency, until dawn.
-
-The enemy, who now had many men, retired to their fort, to make another sally thence with more force.
 

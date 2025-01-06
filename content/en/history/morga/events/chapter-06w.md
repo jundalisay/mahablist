@@ -1,6 +1,6 @@
 ---
-heading: Chapter 6o
-title: "Failure to Seize Camboja"
+heading: Chapter 6w
+title: "The Galleon Santo Tomas"
 date: 2024-09-22
 weight: 44
 image: /photos/medieval/magellan.jpg
@@ -29,14 +29,16 @@ After 9 months at sea:
 The "San Geronimo" returned to the Filipinas, off the islands of Catenduanes, outside of the channel of Espiritu Santo. There it was wrecked, although the crew were saved. 
 
 The Sancta Margarita suffered the death of the general and most of the crew.
+- It ported at the Ladrones Islands and anchored at Zarpana.
 
-It ported at the Ladrones Islands and anchored at Zarpana.
+<!-- There natives saw the ships so abandoned and battered. They boarded it and took possession of it, and of its goods and property.  -->
 
-There natives saw the ships so abandoned and battered. They boarded it and took possession of it, and of its goods and property. 
-
-The few men whom they found alive, they took away to their settlements, where they killed some and apportioned others to various villages, where they maintained them and gave them better treatment.
+The natives took away the survivors to their settlements, where they killed some and apportioned others to various villages, where were better treated.
 
 The natives wore the gold chains and other things of the ship around their necks, and then hung them to the trees and in their houses, like people who had no knowledge of their value. [144]
+
+
+### Santo Tomas
 
 In May of 1601, the galleon "Santo Tomas" arrived at the Filipinas from Nueva España with:
 - passengers, soldiers, and
@@ -75,4 +77,3 @@ As the weather did not improve, and the ship was hourly in greater danger of bei
 They went to work immediately and took off the people, the silver, and the greater part of the goods and property, until, with native boats, the Spaniards and Indians of that province carried everything to Manila over a distance of eighty leguas, partly by sea and partly by land.
 
 They left the ship—a new and handsome one—wrecked there, without being able to derive any profit whatever from it.
-

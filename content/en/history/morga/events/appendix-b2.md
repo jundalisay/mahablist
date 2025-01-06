@@ -1,6 +1,6 @@
 ---
 heading: Appendix B2
-title: "van Noordt"
+title: "Oliver van Noordt"
 date: 2024-09-15
 weight: 109
 image: /photos/medieval/magellan.jpg

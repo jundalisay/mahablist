@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7e
-title: "Mindanao and Jolo"
+title: "Christianizing Cambodia"
 date: 2024-09-22
 weight: 47
 image: /photos/medieval/magellan.jpg
@@ -47,31 +47,46 @@ They sent an embassy to Sian, asking him to come to reign, and asking the king o
 
 This new king of Camboja who, from being a captive of the king of Sian, came to the throne by such strange events.
 
-and varying chances—for God held this good fortune in store for him, and holds still more of greater worth, if he can carry on what he has begun—caused search to be made for Joan Diaz, a Castilian soldier, who survived from the company of Blas Ruyz de Hernan Gonçales.
+<!-- and varying chances—for God held this good fortune in store for him, and holds still more of greater worth, if he can carry on what he has begun—caused search to be made for -->
 
-He bade him go to Manila and, in his behalf, tell the governor that he was on the throne, and also what had happened in regard to the death of the Spaniards and of his nephew Prauncar, in which he [the new king] was in no wise to blame.
+He searched for Joan Diaz, a Castilian soldier, who survived from the company of Blas Ruyz de Hernan Gonçales.
 
-He said that he recognized the friendship which they—Langara, his brother, and the latter's son—received from the Spaniards in the time of their troubles; that he himself was well disposed to continue this friendship and understanding.
+Then he told him go to Manila and, in his behalf, tell the governor that:
+- he was on the throne
+- what had happened to the death of the Spaniards and of his nephew Prauncar, in which he [the new king] was not to blame.
+- he recognized the friendship which they—Langara, his brother, and the latter's son—received from the Spaniards during their troubles
+- he wanted to continue this friendship and understanding.
+- the governor could send him some religious and Castilians to reside at his court and to make Christians of those who wished to become so.
 
-He again asked the governor, if he were willing, to send him some religious and Castilians to reside at his court and to make Christians of those who wished to become so.
+<!-- With this message and embassy, and many promises, Joan Diaz came to Manila, where he found Don Pedro de Acuña in the government, and treated of the matter with him. The governor thought it unwise to close the door to the preaching of the holy gospel in Camboja, which God had opened again in this way, and  -->
 
-With this message and embassy, and many promises, Joan Diaz came to Manila, where he found Don Pedro de Acuña in the government, and treated of the matter with him. The governor thought it unwise to close the door to the preaching of the holy gospel in Camboja, which God had opened again in this way, and he agreed to do what the king asked.
+Acuña agreed to do what the king asked.
 
 At the start of 1603, he sent a frigate to Camboja, with:
 - 4 religious of the Order of St. Dominic with Fray Yñigo de Santa Maria, prior of Manila, at their head
 - 5 soldiers to accompany them, among them Joan Diaz himself.
 
-They were to give the king the reply to his message, in confirmation of the peace and friendship for which he asked, and, according to the circumstances which they found there, the religious were to stay in his court and advise what seemed best to them.
+<!-- They were to give the king the reply to his message, in confirmation of the peace and friendship for which he asked, and, according to the circumstances which they found there, the religious were to stay in his court and advise what seemed best to them. -->
 
 This frigate reached Camboja after a 10 days' voyage with favoring winds.
 
 The religious and the soldiers in their company ascended the river to Chordemuco, where the king received them with great satisfaction.
 
-He immediately built them a church, and gave them rice for their support, and granted them liberty to preach and christianize. This seemed to the religious to be the work of Heaven, and a matter in which a great many workers could be employed.
+He immediately built them a church, and gave them rice for their support, and granted them liberty to preach and christianize. 
 
-They sent immediate word of their good reception and condition to Manila in the same frigate, after asking permission of the king that it might return. The king granted it and gave them the necessary supplies for their voyage, and at the same time sent a servant of his with a present of ivory tusks, benzoin, and other curious things for the governor, with a letter thanking him for what he was doing and asking for more religious and Castilians.
+<!-- This seemed to the religious to be the work of Heaven, and a matter in which a great many workers could be employed. -->
 
-Fray Yñigo de Santa Maria [163] with a companion embarked on this frigate, in order to come to give a better report of what he had found, but he sickened and died on the voyage. His companion and those aboard the frigate reached Manila in May of six hundred and three and gave an account of events in Camboja.
+They sent immediate word of their good reception and condition to Manila in the same frigate, after asking permission of the king that it might return. 
+
+The king granted it and gave them the necessary supplies for their voyage, and at the same time sent a servant of his with a present of ivory tusks, benzoin, and other curious things for the governor, with a letter thanking him for what he was doing and asking for more religious and Castilians.
+
+Fray Yñigo de Santa Maria [163] with a companion embarked on this frigate, in order to come to give a better report of what he had found, but he sickened and died on the voyage. 
+
+His companion and those aboard the frigate reached Manila in May 1603 and gave an account of events in Camboja.
+
+
+
+### Reinforcing the Moluccas
 
 At the end of May, there came to Manila 2 ships from Nueva España, in command of Don Diego de Camudio, with the regular reënforcements for the Philipinas.
 

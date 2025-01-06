@@ -1,5 +1,5 @@
 ---
-heading: Chapter 6u
+heading: Chapter 6z
 title: "The King of Tidore"
 date: 2024-09-22
 weight: 47

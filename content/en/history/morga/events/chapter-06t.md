@@ -42,18 +42,32 @@ GASPAR DE AZEBO
 
 
 
-In the city of Manila, on the first of December, of the year one thousand six hundred, I, the government notary, served the above act upon Doctor Antonio de Morga, auditor of the royal Audiencia. 
+Manila, December 1 1600 
 
-He declared that, from the first day of the month of November just expired, by commission of the royal Audiencia of these islands, he has busied himself in everything mentioned in the said act, and has done his utmost toward its execution; that the expedition is on the good footing and in the condition that is known; that if, for its good result and for what is expected from it, his person and property are suitable and fitting for the service of the king our sovereign, he is ready to employ everything in it and to do what has been ordered and commanded him by the said president; and that consequently he has no other wish or desire than for what might be to the service of God and of his Majesty. Thereupon may your Lordship order and provide what may be found most expedient, and as such he will fulfil it. He affixed his signature to this writ.
+Morga declared that from November, by commission of the royal Audiencia of these islands, he has busied himself in everything mentioned in the said act, and has done his utmost toward its execution; 
+that the expedition is on the good footing and in the condition that is known; 
+that if, for its good result and for what is expected from it, his person and property are suitable and fitting for the service of the king our sovereign, he is ready to employ everything in it and to do what has been ordered and commanded him by the said president;
+that consequently he has no other wish or desire than for what might be to the service of God and of his Majesty.
+
+<!-- Thereupon may your Lordship order and provide what may be found most expedient, and as such he will fulfil it. He affixed his signature to this writ. -->
 
 DOCTOR ANTONIO DE MORGA
 
 GASPAR DE AZEBO
 
 
-Doctor Antonio de Morga provided himself with all that was requisite for the expedition without asking or taking anything from the king's exchequer. He aided several needy soldiers who came to offer their services, and many other persons of importance who had done the same, so that, within one week, there were already enough men for the expedition, and an abundance of provisions, ship's stores, and arms; whereupon all embarked. With the volunteers and regulars whom the governor had in camp under Captain Augustin de Urdiales, and whom he gave to the auditor, there were men enough to man both ships each with about one hundred soldiers in addition to gunners, sailors, and common seamen, of the last mentioned of whom there was a smaller supply than was needed. As admiral of this fleet the governor appointed Captain Joan de Alcega, an old soldier, and one well acquainted with the islands; as captain of the paid soldiers who were to sail in the almiranta, Joan Tello y Aguirre; as sargento-mayor of the fleet, Don Pedro Tello, his kinsman; the necessary other offices and positions; and the nomination and title of general of the fleet to Doctor Antonio de Morga. He gave the latter closed and sealed instructions concerning what he was to do in the course of the voyage and expedition, with orders not to open them until he had put to sea, outside of the bay of Manila. The instructions read as follows.
+Doctor Antonio de Morga provided himself with all that was requisite for the expedition without asking or taking anything from the king's exchequer.
+
+He aided several needy soldiers who came to offer their services, and many other persons of importance who had done the same, so that, within one week, there were already enough men for the expedition, and an abundance of provisions, ship's stores, and arms; whereupon all embarked. 
+
+With the volunteers and regulars whom the governor had in camp under Captain Augustin de Urdiales, and whom he gave to the auditor, there were men enough to man both ships each with about one hundred soldiers in addition to gunners, sailors, and common seamen, of the last mentioned of whom there was a smaller supply than was needed. 
+
+As admiral of this fleet the governor appointed Captain Joan de Alcega, an old soldier, and one well acquainted with the islands; as captain of the paid soldiers who were to sail in the almiranta, Joan Tello y Aguirre; as sargento-mayor of the fleet, Don Pedro Tello, his kinsman; the necessary other offices and positions; and the nomination and title of general of the fleet to Doctor Antonio de Morga. 
+
+He gave the latter closed and sealed instructions concerning what he was to do in the course of the voyage and expedition, with orders not to open them until he had put to sea, outside of the bay of Manila. The instructions read as follows.
 
 * * * * *
+
 
 Instructions given by the governor to Doctor Antonio de Morga
 

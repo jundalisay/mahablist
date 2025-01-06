@@ -71,4 +71,3 @@ ANDREA FURTADO DE MENDOÇA
 
 <!-- BIBLIOGRAPHICAL DATA
 Sucesos de las Islas Filipinas, by Dr. Antonio de Morga.—The translation is made from the Harvard original. In conjunction with it have been used the following editions: The Zaragoza reprint (Madrid, 1887) a unique copy (No. 2658, Catálogo de la librería de P. Vindel) owned by Edward E. Ayer, of Chicago; the Rizal reprint (Paris, 1890); and Lord Stanley's translation (London, Hakluyt Society edition, 1868). -->
-

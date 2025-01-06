@@ -1,8 +1,8 @@
 ---
 heading: Chapter 7j
-title: "Mendoza's Letter"
+title: "The Chinese Begin their Revolt in Manila"
 date: 2024-09-22
-weight: 58
+weight: 52
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png
@@ -10,97 +10,118 @@ icon: /icons/sun.png
 
 
 
+The Sangleys had planned their insurrection on November 30. 
+- But their plan was discovered.
+
+<!-- , seeing that their intention was discovered, and that delay might be of so great harm to them, determined, although the  was planned for St. Andrew's day, the last of November, to anticipate that day, and to lose no more time.  -->
+
+So on Friday, October 3, the eve of St. Francis, they collected very hurriedly in their fort.
+
+By nightfall, there were 2,000 men in it.
+
+Joan Bautista de Vera went immediately to the city and told the governor that the Sangleys:
+- had risen
+- were collecting on the other side of the river.
+
+<!-- was a thief disguised as an honest man.
+
+He was the leader and organizer of the treason. -->
 
 
-After having sent Fray Diego de Guevara, prior of the monastery of St. Augustine in Manila, to the court of España by way of India, with news of this event
+The governor, suspecting the mischief, had him immediately arrested and carefully guarded.
+- He was afterwards executed. 
 
-—but who was unable to reach Madrid for three years, because of his various fortunes in India, Persia, and Italia, through which countries he went—they immediately sent Captain Marco de la Cueva, together with Fray Luys Gandullo of the Order of St. Dominic, to the city of Macao in China, where the Portuguese were living, with letters for the chief captain and the council of that city.
+<!-- Then, without tap of drum, the governor ordered the companies, both of the camp and the city, to be notified, and all to hold their arms in readiness.
 
-These letters advised the latter of the revolt of the Sangleys, and of the result of the war, so that, if they should hear any rumors of a Chinese fleet, they could send word. 
+Very shortly after nightfall,  -->
 
-At the same time, letters were taken from the governor to the Tutons, Aytaos, and visitors of the provinces of Canton and Chincheo, recounting the outbreak of the Chinese, which obliged the Spaniards to kill them. 
+Don Luys Dasmariñas was living near the monastery and church of Minondoc, on the other side of the river.
+- He came hurriedly to the city to advise the governor that the Sangleys had revolted. 
 
-Upon their arrival at Macao, Marcos de la Cueva and Fray Luys Gandullo found that everything was quiet.
+He asked for 20 soldiers to guard the monastery.
 
-The Chinese had already heard of the insurrection and much of the result from some Sangleys who had fled from Manila in champans.
+Don Luys remained to guard the monastery, with the men brought from Manila, where he had placed in shelter many women and children of Christian Sangleys, with the religious. 
 
-It was immediately learned in Chincheo that these Spaniards were in Macao, whereupon Captains Guansan Sinu and Guachan, wealthy men and usually engaged in trade with Manila, went to look for them.
+<!-- go to the other side [of the river], where he would guard the said  -->
 
-Having learned the truth of the event, they took the letters for the mandarins and promised to deliver them. They urged other merchants and vessels of Chincheo, who were afraid, to go to Manila that year. 
+<!-- Cristoval de Axqueta, sargento-mayor of the camp, went with these men, together with Don Luys. -->
 
-This was very useful, for through them much of the necessity that the city [of Manila] was suffering was supplied. 
+<!-- As the silence of night deepened,  -->
 
-With this result and with some powder, saltpeter, and lead which Marcos de la Cueva had provided for the magazines, the latter left Macao, and sailed to Manila, which he reached in May, to the universal joy of the city over the news that he brought—which began to be verified immediately by the coming of the fleet of 13 Chinese vessels bearing food and merchandise.
+<!-- The sargento-mayor returned immediately to the city, where he told of what was being done.  -->
 
-In June 1603, [189] 2 vessels were despatched from Manila to Nueva España under Don Diego de Mendoça.
+The noise made by the Sangleys grew louder, for they were continuing to assemble and were sounding horns and other instruments, after their fashion.
 
- who had been sent that year by the viceroy, Marques de Montesclaros, with the usual reënforcements for the islands. 
+The call to arms was sounded after the Sangleys set fire to some houses. 
+- The fire was so great that it was thought that they were devastating that district. 
+- They burned a stone country-house belonging to Captain Estevan de Marquina. 
+  - He and his wife and children died except a little girl who hid in a thicket. [181] 
 
-The flagship was "Nuestra Señora de los Remedios" and the almiranta "Sant Antonio."
+Thence the Sangleys went to the settlement of Laguio, [182] on the shore of the river, and burned it. 
+- They killed several natives and the rest fled to the city.
 
-Many rich men of Manila, warned by the past troubles, took passage in these vessels with their households and property, for Nueva España—especially in the almiranta—with the greatest wealth that has ever left the Filipinas.
+There the gates were already shut and all the people, with arms in hand, manned the walls and other suitable posts, ready for any emergency, until dawn.
 
-Both vessels experienced so severe storms during the voyage, in the altitude of 34 degrees, and before having passed Japon, that the flagship, without masts and greatly lightened and damaged, put back in distress to Manila. 
+The enemy, who now had many men, retired to their fort, to make another sally thence with more force.
 
-The almiranta was swallowed up in the sea, and no one was saved. This was one of the greatest shipwrecks and calamities that the Filipinas have suffered since the past ones.
 
-For the rest of 1605, until ships could go to Castilla, [190] the governor repaired the city, and supplied it with provisions and ammunition, with the special object and care that the decision which he was awaiting from the court for making an expedition to Maluco—of which he had been advised and warned—should not find him so unprepared as to cause him to delay the expedition. 
 
-In this he was very successful, for at that same time, the master-of-camp, Joan de Esquivel, had arrived in Mexico with 600 soldiers from España.
+### 200 Spanish Counterattack and are Defeated by 1,500 Sangleys
 
-In Mexico more men were being enrolled, and a great preparation was made of ammunition, food, money, and arms, which the viceroy sent to the governor from Nueva España in March of that year, by order of his Majesty, in order that he might go to Maluco. 
+Don Luys Dasmariñas was guarding the church and monastery of Minondoc with regulars and inhabitants of the city, under:
+- Captains Don Tomas Brabo de Acuña (the governor's nephew)
+- Joan de Alcega
+- Pedro de Arzeo
+- Gaspar Perez
 
-All this arrived safely and in due season at Manila.
+<!-- , by whose counsel and advice Don Luys was to be guided on this occasion.  -->
 
-Shortly after the ships had left Manila for Nueva España.
+ <!-- expected hourly that the enemy was about to attack him, and sent a messenger to the governor to beg for more men. -->
 
-Those despatched thence by the viceroy had entered, Archbishop Don Fray Miguel de Benavides died of a long illness.
+All was confusion, shouting, and outcry in the city, particularly among the natives, and the women and children, who were coming thither for safety. 
 
-His body was buried amid the universal devotion and grief of the city. [191] At this same time, Don Pedro de Acuña received 3 letters, by the ships that continued to come from China that year, with the merchandise and with their principal captains. 
+To make certain of the Sangleys of the parián, their merchants had been asked to come into the city, and bring their property.
+- But they did not dare to do so.
+- They always thought that the enemy would take the city because of their great force of numbers, and annihilate the Spaniards
 
-They were all of the same tenor—when translated into Castilian—from the Tuton and Haytao, and from the inspector-general of the province of Chincheo, and were on the matter of the insurrection of the Sangleys and their punishment. 
+Consequently, they preferred to remain in their parián, in order to join the victorious side.
 
-They were as follows:
+ <!-- thought it advisable to go in search of the enemy immediately with the reënforcements sent him by the governor, before they should all assemble and present a strong front. -->
 
-<!-- [This letter occupies folios 113b-115a of the original edition of Morga. We have already presented that document in our V0L. XIII, p. 287, which is translated from a copy of the original manuscript. The answer of Acuña to this letter will be found in V0L. XIV, in the second document of that volume.] -->
+Don Luys Dasmariñas left 70 soldiers in Minondoc, in charge of Gaspar Perez.
 
-The letter of the inspector-general was written on March 23 year of the reign of Vandel [i.e., Wanleh].
+He went on the offensive and took 140 of the best picked arquebusiers to the village of Tondo to fortify himself in the church, a stone building at 11am.
+- 1,500 Chinese arrived for the same purpose at the same time.
 
-<!-- The eunuch's [192] letter was written on the sixteenth of the said month and year; and that of the viceroy, on the twenty-second of the month. -->
+An hour's skirmish took place between them for control of the monastery.
+- Captain Gaspar Perez came up with the reënforcement of the men left at Minondoc.
+- The enemy retired to his fort, with a loss of 500 men.
 
-The governor answered these letters through the same messengers, civilly and authoritatively. 
+Gaspar Perez returned to his post, where Pedro de Arzeo was also stationed. 
 
-He gave an explanation of the deed and justified the Spaniards, and offered friendship and trade anew with the Chinese. 
+<!-- Don Luys Dasmariñas, exultant over this fortunate engagement, determined immediately to press forward in pursuit of the enemy with his men, notwithstanding the heat of the sun and without waiting to rest his followers.
 
-He said that their property, which had remained in Manila, would be restored to the owners, and that those imprisoned in the galleys would be freed in due season. 
+He sent Alferez Luys de Ybarren to reconnoiter. The latter brought word that the enemy was in great force, and near by. -->
 
-First, however, he intended to use them for the Maluco expedition, which he was undertaking.
+Juan de Alcega and others requested Don Luys to halt and rest his men, and await the governor's orders as to what was to be done.
 
-The entrances into various provinces of Japon by the discalced religious of St. Francis and those of St. Dominic and St. Augustine, continued to be made, both in the Castilian vessel itself which was despatched that year to the kingdoms of Quanto, [193] and in other Japanese vessels which came to Manila with the silver and flour of the Japanese, in order to trade. 
+But he wanted not to lose the opportunity. So he roused his men with harsh words, in order to make them follow him, he marched forward until they reached a swamp.
 
-This was permitted and allowed by Daifu, now called Cubosama, who that year sent the governor, through one of his servants, certain weapons and presents, in return for others which the governor had sent him. He answered the latter's letter as follows:
+After leaving the swamp, they came suddenly into a large clearing, where the enemy was stationed.
 
-Letter from Daifusama, lord of Japon, to governor Don Pedro de Acuña, in the year one thousand six hundred and five.
+The enemy surrounded them in force on all sides, armed with:
+- clubs
+- some with catans
+- a few with battle-axes.
 
-I received two letters from your Lordship, and all the gifts and presents mentioned in the memorandum. Among them, when I received them, the wine made from grapes pleased me greatly.
+Don Luys and his men were not able to retreat. 
 
-During former years, your Lordship requested permission for six vessels, and last year for four, and I always granted your request. But, what angers me greatly is that among the four vessels that your Lordship requested was that one called "Antonio," which made the voyage without my orders. 
+They fought valiantly and killed many Sangleys.
 
-This was a very lawless act, and in contempt of me.
+But finally, the enemy were so many that they cut all the Spaniards to pieces, only 4 escaped, badly wounded.
 
-Can it be, perhaps, that your Lordship would send to Japon without my permission any vessel that you wished? 
+<!-- These carried the news to Manila. [183]  -->
 
-Besides this, your Lordship and others have often negotiated about the sects of Japon, and requested many things in regard to them. This likewise I cannot concede; for this region is called Xincoco [Shinkoku], or "dedicated to the idols."
+So many and the best Spanish soldiers were killed in this place. The Sangleys took their weapons and became sure of victory.
 
-These have been honored with the highest adoration from the time of our ancestors until now, and their acts I alone cannot undo or destroy.
-
-Consequently, it is not at all advisable that your religion be promulgated or preached in Japon; and if your Lordship wish to preserve friendship with these kingdoms of Japon and with me, do what I wish, and never do what is displeasing to me. Lastly, many have told me that many wicked and perverse Japanese, who go to that kingdom and live there for many years, afterward return to Japon. This makes me very angry. 
-
-Consequently, your Lordship will, in the future, allow no one of the Japanese to come here in the vessels that come from your country. In other matters, your Lordship shall act advisedly and prudently, and shall so conduct affairs, that henceforth I may not be angered on account of them.
-
-The governor, carrying out his dearest wish, was to make the expedition to Terrenate in the Malucos, which should be done quickly, before the enemy could gather more strength than he had then; for he had been informed that the Dutch, who had seized the island and fortress of Amboino, had done the same with that of Tidore, whence they had driven the Portuguese who had settled therein, and had entered Terrenate, where they had established a trading-post for the clove-trade.
-
-Accordingly, as soon as the despatches in regard to this undertaking arrived from España, in June 1605, and the men and supplies from Nueva España, which were brought at the same time by the master-of-camp, Joan de Esquivel, the governor spent the balance of this year in preparing the ships, men, and provisions that he deemed necessary for the undertaking.
-
-Leaving behind in Manila sufficient force for its defense, he went to the provinces of Pintados, where the fleet was collected, in the beginning of the year six hundred and six.
-
+ <!-- from them, and which they needed. With these arms they flattered themselves that their object was more certain of accomplishment.  -->

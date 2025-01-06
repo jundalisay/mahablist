@@ -1,85 +1,102 @@
 ---
-heading: Chapter 7m
-title: "The Dutch"
+heading: Chapter 7k
+title: "Mendoza's Letter"
 date: 2024-09-22
-weight: 64
+weight: 60
 image: /photos/medieval/magellan.jpg
-description: "The Dutch interest in these regions is so vast -- the trade of clove and other drugs and spices"
+description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
 icon: /icons/sun.png
 ---
 
+<!-- For the rest of 1605, until ships could go to Castilla, [190] the governor repaired the city, and supplied it with provisions and ammunition, with the special object and care that the decision which he was awaiting from the court for making an expedition to Maluco—of which he had been advised and warned—should not find him so unprepared as to cause him to delay the expedition. 
+
+In this he was very successful, for at that same time, the master-of-camp, Joan de Esquivel, had arrived in Mexico with 600 soldiers from España. -->
 
 
-The Dutch interest in these regions is so vast -- the trade of clove and other drugs and spices.
+His Majesty had ordered the expedition to Maluco.
 
-They think that they will have a gateway there to rule the whole Orient.
+So Nueva España sent in March 1605 men, ammunition, food, money, and arms to Manila. 
 
-<!-- —that, overcoming all the toil and dangers of the voyage,  -->
-
-They continually come to these islands in greater numbers and with larger fleets. 
-
-<!-- If a very fundamental and timely remedy be not administered in this matter, it will increase to such an extent in a short time that afterward no remedy can be applied. -->
-
-The English and Flemish usually make this voyage by way of the strait of Magallanes.
-
-Francisco Draque [Drake] was the first to make it, and some years later Tomas Liscander [Candish or Cavendish], who passed by Maluco.
+<!-- - And so in Mexico, more men were being enrolled and a great preparation was made of , which the -->
 
 
-Lately pirate Oliver del Nort, a Fleming, made the voyage.
+<!-- All this arrived safely and in due season at Manila.
 
-The Spanish fleet fought his fleet in the Filipinas Islands, at the end of 1600.
+Shortly after the ships had left Manila for Nueva España.
 
-In this fight, after the capture of his almiranta (which was commanded by Lamberto Biezman) the flagship, having lost nearly all its crew fled.
+Those despatched thence by the viceroy had entered, Archbishop Don Fray Miguel de Benavides died of a long illness.
 
-<!-- And as it afterward left the Filipinas, and was seen in Sunda and the Java channels, so disabled, it seemed impossible for it to navigate, and that it would surely be lost, as was recounted above when treating of this. -->
+His body was buried amid the universal devotion and grief of the city. [191]  -->
 
-<!-- This pirate, although so crippled, had the good fortune to escape from the Spaniards, and, after great troubles and hardships,  -->
+<!-- , carrying out his dearest wish, was to make the expedition to Terrenate in the Malucos, which should be done quickly, before the enemy could gather more strength than he had then; for he had been informed that  -->
 
-He returned to Amstradam with his ship "Mauricio" with only 9 men on August 26, 1601.
 
-<!-- He wrote the relation and the events of his voyage, and gave plates of the battle and of the ships. This was afterward translated into Latin and printed by Teodoro de Bri, a German, at Francfort, in the year six hundred and two. Both relations are going the rounds, and the voyage is regarded as a most prodigious feat and one of so great hardships and perils. [207] -->
+The governor was informed that the Dutch had:
+- seized the island and fortress of Amboino and Tidore.
+- driven out the Portuguese
+- entered Terrenate, where they had established a trading-post for the clove-trade.
 
-Bartolome Perez, a pilot, gave the same news from the island of La Palma. 
+<!-- Accordingly, as soon as the despatches in regard to this undertaking arrived from España, in June 1605, and the men and supplies from Nueva España, which were brought at the same time by the master-of-camp, Joan de Esquivel, the governor spent the balance of this year in preparing the ships, men, and provisions that he deemed necessary for the undertaking.
 
-He, having come from England by way of Holanda, conversed with Oliver del Nort, and the latter narrated to him his voyage and sufferings, as mentioned by Licentiate Fernando de la Cueva in a letter from the island of La Palma, [208] on the last of July 1604, to Marcos de la Cueva, his brother, who was a resident of Manila, and one of the volunteers who embarked on the Spanish flagship which fought with the pirate. This letter is as follows.
+Leaving behind in Manila sufficient force for its defense, he went to the provinces of Pintados, where the fleet was collected, in the beginning of the year six hundred and six. -->
 
-I answer two of your Grace's letters in this: one dated July, six hundred and one, and the other July, six hundred and two.
+By March 15, the governor had thoroughly prepared the fleet—which consisted of:
+- 5 ships
+- 4 galleys with poop-lanterns [galeras de fanal]
+- 3 galliots
+- 4 champans
+- 3 funeas
+- 2 English lanchas
+- 2 brigantines
+- 1 barca chata [194] for the artillery
+- 13 fragatas with high freeboard.
 
-In both of them your Grace relates to me the shipwreck that befell you and how you saved yourself by swimming. 
+There were 1,300 Spaniards, counting regulars, captains and officers, substitutes [entretenidos], and volunteers. 
 
-Long before I saw your Grace's letters, I had learned of your mishap, whereat I was very anxious and even quite grieved; because of what was reported here, I imagined that your Grace had a part in it. 
+Among them were some Portuguese captains and soldiers, under charge of the chief captain of Tidore [195]
 
-Consequently, I was singularly overjoyed at the assurance that your Grace still possessed life and health. Having them, one can conquer other things; and without them human treasure has no value. By way of Flandes (whence ships come daily to this island), I learned much, nay, all the event, although not so minutely. For Oliver de Nort, who was the Dutch general, with whom the engagement occurred, arrived safely in Holanda, with eight men—and he made nine—and without money. 
+ <!-- who was at that island when the Dutch seized it. -->
 
-His purpose when he left the rebellious states of Holanda and Zelanda, with five armed vessels laden with merchandise—which were worth, principal and merchandise, one hundred and fifty or two hundred thousand ducados—was to trade and carry on commerce through the strait (and such were his orders), in whatever parts he should be, with friends or enemies. He was not to attack anyone, but only to defend himself and to incline the Indians to trade and exchange with him. 
+These Portuguese came from Malaca to serve in the expedition.
 
-All the vessels having reached the strait together, three of them became separated there because of storms, and must have been wrecked; for up to the present nothing has been heard of them. Having seen himself so abandoned, and that he could not restore his loss by trade, or else because he did not receive a hospitable reception from the inhabitants of Piru, he determined to exceed his orders, and make that voyage one of plundering. Accordingly he stationed himself at the mouth of the river to await ships. 
+There were also 400 Indian pioneers—Tagáls and Pampangos of Manila—who went to serve at their own cost, under their own officers, and with their own weapons.
 
-The rest that befell, your Grace knows. Oliver de Nort is a native of the city of Roterdam, and he reached it with an anchor of wood. [209] 
+<!-- There was a quantity of artillery of all kinds, ammunition, tools, and provisions for nine months. [196] , which is near the town of Arevalo in the island of Panai, [on the above day] with all this equipment, and  -->
 
-He had no other with which to anchor, nor indeed had he any other left. It is said that this is a very heavy wood of the Indias, and he has placed it at the door of his house, as a mark of distinction. He arrived, as I say, with nine men, all told, very much worn out, and as by a miracle.
+Don Pedro de Acuña left Hilohilo coasting the island of Mindanao, made port at La Caldera, in order to replenish his water, wood, and other necessaries.
 
-He has printed a book of his voyage, with engravings of his vessels, and many other details of what happened to him, and the hardships that they endured in the fight and throughout the voyage, both to show his own glory and to incite others to similar deeds.
+<!-- The governor embarked in the galley "Santiago" and took under his charge the other galleys and oared vessels.  -->
 
-A pilot of this island, one Bartolome Perez, was seized and taken to Inglaterra before the peace or truce. He came through Holanda, where he conversed at great length with Oliver. 
+The ship "Jesus Maria" was flagship commanded by Joan de Esquivel.
 
-The latter told him all that had happened to him, which is known to all, and was discussed in this island before that voyage. Bartolome Perez says that Oliver de Nort praised the Spaniards greatly, and said they were the bravest men he had seen in his life. 
+Captain and Sargento-mayor Cristoval de Azcueta Menchaca acted as admiral of the fleet, which, after attending to its necessities at La Caldera, left that port.
 
-They had gained the deck of his ship, and all the upper works, when he cried out from below deck to set fire to the powder, whereupon he believes that the Spaniards left for fear of being blown up. 
+But it was heavy and the currents drove it shoreward, grounding it. 
 
-The Dutch then had an opportunity to escape, but so crippled were they that their reaching port seems a miracle. The pilot says that he saw the anchor and the book, and what pertains to the book is stated here. 
+ <!-- so that, without the others being able to help it, it grounded. -->
 
-I have recounted this to your Grace, because of the statements in your letter, namely, that people considered them as lost, and so that so singular a case may be known there.
+It was wrecked there, but the crew, artillery, and a portion of its ammunition and clothing, were saved.
 
-The Dutch make the voyage more quickly and more safely, going and coming, by way of India, but not touching at its ports or coasts, until they reach the Javas: [210]
-- Java major
-- Java minor
-- Samatra
-- Amboino
-- the Malucas.
+It was burned so that the Mindanaos could not make use of them, the fleet continued its voyage.
 
-They know the district so well, and have experienced the immense profits from it. 
+<!-- , and taking what nails and bolts they could,  -->
 
-It will be difficult to drive them from the Orient, where they have inflicted so many losses in both spiritual and temporal affairs.
+The galleys coasted along the island of Mindanao. The ships and other deep-draught vessels sailed in the open sea, all making for the port of Talangame, in the island of Terrenate. 
 
-<!-- ¶ Relation of the Filipinas Islands and of their natives, antiquity, customs, and government, both during the period of their paganism and after their conquest by the Spaniards, and other details. -->
+The vessels experienced some changes of weather, first sighted the islands of Maluco.
+
+After they had been reconnoitered by a large Dutch ship, well equipped with artillery, which was anchored at Terrenate.
+
+This vessel fired some heavy artillery at our vessels, and then immediately entered the port, where it fortified itself under shelter of the land, and with its artillery and crew and the people of Terrenate.
+
+Esquivel went to the island of Tidore where he was well received by the Moro chiefs and cachils.
+- The king was away to the island of Bachan to be married.
+
+He found 4 Dutch factors there, who were trading for cloves.
+
+The ship at Terrenate was from Holland. It had sailed from Amboino and seized Tidore driving out the  Portuguese. It was being laden with cloves. 
+
+It was awaiting other vessels of its convoy. They had made friendship and treaties with Tidore and Terrenate, in order to be protected against the Castilians and Portuguese.
+
+Esquivel summoned the king of Tidore immediately. While awaiting Don Pedro de Acuña, rested his men and cleaned the ships, and made gabions and other things necessary for the war.
+
