@@ -99,7 +99,9 @@ Below this island [Mindanao], before reaching that of Borneo, lie the islands of
 
 However the most usual occupation is that of their navigations from island to island in pursuit of their trading and exchange, and their fisheries; while those who live nearest the island of Borneo are wont to go on piratical raids and pillage the natives in other islands.
 
-The flow- and ebb-tides, and the high and low tides among these islands are so diverse in them that they have no fixed rule, either because of the powerful currents among these islands, or by some other natural secret of the flux and reflux which the moon causes. No definite knowledge has been arrived at in this regard, for although the tides are highest during the opposition of the moon, and are higher in the month of March than throughout the rest of the year, there is so great variation in the daily tides that it causes surprise.
+The flow- and ebb-tides, and the high and low tides among these islands are so diverse in them that they have no fixed rule, either because of the powerful currents among these islands, or by some other natural secret of the flux and reflux which the moon causes.
+
+No definite knowledge has been arrived at in this regard, for although the tides are highest during the opposition of the moon, and are higher in the month of March than throughout the rest of the year, there is so great variation in the daily tides that it causes surprise.
 
 Some days there are two equal tides between day and night, while other days there is but one. At other times the flow during the day is low, and that of the night greater. They usually have no fixed hour, for it may happen to be high-tide one day at noon, while next day high-tide may be anticipated or postponed many hours.
 

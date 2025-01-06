@@ -188,6 +188,12 @@ He wrote that, in order to facilitate the above, Daifu had promised him that:
 - the governor should send him masters and workmen to build ships for the voyage from Japon to Nueva España
 - commerce and friendship with the viceroy of that country. 
 
-He said that Daifu had already given leave for religious to go to Japon, to christianize and to found churches and monasteries, and had given him a good site for a monastery in Miaco, where he was, and that the same would be done in other parts and regions of Japon in which they might wish to settle.
+He said that:
+- Daifu had already:
+  - given leave for religious to go to Japon, to christianize and to found churches and monasteries
+  - given him a good site for a monastery in Miaco, where he was
+- the same would be done in other parts of Japon where they might wish to settle.
 
-Fray Geronymo insidiously and cunningly added this last to Daifu's promise in order that he might incite the religious of the Filipinas to push the matter more earnestly before the governor and Audiencia, that they might agree to this more easily, in order not to lose the great results that Fray Geronymo said were set afoot.
+Fray Geronymo insidiously and cunningly added this last to Daifu's promise to incite the religious of the Filipinas to push the matter more earnestly before the governor and Audiencia.
+
+ <!-- that they might agree to this more easily, in order not to lose the great results that Fray Geronymo said were set afoot. -->
