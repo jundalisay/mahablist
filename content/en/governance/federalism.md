@@ -54,3 +54,32 @@ Instead of the old regions, we suggest 27 federal states that will have the foll
 - have at least 1 million people
 
 The [Bangsamoro](/laws/bbl/article-01) can be a template on how states will be created. 
+
+
+### Corruption Patterns
+
+The high corruption patterns are:
+- Centralized political parties + decentralized taxation
+- Decentralized constitution + centralized taxation
+- Decentralized constitution + decentralized political parties
+- Decentralized constitution + more levels of government
+- Decentralized taxation + more levels of government
+- Centralized constitution + Decentralized political parties + Centralized taxation (Philippines has this)
+
+The low corruption patterns are:
+- Centralized constitution + decentralized taxation (US)
+- Decentralized taxation = low corruption 
+
+“The results for these variables are consistent with earlier research fiscal decentralisation is associated with lower corruption ratings” 
+
+The benefits of federalism, specifically decentralized taxation, has already been proven by studies. The bureaucracy that you mentioned is called spatial decentralization which reduces corruption initially, but increases it if the law-making capacity is also decentralized. You can see this in lobbying in the US. 
+
+The Philippine version of federalism is:
+- Decentralized constitution + Decentralized political parties + Decentralized taxation
+<!-- - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.8875&rep=rep1&type=pdf -->
+
+Canada and the US are in the top20 low corruption countries in the Corruption perceptions index and are both federal. A paper shows that decentralized taxation (federal taxation) consistently reduces corruption. 
+
+So the current PH situation is high corruption: Centralized constitution + Decentralized political parties + Centralized taxation = high corruption
+
+The PH version of federalism is: Decentralized constitution + Decentralized political parties + Decentralized taxation

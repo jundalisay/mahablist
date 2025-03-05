@@ -10,6 +10,21 @@ icon: /icons/sun.png
 ---
 
 
+<!-- The British built the railroad. 
+
+https://en.wikipedia.org/wiki/Manila_Railroad_Company
+
+Spanish built electric lines and water works. 
+
+https://en.wikipedia.org/wiki/El_Deposito
+
+The Spanish did neglect investments and infrastructure. But even natives, Chinese-Filipinos, or British-Filipinos could have done better. 
+
+The American design for Metro Manila and Quezon City was short sighted and is the cause of so many problems. 
+
+Britain would have been a better colonizer. But the best would have been to have no colonizer at all. An example is Taiwan which had a short colonization period.  -->
+
+
 The Atlantic wrote an article about [General Pershing in the Philippines](https://www.theatlantic.com/international/archive/2017/08/pershing-trump-terrorism/537300/) as part of the American pacification campaign. 
 
 

@@ -83,4 +83,18 @@ They were conned by the authors of the Rice Tariffication Law.
 
 https://www.facebook.com/100064616655120/posts/1023586816471864/
 
-turn the rice industry into the oil industry.  was still in the business of nonprofit rice trading.  -->
+turn the rice industry into the oil industry.  was still in the business of nonprofit rice trading.  
+
+The Philippines’ rice system has significantly declined since the 1983 economic crisis. On the supply side, irrigation and dams are inadequate and cartels control the distribution, causing production at high prices. On the demand side, the population has ballooned to over 100 million which reduces purchasing power since revenue must be divided among more people. Unable to increase production or defeat the cartel, Duterte goes for importation. This is precisely the cure against hoarders who will be stuck with expensive but unsellable stocks. So the cartel, by bribing the Food Council, attacks Duterte’s NFA. Duterte fights back by sacking the head of the Food Council. But instead of being a temporary measure, the importation will become a permanent policy through the rice tariffication bill which will eliminate quotas in favor of the WTO. 
+ 
+Quota elimination is a sure way to destroy a country’s agriculture. Britain repealed its quotas in 1846, which caused British agriculture to decline and it ended up importing from the US. Britain nearly starved in 1914 when German U-boats cut off this flow of food. This policy was reversed with the EU Common Agricultural Policy.
+
+Low tariffs are also bad. Mexico removed its rice tariffs after the 2008 food crisis and ended up destroying its own agriculture to the point that it had to raise tariffs to 20% in 2015. 
+
+The tariffication bill will expose the country to future food crises. The root of the problem is the neoliberal / mercantile idea that food can be treated like manufactured goods (something for profit), so governments make them tradeable. But a person can survive without manufactured goods but cannot survive without food. So in realty, the policy of food should be more similar to the policy on immigration — and this is precisely what the EU has (a Frenchman can go to Germany to eat and vice versa). 
+
+http://ibon.org/2018/08/%E2%80%8Bwhy-rice-tariffication-does-not-guarantee-lower-rice-prices/
+
+1982 National Grains Retailers Board - marketing arm of NFA. Sells NFA rice 8% of pop
+No stocks of NFA because prices were low 
+-->
